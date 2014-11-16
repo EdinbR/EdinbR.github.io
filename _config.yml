@@ -5,16 +5,16 @@ highlighter: pygments
 # Site settings
 title: "Edinburgh R Usergroup"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Local meetups and training for the R programming language
 
 email: info@edinbr.org
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/edinbr_300.png"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/edin.png"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'EdinbR'
+author: 'EdinbR'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
