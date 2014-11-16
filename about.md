@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+EdinbR is the Edinburgh usergroup for the R programming language, started by researchers at the [University of Edinburgh](http://www.ed.ac.uk/home). The aim of the group is to bring together scientists, statisticians and programmers from all over Edinburgh to discuss R related matters and learn from each other. The group will also encourage collaboration between local R developers and organise training events for those interested in learning the language.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+EdinbR meets every other month and welcomes new attendees, regardless of R knowledge. The group organisers can be reached via the [public mailing list](https://groups.google.com/forum/#!forum/edinbr) or through twitter at [@edinb_r](http://twitter.com/edinb_r).
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We are looking for sponsors and partnerships, if interested please contact us as [admin@edinbr.org](mailto:admin@edinbr.org).
