@@ -49,6 +49,10 @@ social:
     share_title:
     share_link:
 
+  - icon: linkedin
+    url:  https://www.linkedin.com/groups/Edinburgh-R-users-8204489
+    desc: Join the LinkedIn group
+
 #  - icon:	google-plus
 #    url:	https://google.com/???
 #    desc:	Add me on google+
