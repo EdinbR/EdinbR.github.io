@@ -15,7 +15,7 @@ cover: "/assets/images/edin.png"
 
 name: 'EdinbR'
 author: 'EdinbR'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/edinbr_300.png"
 
 paginate:	5
 
@@ -24,6 +24,10 @@ baseurl: ""
 
 # social icons and sharing options
 social:
+  # - icon: envelope
+  #   url:  https://groups.google.com/forum/#!forum/edinbr
+  #   desc: Mailing list
+
   - icon:	twitter
     url:	https://twitter.com/edinb_r
     desc: Follow me on twitter
