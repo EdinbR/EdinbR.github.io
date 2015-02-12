@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Edinburgh R Usergroup"
+title: "EdinbR: The Edinburgh R Usergroup"
 description: > # this means to ignore newlines until "email:"
    Local meetups and training for the R programming language
 
@@ -30,7 +30,7 @@ social:
 
   - icon:	twitter
     url:	https://twitter.com/edinb_r
-    desc: Follow me on twitter
+    desc: Follow EdinbR on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
@@ -44,14 +44,14 @@ social:
 
   - icon:	github
     url:	https://github.com/EdinbR
-    desc:	Fork me on github
+    desc:	Fork EdinbR on github
     share_url:
     share_title:
     share_link:
 
   - icon: linkedin
     url:  https://www.linkedin.com/groups/Edinburgh-R-users-8204489
-    desc: Join the LinkedIn group
+    desc: Join the EdinbR LinkedIn group
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
