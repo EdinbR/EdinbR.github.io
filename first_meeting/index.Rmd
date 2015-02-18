@@ -109,5 +109,5 @@ Ergo:
 ```{r eval=F, echo=F}
 library("slidify")
 library("slidifyLibraries")
-slidify("~/Presentations/EdinbR_Feb18_2015/index.Rmd")
+slidify("index.Rmd")
 ```
