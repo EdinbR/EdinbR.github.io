@@ -8,4 +8,4 @@ EdinbR is the Edinburgh usergroup for the R programming language, started by res
 
 EdinbR meets every other month and welcomes new attendees, regardless of R knowledge. The group organisers can be reached via the [public mailing list](https://groups.google.com/forum/#!forum/edinbr) or through twitter at [@edinb_r](http://twitter.com/edinb_r).
 
-We are looking for sponsors and partnerships, if interested please contact us as [admin@edinbr.org](mailto:admin@edinbr.org).
+We are looking for sponsors and partnerships, if interested please contact us as [info@edinbr.org](mailto:info@edinbr.org).
