@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "March Edinbr meeting"
+title:  "March EdinbR meeting"
 date:   2015-03-11 15:00:00
 categories: edinbr
 tags:   announcements
-image: 
+image:
 author: ben_moore
 ---
 
-I'm pleased to announce the March meeting of Edinbr! Here are the details:
+I'm pleased to announce the March meeting of EdinbR! Here are the details:
 
 >Wednesday **18<sup>th</sup> March** 2015, **5-6pm** in room LT1, **7 Bristo Square**
 
-This meeting we have two great short talks, interspersed with some words from the organisers on the results of our [survey](http://edinbr.org/edinbr/2015/02/22/edinbr-survey.html) and other announcements. Here's the rough schedule:
+This meeting we have two great short talks, interspersed with some words from the organisers on the results of our [survey](http://edinbr.org/edinbr/2015/02/22/edinbr-survey.html) and other announcements. The schedule is:
 
 * Talk: **Intro to ggplot2** by Christophe Ladroue (15-20 mins)
 * EdinbR survey results and announcements (5-10 mins)
