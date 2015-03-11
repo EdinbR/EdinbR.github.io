@@ -8,7 +8,7 @@ The attached [wiki](https://github.com/EdinbR/EdinbR.github.io/wiki) is currentl
 
 ## Contributing
 
-This blog allows for per-post author attribution, and we're happy to accept community contributions as pull requests (e.g. your slides and notes from a talk you gave at EdinbR!). 
+This blog allows for per-post author attribution, and we're happy to accept community contributions as pull requests (e.g. your slides or notes from a talk at EdinbR!). 
 
 Add your details to [the authors.yml file](_data/authors.yml) in this format:
 
@@ -17,6 +17,6 @@ author_id:                                 # pick an id, use this in your post Y
   name: Your Name                          # name to display
   email: you@your.email                    # optional, will include mailto link in post footer
   twitter: https://twitter.com/yourtwitter # optional, will add link in footer
-  image: an_image.jpg                      # small img to show next to name, put in dir: assets/images
-  bio: A sentence or two on who you are!
+  image: an_image.jpg                      # optional small byline img, put in: assets/images/
+  bio: A sentence or two on who you are!   # optional
 ```
