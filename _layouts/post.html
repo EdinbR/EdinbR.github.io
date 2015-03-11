@@ -82,7 +82,7 @@
             <div class="cf post-meta-text">
               {% if author %}
                 {% if author.image %}
-                  <div class="author-image" style="background-image: {{ site.url }}/assets/images/{{ author.image }}">Author</div>
+                  <div class="author-image" style="background-image: url({{ site.url }}/assets/images/{{ author.image }})">Author</div>
                 {% else %}
                   <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
                 {% endif %}
