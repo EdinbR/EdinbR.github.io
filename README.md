@@ -15,8 +15,8 @@ Add your details to [the authors.yml file](_data/authors.yml) in this format:
 ```yaml
 author_id:                                 # pick an id, use this in your post YAML
   name: Your Name                          # name to display
-  email: you@your.email                    # optional, will include mailto link in post footer
+  email: you@your.email                    # optional, will include mailto link
   twitter: https://twitter.com/yourtwitter # optional, will add link in footer
-  image: an_image.jpg                      # optional small byline img, put in: assets/images/
+  image: an_image.jpg                      # optional small byline img from assets/images/
   bio: A sentence or two on who you are!   # optional
 ```
