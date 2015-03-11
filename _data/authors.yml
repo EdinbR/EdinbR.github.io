@@ -1,0 +1,14 @@
+# default author
+edinbr:
+  name: EdinbR
+  email: info@edinbr.org
+  web: http://edinbr.org
+
+# n.b. image goes under assetts/image
+
+# other authors
+ben_moore:
+  name: Ben Moore
+  email: ben@edinbr.org
+  twitter: http://twitter.com/benjaminlmoore
+  image: blm.png
