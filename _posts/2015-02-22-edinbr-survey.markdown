@@ -5,8 +5,6 @@ date:   2015-02-22 15:00:00
 categories: edinbr
 tags:
 image:
-author: EdinbR
-author_image: edinbr_300.png
 ---
 
 During our great [first meeting](http://edinbr.org/edinbr/2015/01/30/our-first-meeting.html), we decided it would be good to poll more widely on the best time, days and venues for meetings. We'd like as many people who are interested to be able to attend, so it's important to get the details right from the outset!

@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "March Edinbr meeting"
-date:   2015-03-10 15:00:00
+date:   2015-03-11 15:00:00
 categories: edinbr
 tags:   announcements
-image:
+image: 
 author: ben_moore
-author_image: https://avatars2.githubusercontent.com/u/2961106?v=3&s=460
-
 ---
 
 I'm pleased to announce the March meeting of Edinbr! Here are the details:
@@ -20,7 +18,7 @@ This meeting we have two great short talks, interspersed with some words from th
 * EdinbR survey results and announcements (5-10 mins)
 * Talk: **How (not) to get your package accepted by CRAN** by David Sterratt (15-20 mins)
 
-Full descriptions of the talks will be posted to the the [mailing list](https://groups.google.com/forum/#!forum/edinbr) — please do sign up there not already receiving our emails!
+Full descriptions of the talks will be posted to the the [mailing list](https://groups.google.com/forum/#!forum/edinbr) — please do sign up there if you're not already receiving our emails!
 
 Due to room availability there's a small change from our [first meeting](http://edinbr.org/edinbr/2015/01/30/our-first-meeting.html): we're moving round the corner to [7 Bristo Square](http://www.ed.ac.uk/schools-departments/estates-buildings/buildings-information/a-z-buildings-list?id=109&cw_xml=Building_profile.cfm). Google maps thinks it's a three-minute walk from 7 George Square where we were based last time:
 

@@ -19,7 +19,7 @@
             <div class="cf post-meta-text">
               {% if author %}
                 {% if author.image %}
-                  <div class="author-image" style="background-image: {{ site.url }}/assets/images/{{ author.image }}">Author</div>
+                  <div class="author-image" style="background-image: url({{ site.url }}/assets/images/{{ author.image }})">Author</div>
                 {% else %}
                   <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
                 {% endif %}
@@ -126,7 +126,7 @@
             <section class="author">
               <!-- allow for per-post author images -->
               {% if author %}
-                <div class="author-image" style="background-image: url({{page.author_image}})">Blog Logo</div>
+                <div class="author-image" style="background-image: url({{ site.url }}/assets/images/{{ author.image }})">Blog Logo</div>
                 <h4>{{ author.name }} <sup><span style="font-size: .7rem;">
                 {% if author.twitter %}
                   <a href="{{ author.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
