@@ -24,9 +24,9 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-  # - icon: envelope
-  #   url:  https://groups.google.com/forum/#!forum/edinbr
-  #   desc: Mailing list
+  - icon: envelope
+    url:  https://groups.google.com/forum/#!forum/edinbr
+    desc: Mailing list
 
   - icon:	twitter
     url:	https://twitter.com/edinb_r
