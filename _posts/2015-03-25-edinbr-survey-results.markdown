@@ -14,7 +14,7 @@ Thank you to everyone who filled in the [EdinbR survey](http://edinbr.org/edinbr
 
 <img src="{{ site.baseurl }}/assets/images/survey_1.png" />
 
-It looks like the majority of our audience would describe themselves as having an "intermediate" level of R knowledge, but there's also a good number of beginners too. The overall number of potential attendees is promising too: 43 said they'd attend either every meeting or most meetings!
+It looks like the majority of our audience would describe themselves as having an "intermediate" level of R knowledge, but there's a good number of beginners too. The overall number of attendees is promising too: 43 said they'd attend either every meeting or most meetings!
 
 ### When's the best time and day for meetings?
 
@@ -32,7 +32,7 @@ Regardless this result means we'll stick with Wednesdays at 5pm for now.
 
 <img src="{{ site.baseurl }}/assets/images/survey_5.png" />
 
-Again strong support for the status quo: George square (and Bristo square, informatics etc.) are nice, central locations which are a great for those based in the city centre and a good compromise for those further afield, such as  EdinbR attendees from the [IGMM](http://www.igmm.ed.ac.uk/) or [King's Buildings](https://en.wikipedia.org/wiki/King%27s_Buildings).
+Again strong support for the status quo: George square (and Bristo square, informatics etc.) are nice, central locations which are ideal for those based in the city centre and a decent compromise for those further afield, such as  EdinbR attendees from the [IGMM](http://www.igmm.ed.ac.uk/) or [King's Buildings](https://en.wikipedia.org/wiki/King%27s_Buildings).
 
 
 ### What do we want to hear about?
