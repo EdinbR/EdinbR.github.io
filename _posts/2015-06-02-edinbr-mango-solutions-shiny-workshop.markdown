@@ -21,6 +21,8 @@ Attendees will need to **bring a laptop** to work on! We also recommend you have
 * The [shiny](http://cran.r-project.org/web/packages/shiny/index.html) R package
 * You may also want to make an account on [shinyapps.io](http://www.shinyapps.io/)
 
+If attendees could arrive 15 or so minutes before the start time we can get any troubleshooting out of the way and be ready for a prompt start at 5!
+
 ## Sign-up
 
 The workshop is free to attend but space is reasonably limited so we're asking that you sign-up if you want to come along, as always anyone is welcome:
