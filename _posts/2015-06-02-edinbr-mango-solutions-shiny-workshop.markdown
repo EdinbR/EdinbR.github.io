@@ -8,7 +8,7 @@ image:
 author: edinbr
 ---
 
-We're very excited to announce the next EdinbR meeting: a webinar workshop on [Shiny](http://shiny.rstudio.com/) delivered by Andy Nicholls, Head R Consultant at [Mango Solutions](http://www.mango-solutions.com/)!
+We're very excited to announce the next EdinbR meeting: a webinar workshop on [Shiny](http://shiny.rstudio.com/) delivered by Chris Campbell, Senior R Consultant at [Mango Solutions](http://www.mango-solutions.com/)!
 
 The workshop will be at:
 
