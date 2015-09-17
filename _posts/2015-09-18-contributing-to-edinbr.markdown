@@ -4,7 +4,7 @@ title:  "A quick guide to contributing to edinbr.org"
 date:   2015-09-18 14:00:00
 categories: edinbr
 tags:   how-to guide
-image:
+image:  /assets/images/edinbr_meet.jpg
 author: ben_moore
 ---
 
