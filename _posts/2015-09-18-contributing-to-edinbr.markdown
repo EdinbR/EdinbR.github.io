@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide: contributing to edinbr.org"
+title:  "A quick guide to contributing to edinbr.org"
 date:   2015-09-18 14:00:00
 categories: edinbr
 tags:   how-to guide
@@ -27,7 +27,7 @@ Writing a new post can be done without any knowledge of the [git version control
 ![Creat a pull request when you've finished your post and want it to go live on the site]({{ site.baseurl }}/assets/images/edinbr_createpullreq.png)
 + That's it! The pull request is complete, and notifications will go out to those watching the repository. Someone with write access will then merge your changes with the master branch of the repository. (Even if you have write access yourself, it can still be a good idea to work through pull requests: you let everyone know what's being added and give the chance for comments and discussion before going live.)
 
-If you're get stuck along the way, you can open a [new issue](https://github.com/EdinbR/EdinbR.github.io/issues) at the website repository and ask for some help.
+If you get stuck along the way, you can open a [new issue](https://github.com/EdinbR/EdinbR.github.io/issues) at the website repository and ask for some help.
 
 ## More advanced: fork a local git repository
 
