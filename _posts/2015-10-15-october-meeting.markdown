@@ -10,7 +10,7 @@ author: edinbr
 
 The next EdinbR meeting will be:
 
-> Wednesday **October 22nd**, 5-6pm in S1, **7 George Square**
+> Wednesday **October 21st**, 5-6pm in S1, **7 George Square**
 
 This month's meeting will be a little different from usual. First, we're going to have lightning talks.
 
