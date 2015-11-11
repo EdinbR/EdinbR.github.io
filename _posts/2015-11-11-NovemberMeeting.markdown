@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EdinbR November: How to code well."
+title:  "EdinbR November: Good Coding Practice"
 date:   2015-11-11
 categories: edinbr
 tags:   announcement
