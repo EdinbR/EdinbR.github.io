@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EdinbR is 1!"
+title:  "EdinbR is 1! Survey & call for speakers."
 date:   2016-02-02
 categories: edinbr
 tags:   announcement
