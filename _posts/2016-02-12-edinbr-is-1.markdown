@@ -7,11 +7,31 @@ tags:   announcement
 image:
 author: edinbr
 ---
-This February's meeting (5pm, 17th Feb, S1 in 7 George Square) will mark the first anniversary of EdinbR. We're very grateful to all of you for making the group a success, and are indebted to those of you who have contributed no fewer than 20 excellent talks. Thank you! 
+This February's meeting 
 
-A number of you have approached us with various suggestions and comments on how we could improve EdinbR. We've created a short 5 min survey and would appreciate if you took the time to answer [here](http://bit.ly/1PQLW8K).
+> Wednesday **Febuary 17th**, 5-6pm in S1, 7 George Square.
 
-Finally, as always, we are still looking for speakers for February to April, so if you have a 20/25/50 minute talk or tutorial you could contribute, please contact [Mhairi](mhairihmcneill@gmail.com) with your idea and we'll endeavour to make it happen. 
+will mark the first anniversary of EdinbR. We're very grateful to all of you for making the group a success, and are indebted to those of you who have contributed no fewer than 20 excellent talks. Thank you! 
+
+A number of you have approached us with various suggestions and comments on how we could improve EdinbR. We've created a short 5 min survey and would appreciate if you took the time to answer [here](http://bit.ly/1PQLW8K).t
+
+We have two speaks lined up for Febuary:
+
+* Jeremy Darot, Scottish Government / Greener Leith (greenerleith.org.uk) : The Edinburgh Open Data Map
+
+> The shiny package provides a nice framework for developing web apps entirely in R (no JavaScript required). I will give a demo of the Edinburgh Open Data Map (myleith.wordpress.com), which brings together several local datasets using shiny and leaflet.
+
+* Dave Evans, FreeAgent : Behaviour driven development
+
+> Programatic testing is a common practice in the software industry that rarely seems to permeate into scientific analysis code. In this talk I'll explore how programatic testing doesn't have to be time consuming and can improve both the accuracy and quality of even simple analysis code.
+
+For any newcomers (you're very welcome!), here's a map of we'll be.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.2857959093512!2d-3.1896144261229358!3d55.944418290254944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c7837b340937%3A0xaf82184629da8aed!2s7+George+Square%2C+Edinburgh+EH8!5e0!3m2!1sen!2suk!4v1447278868342" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Meetings are open for all to attend (e.g. no University of Edinburgh card required). Hope to see you there!
+
+Finally, as always, we are looking for speakers so if you have a 20/25/50 minute talk or tutorial you could contribute, please contact [Mhairi](mhairihmcneill@gmail.com) with your idea and we'll endeavour to make it happen. 
 
 Best wishes and thanks again, 
 
