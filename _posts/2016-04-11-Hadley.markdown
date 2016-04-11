@@ -7,13 +7,14 @@ tags:   announcement
 image:
 author: tbates
 ---
-April meeting 
 
 # Hadley Wickham: Managing many models with R 
 
 [Hadley Wickham](http://hadley.nz) will be speaking at EdinbR at Noon, on Saturday the 30th of April.
 
 This should be a great talk and a (catered) networking opportunity for all.
+
+The venue will be in the George Square area and will be confirmed soon. We ask that you register at the EventBrite link [here](https://www.eventbrite.co.uk/e/edinbr-special-session-guest-hadley-wickham-tickets-24055271966).
 
 **Abstract**: Visualisation alone is not enough to solve most data analysis challenges. The data may be too big or too messy to show in a single plot. In this talk, I'll outline my current thinking about how the synthesis of visualisation, modelling, and data manipulation allows you to effectively explore and understand large and complex datasets. There are three key ideas: 
 
@@ -23,14 +24,5 @@ This should be a great talk and a (catered) networking opportunity for all.
 
 This work is embedded in R so I'll not only talk about the ideas, but show concrete code for working with large sets of models. You'll see how you can combine the [dplyr](http://cran.rstudio.com/web/packages/dplyr) and [purrr](http://cran.rstudio.com/web/packages/purrr) packages to fit many models, then use [tidyr](http://cran.rstudio.com/web/packages/tidy) and [broom](http://cran.rstudio.com/web/packages/broom) to convert to tidy data which can be visualised with [ggplot2]((http://cran.rstudio.com/web/packages/ggplot2)).
 
-For any newcomers (you're very welcome!), here's a map of we'll be.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.2857959093512!2d-3.1896144261229358!3d55.944418290254944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c7837b340937%3A0xaf82184629da8aed!2s7+George+Square%2C+Edinburgh+EH8!5e0!3m2!1sen!2suk!4v1447278868342" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Meetings are open for all to attend (e.g. no University of Edinburgh card required). Hope to see you there!
-
-Best wishes and thanks again, 
-
-EdinbR Team
-
-Tim, Susie, Victoria, Mhairi, Caterina (& Ben!).
