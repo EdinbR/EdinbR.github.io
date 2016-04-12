@@ -1,6 +1,5 @@
 # Build settings
-markdown: redcarpet
-highlighter: pygments
+# github highlights with rouge and marks-up with kramdown (We used to use pygments and redcarpet)
 
 # Site settings
 title: "EdinbR: The Edinburgh R Usergroup"
