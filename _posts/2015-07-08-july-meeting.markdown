@@ -8,7 +8,7 @@ image:
 author: edinbr
 ---
 
-As you may have seen on our [mailing list](ps.google.com/forum/#!forum/edinbr), there's no EdinbR meeting this month (July 2015). There's two (probably related) reasons for this: a lot of people are away at conferences or on holiday and we have no volunteer speakers!
+As you may have seen on our [mailing list](https://groups.google.com/forum/#!forum/edinbr), there's no EdinbR meeting this month (July 2015). There's two (probably related) reasons for this: a lot of people are away at conferences or on holiday and we have no volunteer speakers!
 
 EdinbR will be back August 19<sup>th</sup> (third Wednesday of the month) at 7 George Square, we'll announce the details nearer the time.
 
