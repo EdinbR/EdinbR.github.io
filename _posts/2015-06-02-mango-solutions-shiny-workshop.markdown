@@ -38,7 +38,7 @@ As mentioned we'll be in [Appleton Tower](http://www.ed.ac.uk/schools-department
 
 ## Background
 
-If you didn't manage to make our [last meeting](http://edinbr.org/edinbr/2015/05/13/edinbr-may-meeting.html), we had a great talk from Alastair Kerr giving an introduction to Shiny, you can see the slides [here](https://github.com/EdinbR/edinbr-talks/blob/master/2015-05-20/Kerr_IntroductionToRShiny.pdf). There's also a load of great articles and tutorials on the [Shiny website](http://shiny.rstudio.com/).
+If you didn't manage to make our [last meeting](http://edinbr.org/edinbr/2015/05/13/may-meeting.html), we had a great talk from Alastair Kerr giving an introduction to Shiny, you can see the slides [here](https://github.com/EdinbR/edinbr-talks/blob/master/2015-05-20/Kerr_IntroductionToRShiny.pdf). There's also a load of great articles and tutorials on the [Shiny website](http://shiny.rstudio.com/).
 
 
 ## Questions
