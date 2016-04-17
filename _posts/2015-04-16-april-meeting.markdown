@@ -12,7 +12,7 @@ The next EdinbR meeting will be:
 
 > Wednesday **April 22nd**, 5-6pm in S1, **7 George Square**
 
-Note this is the same location as our [February meeting](http://edinbr.org/edinbr/2015/01/30/edinbr-our-first-meeting.html), and just round the corner from Bristo square where we were [last time](http://edinbr.org/edinbr/2015/03/11/march-meeting.html):
+Note this is the same location as our [February meeting](http://edinbr.org/edinbr/2015/01/30/our-first-meeting.html), and just round the corner from Bristo square where we were [last time](http://edinbr.org/edinbr/2015/03/11/march-meeting.html):
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.2888876703746!2d-3.1892457999999544!3d55.9443647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c78367403f5b%3A0x342d6b9392ffecc6!2s7+George+Square%2C+The+University+of+Edinburgh%2C+Edinburgh%2C+City+of+Edinburgh+EH8+9JZ!5e0!3m2!1sen!2suk!4v1422630144560" width="500" height="450" frameborder="0" style="border:0; margin: 0 auto; display: block;"></iframe>
 
