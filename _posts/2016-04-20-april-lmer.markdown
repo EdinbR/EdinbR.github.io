@@ -14,7 +14,7 @@ Our next meeting will take place on Wednesday 20th April, **5.30pm** in Room LG.
 
 **Note different venue!!**: [map here](https://goo.gl/maps/bHaWbxoYLs22)
 
-Ian White will talk about [Mixed-effects models](https://en.wikipedia.org/wiki/Mixed_model) in <a href"https://en.wikipedia.org/wiki/R_(programming_language)">R</a>.
+Ian White will talk about [Mixed-effects models](https://en.wikipedia.org/wiki/Mixed_model) in <a href ="https://en.wikipedia.org/wiki/R_(programming_language)">R</a>.
 
 *Abstract*: Following a short review of available packages, I will give some illustrative examples of data for which the mixed model might be appropriate, and discuss the analysis of these data with either *lme* (in
 package [nlme](https://cran.r-project.org/package=nlme) or *lmer* (in package [lme4](https://cran.r-project.org/web/packages/lme4).
