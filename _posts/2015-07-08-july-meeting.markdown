@@ -12,7 +12,7 @@ As you may have seen on our [mailing list](ps.google.com/forum/#!forum/edinbr), 
 
 EdinbR will be back August 19<sup>th</sup> (third Wednesday of the month) at 7 George Square, we'll announce the details nearer the time.
 
-Anyone is welcome to speak at EdinbR, you needn't be an "expert" in the language (as we saw from [our survey](http://edinbr.org/edinbr/2015/03/25/edinbr-survey-results.html), the majority of members sefl-describe as being R beginners or intermediate), so if you have a topic in mind you're interested in why not sign up to give a talk?
+Anyone is welcome to speak at EdinbR, you needn't be an "expert" in the language (as we saw from [our survey](http://edinbr.org/edinbr/2015/03/25/edinbr-survey-results.html), the majority of members self-describe as being beginner or intermediate level R users), so if you have a topic in mind you're interested in why not sign up to give a talk?
 
 If you're stuck for ideas, here is a popularity ranking of some potential R talk topics, again from [our survey](http://edinbr.org/edinbr/2015/03/25/edinbr-survey-results.html) a few months back:
 
