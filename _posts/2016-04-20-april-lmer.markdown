@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "mixed models with lmer and lme"
-date:   2016-04-20
+date:   2016-04-11
 categories: edinbr
 tags:   announcement
 image:
