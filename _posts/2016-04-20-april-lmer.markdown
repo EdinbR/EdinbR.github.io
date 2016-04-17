@@ -8,7 +8,7 @@ image:
 author: tbates
 ---
 
-# Hadley Wickham: Managing many models with R 
+# Multi-level models in R
 
 Our next meeting will take place on Wednesday 20th April, **5.30pm** in Room LG.11 in David Hume Tower in the south-east corner of George Square 
 
