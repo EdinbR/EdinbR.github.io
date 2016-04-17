@@ -18,7 +18,7 @@ We have five speakers lined up, who'll each talk for five minutes and you can as
 
 - Christophe Ladroue: "Write a closure and make your life easier" 
 - Martin Graham: “Using R for topic modelling”
-- Guillaume Devailly: "Interactive heatmaps in R with d3heatmap and plotly" [pdf](http://edinbr.org/assets/talks/2015 Oct InteractiveHeatmapsR)
+- Guillaume Devailly: "Interactive heatmaps in R with d3heatmap and plotly" [pdf](http://edinbr.org/assets/talks/2015 Oct InteractiveHeatmapsR.pdf)
 - Dave Evans: "Applied non-negative matrix factorisation"
 - Rene Mottus: "Using stepwise multi-levels models vs multi-level models with LASSO penalization to analyse relatively high-dimensional nested data" 
 
