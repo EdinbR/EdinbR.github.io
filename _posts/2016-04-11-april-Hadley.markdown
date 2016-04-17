@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Special talk: Hadley Wickham 30th April"
-date:   2016-04-11
+date:   2016-04-30
 categories: edinbr
 tags:   announcement
 image:
