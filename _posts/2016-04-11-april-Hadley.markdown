@@ -24,7 +24,7 @@ The venue will be in the George Square area and will be confirmed soon.
 2. Using purrr to use function programming tools instead of writing for loops.
 3. Visualising models by converting them to tidy data with broom, by David Robinson. 
 
-This work is embedded in R so I'll not only talk about the ideas, but show concrete code for working with large sets of models. You'll see how you can combine the [dplyr](http://cran.rstudio.com/web/packages/dplyr) and [purrr](http://cran.rstudio.com/web/packages/purrr) packages to fit many models, then use [tidyr](http://cran.rstudio.com/web/packages/tidy) and [broom](http://cran.rstudio.com/web/packages/broom) to convert to tidy data which can be visualised with [ggplot2]((http://cran.rstudio.com/web/packages/ggplot2)).
+This work is embedded in R so I'll not only talk about the ideas, but show concrete code for working with large sets of models. You'll see how you can combine the [dplyr](https://cran.rstudio.com/web/packages/dplyr) and [purrr](https://cran.rstudio.com/web/packages/purrr) packages to fit many models, then use [tidyr](https://cran.rstudio.com/web/packages/tidyr) and [broom](https://cran.rstudio.com/web/packages/broom) to convert to tidy data which can be visualised with [ggplot2]((http://cran.rstudio.com/web/packages/ggplot2)).
 
 
 Meetings are open for all to attend (e.g. no University of Edinburgh card required). Hope to see you there!
