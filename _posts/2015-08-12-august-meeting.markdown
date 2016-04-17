@@ -13,7 +13,7 @@ The next EdinbR meeting will be:
 
 > Wednesday **August 19th**, 5-6pm in S1, **7 George Square**
 
-EdinbR is back after our [short break](http://edinbr.org/edinbr/2015/07/08/edinbr-july-meeting.html) and we have two great talks lined up:
+EdinbR is back after our [short break](http://edinbr.org/edinbr/2015/07/08/july-meeting.html) and we have two great talks lined up:
 
 * **Hadley Wickham's "dplyr"** by [Kevin O'Brien](https://twitter.com/dragonflystats) (Statistician and organiser of DublinR) <br />
   [dplyr](http://blog.rstudio.org/2014/01/17/introducing-dplyr/) is a new package which provides a set of tools for efficiently manipulating datasets in R. dplyr makes it easy to carry out the most common data manipulation operations in an intuitive manner, and is very accessible for novice users. I also look at the magrittr R package and demonstrate how it can change the way R code is written. I will describe how these packages are useful in the area of official statistics and economic statistics.

@@ -13,7 +13,7 @@ The next EdinbR meeting will be:
 
 > Wednesday **May 20th**, 5-6pm in S1, **7 George Square**
 
-We decided [last meeting](http://edinbr.org/edinbr/2015/04/16/edinbr-april-meeting.html) that 7 George Square would be our permanent venue for the time being, so we've booked a few meetings in advance for the **3rd Wednesday of each month**, if you want to mark these in your diaries those dates will be:
+We decided [last meeting](http://edinbr.org/edinbr/2015/04/16/april-meeting.html) that 7 George Square would be our permanent venue for the time being, so we've booked a few meetings in advance for the **3rd Wednesday of each month**, if you want to mark these in your diaries those dates will be:
 
 1. May 20th
 2. June 17th
