@@ -9,19 +9,19 @@ author: edinbr
 ---
 This February's meeting 
 
-> Wednesday **Febuary 17th**, 5-6pm in S1, 7 George Square.
+> Wednesday **February 17th**, 5-6pm in S1, 7 George Square.
 
 will mark the first anniversary of EdinbR. We're very grateful to all of you for making the group a success, and are indebted to those of you who have contributed no fewer than 20 excellent talks. Thank you! 
 
 A number of you have approached us with various suggestions and comments on how we could improve EdinbR. We've created a short 5 min survey and would appreciate if you took the time to answer [here](http://bit.ly/1PQLW8K).
 
-We have two speaks lined up for February:
+We have two speakers lined up for February:
 
 * **Jeremy Darot**, Scottish Government / Greener Leith  –- [greenerleith.org.uk](greenerleith.org.uk): **The Edinburgh Open Data Map**
 
-> The shiny package provides a nice framework for developing web apps entirely in R (no JavaScript required). I will give a demo of the Edinburgh Open Data Map (myleith.wordpress.com), which brings together several local datasets using shiny and leaflet.
+> The shiny package provides a nice framework for developing web apps entirely in R (no JavaScript required). I will give a demo of the [Edinburgh Open Data Map](myleith.wordpress.com), which brings together several local datasets using [shiny](http://shinyapps.io) and [leaflet](https://rstudio.github.io/leaflet).
 
-* **Dave Evans**, FreeAgent : Behaviour driven development ( [pdf]("/talks/2016.Feb.Evans.Behaviour Driven Development.pdf") )
+* **Dave Evans**, FreeAgent : Behaviour driven development ( [pdf]("http://edinbr.org/edinbr/talks/2016.Feb.Evans.Behaviour Driven Development.pdf") )
 
 > Programatic testing is a common practice in the software industry that rarely seems to permeate into scientific analysis code. In this talk I'll explore how programatic testing doesn't have to be time consuming and can improve both the accuracy and quality of even simple analysis code.
 
