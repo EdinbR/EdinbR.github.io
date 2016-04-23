@@ -16,9 +16,7 @@ This month's meeting is themed around good coding practise. We have two speakers
 
 * Caterina Constantinescu: Good coding practices in R
 
-> Coding standards for a given language are meant to improve clarity and collaboration, and can be essential for maintaining and enhancing older scripts. This talk will briefly highlight a set of guidelines for good coding practices in R. I will present a set of standards devised specifically for R, as well as some guidelines which can be extrapolated from Python and Java, referring for instance to file organisation, commenting, the appropriate use of white space, naming conventions etc. 
-
-> [presentation](http://edinbr.org/assets/talks/2015 Nov EdinbR_Presentation_GoodCodingPracticesInR.pdf) (pdf)
+> Coding standards for a given language are meant to improve clarity and collaboration, and can be essential for maintaining and enhancing older scripts. This talk will briefly highlight a set of guidelines for good coding practices in R. I will present a set of standards devised specifically for R, as well as some guidelines which can be extrapolated from Python and Java, referring for instance to file organisation, commenting, the appropriate use of white space, naming conventions etc. ( [presentation](http://edinbr.org/talks/2015.Nov.Constantinescu.Good Coding Practices In R.pdf) pdf)
 
 * Guillaume Devailly: Traps and flaws of the R language: Examples from The R Inferno eBook by Patrick Burns
 
