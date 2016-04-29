@@ -14,9 +14,9 @@ I'm pleased to announce the March meeting of EdinbR! Here are the details:
 
 This meeting we have two great short talks, interspersed with some words from the organisers on the results of our [survey](http://edinbr.org/edinbr/2015/02/22/edinbr-survey.html) and other announcements. The schedule is:
 
-* Talk: **Intro to ggplot2** by Christophe Ladroue (15-20 mins)
+* [Talk: **Intro to ggplot2** by Christophe Ladroue (15-20 mins)](https://github.com/EdinbR/edinbr-talks/blob/master/2015-03-18/Sterratt_HowNotToSubmitAProjectToCRAN.pdf)
 * EdinbR survey results and announcements (5-10 mins)
-* Talk: **How (not) to get your package accepted by CRAN** by David Sterratt (15-20 mins)
+* [Talk: **How (not) to get your package accepted by CRAN** by David Sterratt (15-20 mins)](https://github.com/EdinbR/edinbr-talks/blob/master/2015-03-18/Sterratt_HowNotToSubmitAProjectToCRAN.pdf)
 
 Full descriptions of the talks will be posted to the the [mailing list](https://groups.google.com/forum/#!forum/edinbr) — please do sign up there if you're not already receiving our emails!
 
