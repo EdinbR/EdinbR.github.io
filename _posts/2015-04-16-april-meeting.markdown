@@ -20,10 +20,10 @@ Note this is the same location as our [February meeting](http://edinbr.org/edinb
 
  We again have two great talks, one aimed at a general audience and another that's more advanced:
 
-* **Reproducible research in R and RStudio** by [Susan Johnston](https://twitter.com/susejohnston) <br />
+* [**Reproducible research in R and RStudio**](https://github.com/EdinbR/edinbr-talks/blob/master/2015-04-22/Johnston_IntroReproducibleResearchRstudio.pdf) by [Susan Johnston](https://twitter.com/susejohnston) <br />
  _Conducting reproducible and transparent research is not only good scientific practise, it also makes life much easier. R and the RStudio environment contain a number of useful tools for producing reproducible research, from dynamic report writing in R markdown and knitr, to integrated version control of data and analyses using git. I'll present a quick-start guide on the basics that RStudio has to offer for reproducible research, aimed at all levels of R expertise._
 
-* **Interfacing C with R** by [Jarrod Hadfield](http://jarrod.bio.ed.ac.uk/jarrod.html) <br />
+* [**Interfacing C with R**](https://github.com/EdinbR/edinbr-talks/blob/master/2015-04-22/Hadfield_InterfacingRwithC.pdf) by [Jarrod Hadfield](http://jarrod.bio.ed.ac.uk/jarrod.html) <br />
   _Pure R code is fast to develop but can be very slow to run. Many R functions therefore call lower level languages such as C. I'll give a worked example of how to do this: and hopefully persuade people its not too difficult and often worth the extra effort._
 
 We've also received a few t-shirts and other bits from our sponsor, [Revolution Analytics](http://www.revolutionanalytics.com/), which will be given out to anyone that signs up to give a talk at a future meeting! (If you've already spoken and would like one, [let me know](mailto:ben@edinbr.org).)
