@@ -17,7 +17,7 @@ EdinbR is back after our [short break](http://edinbr.org/edinbr/2015/07/08/july-
 
 * **Hadley Wickham's "dplyr"** by [Kevin O'Brien](https://twitter.com/dragonflystats) (Statistician and organiser of DublinR) <br />
   [dplyr](http://blog.rstudio.org/2014/01/17/introducing-dplyr/) is a new package which provides a set of tools for efficiently manipulating datasets in R. dplyr makes it easy to carry out the most common data manipulation operations in an intuitive manner, and is very accessible for novice users. I also look at the magrittr R package and demonstrate how it can change the way R code is written. I will describe how these packages are useful in the area of official statistics and economic statistics.
-* **Using R as a scripting language** by  Hywel Dunn-Davies (Tollervey lab, Wellcome Trust Centre for Cell Biology, University of Edinburgh) <br />
+* [**Using R as a scripting language**](https://github.com/EdinbR/edinbr-talks/blob/master/2015-08-19/DunnDavies_RScripting.pdf) by  Hywel Dunn-Davies (Tollervey lab, Wellcome Trust Centre for Cell Biology, University of Edinburgh) <br />
   In this talk I'll demonstrate how to create scripts in R that can be run from the command line. I'll go through the basics of creating a script in R using Rscript, and will go on to discuss more advanced topics such as parsing command line arguments with optparse, and creating scripts that can be used with UNIX pipes.
 
 
