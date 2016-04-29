@@ -46,3 +46,7 @@ If you didn't manage to make our [last meeting](http://edinbr.org/edinbr/2015/05
 If you want to get in touch, you can post to our [public mailing list](https://groups.google.com/forum/#!forum/edinbr), tweet [@edinb_r](http://twitter.com/edinb_r) or email [info@edinbr.org](mailto:info@edinbr.org).
 
 Hope to see you there!
+
+## Slides
+
+Slides for this workshop now on the Edinbr Github: https://github.com/EdinbR/edinbr-talks/blob/master/2015-06-17/Campbell_IntroToShinyWorkshop.pptx
