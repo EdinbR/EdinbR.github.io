@@ -17,9 +17,9 @@ We have two speakers:
 > During the past few years R has become an important language for data analysis, data representation and visualization. R is a very expressive language which combines functional and dynamic aspects, with laziness and object oriented programming. However the default R implementation is neither fast nor distributed, both features crucial for "big data" processing. In this talk I will present FastR-Flink, a compiler based on Oracle's R implementation, FastR, with support for some constructs of Apache Flink, a Java framework for distributed data processing. The Apache Flink operations such as map, reduce or filter are integrated at the compiler level to allow the execution of distributed stream and batch data processing applications directly from the R programming language with minimal effort. This work has been initiated at Oracle Labs during my recent internship with them in Linz, Austria.
 
 
-* [Mike Spencer](https://scottishsnow.wordpress.com/about/): TBA
+* [Mike Spencer](https://scottishsnow.wordpress.com/): Snow through space and time with R'
 
-> Abstract to follow
+> Mike will be talking about his work on Scottish mountain snow, utilising data collected by the Met Office from 1945 to 2007. His talk should be a whistlestop tour of parallel processing, GIS and databases in R.
 
 For any newcomers (you're very welcome!), here's a map of we'll be.
 
