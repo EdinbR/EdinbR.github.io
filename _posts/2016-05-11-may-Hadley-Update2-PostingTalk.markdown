@@ -7,9 +7,14 @@ tags:   announcement
 image:
 author: edinbr
 ---
-	
 
-As many of you know, [Hadley Wickham](http://hadley.nz) visited Edinburgh on **Saturday, the 30th of April, 2016**. We are very pleased to announce that you can now view his talk [here](https://www.youtube.com/watch?v=rz3_FDVt9eg). 
+
+As many of you know, [Hadley Wickham](http://hadley.nz) visited Edinburgh on **Saturday, the 30th of April, 2016**. We are very pleased to announce that you can now view his talk below: 
+
+<iframe  title="EdinbR event: Hadley Wickham, 'Managing many models with R'" width="480" height="340" src="https://www.youtube.com/embed/rz3_FDVt9eg?html5=1" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
+
+<br>
+
 
 As a reminder, here is the summary of the talk for all those interested:
 
