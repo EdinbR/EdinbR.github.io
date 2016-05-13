@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "May Meeting: Cycling and statistics."
+title:  "May Meeting: FastR-Flink and Snow"
 date:   2016-05-13
 categories: edinbr
 tags:   announcement
