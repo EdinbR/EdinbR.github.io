@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "May Meeting: FastR-Flink and Snow"
+title:  "May Meeting: FastR-Flink and Closures"
 date:   2016-05-13
 categories: edinbr
 tags:   announcement
