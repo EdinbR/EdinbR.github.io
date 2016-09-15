@@ -12,6 +12,8 @@ The next meeting will be held at 5.30pm, Wednesday **22nd of Sep** at **5.30pm i
 
 Please note a change from the usual venue - we should _hopefully_ be in this new room from now on.
 
+This will invariably be followed by drinks and chat in the pub (probably the Potting Shed).
+
 We have two speakers:
 
 * [Guillaume Devailly](https://github.com/gdevailly): R future: non blocking, parallel assignment in R
