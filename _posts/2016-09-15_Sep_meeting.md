@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "September Meeting: Compositional data analysis & the Snow Survey of Great Britain"
+title:  "September Meeting: R future and How to lasso"
 date:   2016-06-09
 categories: edinbr
 tags:   announcement
