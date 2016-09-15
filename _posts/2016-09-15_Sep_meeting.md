@@ -5,7 +5,7 @@ date:   2016-06-09
 categories: edinbr
 tags:   announcement
 image:
-author: acaterin
+author: susjoh
 ---
 
 The next meeting will be held at 5.30pm, Wednesday **22nd of Sep** at **5.30pm in Room LG.11 in David Hume Tower**.
