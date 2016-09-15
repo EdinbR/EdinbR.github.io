@@ -8,7 +8,7 @@ image:
 author: susjoh
 ---
 
-The next meeting will be held at 5.30pm, Wednesday **22nd of Sep** at **5.30pm in Room LG.11 in David Hume Tower**.
+The next meeting will be held on Wednesday **22nd of September** at **5.30pm in Room LG.11 in David Hume Tower**.
 
 Please note a change from the usual venue - we should _hopefully_ be in this new room from now on.
 
