@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "September Meeting: R future and How to lasso"
-date:   2016-06-09
+date:   2016-09-15
 categories: edinbr
 tags:   announcement
 image:
