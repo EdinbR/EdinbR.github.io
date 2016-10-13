@@ -8,7 +8,7 @@ image:
 author: susjoh
 ---
 
-The next meeting will be held on Wednesday **20th of October** at **5.30pm in Room LG.11 in David Hume Tower**.
+The next meeting will be held on Wednesday **19th of October** at **5.30pm in Room LG.11 in David Hume Tower**.
 
 This will invariably be followed by drinks and chat in the pub (probably the Potting Shed).
 
