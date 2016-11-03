@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "November Meeting: Colin Gillespie on Crowd Sourced Benchmarks"
+title:  "November Meeting: Crowd Sourced Benchmarks with Colin Gillespie"
 date:   2016-11-03
 categories: edinbr
 tags:   announcement
