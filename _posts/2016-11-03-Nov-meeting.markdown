@@ -8,7 +8,7 @@ image:
 author: susjoh
 ---
 
-The next meeting will be held on Wednesday **16th of October** at **5.30pm in Room LG.11 in David Hume Tower**, followed by drinks and chat in the Potting Shed.
+The next meeting will be held on Wednesday **16th of November** at **5.30pm in Room LG.11 in David Hume Tower**, followed by drinks and chat in the Potting Shed.
 
 We are very pleased to welcome [Dr Colin Gillespie](http://www.mas.ncl.ac.uk/~ncsg3/) as our speaker this month. Colin is a senior statistics lecturer at Newcastle University. He has been using R since 1999 and teaching R programming for the last eight years. Colin has authored a number of R packages, regularly answers R questions on stackoverflow and recently published [Efficient R programming](https://csgillespie.github.io/efficientR/) with O'Reilly.
 
