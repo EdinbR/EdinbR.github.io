@@ -16,7 +16,9 @@ name: 'EdinbR'
 author: 'EdinbR'
 author_image: "/assets/images/edinbr_300.png"
 
-paginate:	5
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
 
 url: "http://edinbr.org" # the base hostname & protocol for your site
 baseurl: ""
