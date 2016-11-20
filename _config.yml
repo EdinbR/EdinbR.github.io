@@ -60,3 +60,9 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+
+# Google services
+google_analytics: UA-87762630-1
+
+
