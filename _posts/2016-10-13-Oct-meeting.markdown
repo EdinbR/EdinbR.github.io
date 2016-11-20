@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "October Meeting: R apps on AWS and Unpivoting the impossible"
-date:   2016-09-15
+date:   2016-10-15
 categories: edinbr
 tags:   announcement
 image:

@@ -15,13 +15,13 @@ The next EdinbR meeting will be:
 
 Two great talks in the September meeting of the Edinburgh R user group to bring in the new (academic) year:
 
-* [**The plyr package**](https://rawgit.com/NikNakk/edinbr-talks/Kennedy-talk/2015-09-16/Kennedy_plyr-talk.html#(1)) by Nick Kennedy <br />
+* [**The plyr package**](https://rawgit.com/NikNakk/edinbr-talks/Kennedy-talk/2015-09-16/Kennedy_plyr-talk.html#(1)), by Nick Kennedy <br />
   One of the more common tasks when processing data is to take a data object, split it up in some way, do something to the component pieces and then join the result back up together. This is often referred to as the ‘split-apply-combine’ paradigm. Base R offers a number of useful functions for doing this, including lapply and sapply. The [plyr package](http://plyr.had.co.nz/) extends this and offers a whole family of -ply functions which take vectors, lists, arrays or data.frames as input and operate on them in a consistent manner. This talk aims to give an overview of how to use plyr to make data processing easier, and also introduces some of the additional functionality that plyr offers including easy ways to view progress of a task and to parallelise code where multiple cores are available.
   
-  Slides available in [Rmarkdown](https://github.com/EdinbR/edinbr-talks/blob/master/2015-09-16/Kennedy_plyr-talk.Rmd), [Markdown](https://github.com/EdinbR/edinbr-talks/blob/master/2015-09-16/Kennedy_plyr-talk.md) and [HTML](https://github.com/EdinbR/edinbr-talks/blob/master/2015-09-16/Kennedy_plyr-talk.html) formats.
+  Slides also available in [Rmarkdown](https://github.com/EdinbR/edinbr-talks/blob/master/2015-09-16/Kennedy_plyr-talk.Rmd), [Markdown](https://github.com/EdinbR/edinbr-talks/blob/master/2015-09-16/Kennedy_plyr-talk.md) and [HTML](https://github.com/EdinbR/edinbr-talks/blob/master/2015-09-16/Kennedy_plyr-talk.html) formats.
   
   
-* [**Analysing text data with R**](https://rawgit.com/mhairi/tm_tutorial/master/text%20mining.html#/) by Mhairi McNeill <br />
+* [**Analysing text data with R**](https://rawgit.com/mhairi/tm_tutorial/master/text%20mining.html#/), by Mhairi McNeill <br />
   A very quick introduction to the tm package, for doing text mining. I'll cover reading in data, cleaning the data and some basic analysis you can do in R.
   
   Code and data available at [Mhairi's github page](https://github.com/mhairi/tm_tutorial).

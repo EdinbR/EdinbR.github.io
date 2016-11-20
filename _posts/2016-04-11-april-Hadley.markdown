@@ -12,7 +12,7 @@ author: tbates
 
 *** Register [here](https://www.eventbrite.co.uk/e/edinbr-special-session-guest-hadley-wickham-tickets-24055271966)***
 
-[Hadley Wickham](http://hadley.nz) will be speaking at EdinbR at Noon, on Saturday the 30th of April.
+[Hadley Wickham](http://hadley.nz) will be speaking at EdinbR at noon, on Saturday the 30th of April.
 
 This should be a great talk and a (catered) networking opportunity for all. We ask that you register at the EventBrite link [here](https://www.eventbrite.co.uk/e/edinbr-special-session-guest-hadley-wickham-tickets-24055271966).
 

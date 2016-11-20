@@ -23,9 +23,10 @@ We decided [last meeting](http://edinbr.org/edinbr/2015/04/16/april-meeting.html
 
 Back to this meeting — we have two great talks lined up:
 
-* [**Introduction to R-Shiny**](https://github.com/EdinbR/edinbr-talks/blob/master/2015-05-20/Kerr_IntroductionToRShiny.pdf) by [Alastair Kerr](https://uk.linkedin.com/pub/alastair-kerr/32/267/377) (Bioinformatics Core Facility Manager, Wellcome Trust Centre for Cell Biology, University of Edinburgh) <br />
-  [Shiny](http://rstudio.github.io/shiny/tutorial/) is a package from RStudio that makes it incredibly easy to build interactive web applications with R. In this talk I will introduce the basics of the R-shiny package and server and demonstrate how a few lines of code can get a fully functional app for data exploration. I'll show examples where it has been very useful in our Bioinformatics Core Facility for creating interactive tables and figures for our users. ([Slides preview](https://docs.google.com/presentation/d/1QBBllY9exY6dyyhRXYQ_8f0M8gc25DDmDoLcaZlLhmI/edit?usp=sharing))
-* [**Building interactive plots (the easy way) in R**](http://blm.io/talks/edinbr_may/#1) by [Ben Moore](http://blm.io) (Bioinformatics PhD student) <br />
+* [**Introduction to R-Shiny**](https://github.com/EdinbR/edinbr-talks/raw/master/2015-05-20/Kerr_IntroductionToRShiny.pdf), by [Alastair Kerr](https://uk.linkedin.com/pub/alastair-kerr/32/267/377) (Bioinformatics Core Facility Manager, Wellcome Trust Centre for Cell Biology, University of Edinburgh) <br />
+  [Shiny](http://rstudio.github.io/shiny/tutorial/) is a package from RStudio that makes it incredibly easy to build interactive web applications with R. In this talk I will introduce the basics of the R-shiny package and server and demonstrate how a few lines of code can get a fully functional app for data exploration. I'll show examples where it has been very useful in our Bioinformatics Core Facility for creating interactive tables and figures for our users.
+
+* [**Building interactive plots (the easy way) in R**](http://blm.io/talks/edinbr_may/#1), by [Ben Moore](http://blm.io) (Bioinformatics PhD student) <br />
   I’ll show some examples of how you can create interactive javascript plots in R without any js knowledge using the [rCharts](http://rcharts.io/) package as well as newer spin-out packages like leaflet and rcdimple. I’ll talk about the growing trend of gluing together R and web libraries using [htmlwidgets](http://www.htmlwidgets.org/), and even more broadly how online interlanguage function repositories can be accessed from R.
 
 Here's a reminder of where we'll be, note you do not need a University of Edinburgh card to enter, the meeting is open to anyone interested in coming!

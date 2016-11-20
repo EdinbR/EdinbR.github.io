@@ -14,11 +14,11 @@ Happy new year everyone! The first EdinbR meeting of 2016 will be:
 
 This month we have two excellent talks lined up. 
 
-* David C Sterratt: gWidgets2, a GUI system for R
+* David C Sterratt: [gWidgets2, a GUI system for R](https://github.com/EdinbR/edinbr-talks/raw/master/2016-01-13/DSterratt_edinbr-gWidgets.zip)
 
 > gWidgets2 (https://cran.r-project.org/web/packages/gWidgets2/index.html) provides a toolkit-independent API for building interactive GUIs on Windows, Mac and Linux. At present GTK is the best supported toolkit on the three operating systems. I will demonstrate building a GUI with gWidgets and discuss the pros and cons of the package.
 
-* Roman Popat: Seasonal Trend Decomposition of Fruit and Veg Wholesale Prices
+* Roman Popat: [Seasonal Trend Decomposition of Fruit and Veg Wholesale Prices](http://rpubs.com/rmnppt/EdinbR_STL)
 
 > Time series data is everywhere and so having a toolkit with which to analyse this type of data is generally useful. I’ll be talking about seasonal-trend decomposition in R using the stl() function. Its an easy and powerful way to separate seasonal and trend effects in any time series. I will discuss the basis of the technique, how easy it is to use in R and some examples of how it can be applied.
 

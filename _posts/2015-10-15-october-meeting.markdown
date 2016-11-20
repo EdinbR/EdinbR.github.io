@@ -18,9 +18,9 @@ We have five speakers lined up, who'll each talk for five minutes and you can as
 
 - Christophe Ladroue: "Write a closure and make your life easier" 
 - Martin Graham: “Using R for topic modelling”
-- [Guillaume Devailly](https://github.com/EdinbR/edinbr-talks/blob/master/2015-10-21/InteractiveHeatmapsR.pdf): "Interactive heatmaps in R with d3heatmap and plotly" 
+- Guillaume Devailly: ["Interactive heatmaps in R with d3heatmap and plotly"](https://github.com/EdinbR/edinbr-talks/raw/master/2015-10-21/InteractiveHeatmapsR.pdf) 
 - Dave Evans: "Applied non-negative matrix factorisation"
-- Rene Mottus: "Using stepwise multi-levels models vs multi-level models with LASSO penalization to analyse relatively high-dimensional nested data" 
+- Rene Mottus: ["Using stepwise multi-levels models vs multi-level models with LASSO penalization to analyse relatively high-dimensional nested data"](https://github.com/EdinbR/edinbr-talks/raw/master/2015-10-21/RUsersTalkMottus.pdf) 
 
 The second difference is that we're having a pub social afterwards in the Potting Shed (just around the corner for 7 George Square). If you can't make the talks you are more than welcome to join us in the pub from 6pm onwards. 
 

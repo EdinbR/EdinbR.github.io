@@ -12,13 +12,13 @@ The next meeting will be held on Wednesday **18th May**, 5.30-6.30pm in S1, 7 Ge
 
 We have two speakers:
 
-* [Juan Fumero](http://homepages.inf.ed.ac.uk/s1369892/): FastR-Flink
+* [Juan Fumero](http://homepages.inf.ed.ac.uk/s1369892/): [FastR-Flink](https://github.com/EdinbR/edinbr-talks/raw/master/2016-05-13/FastRFlink_EdinbR.pdf)
 
 > During the past few years R has become an important language for data analysis, data representation and visualization. R is a very expressive language which combines functional and dynamic aspects, with laziness and object oriented programming. However the default R implementation is neither fast nor distributed, both features crucial for "big data" processing. In this talk I will present FastR-Flink, a compiler based on Oracle's R implementation, FastR, with support for some constructs of Apache Flink, a Java framework for distributed data processing. The Apache Flink operations such as map, reduce or filter are integrated at the compiler level to allow the execution of distributed stream and batch data processing applications directly from the R programming language with minimal effort. This work has been initiated at Oracle Labs during my recent internship with them in Linz, Austria.
 
 And after a cancellation, we now have:
 
-* Christophe Ladroue: Write a closure and make your life easier.
+* Christophe Ladroue: [Write a closure and make your life easier](https://github.com/EdinbR/edinbr-talks/raw/master/2016-05-13/Christophe18May2016_introToClosures.zip)
 
 > Christophe will expand on his very popular lightning talk from last year on functional programming and how to create closures, which are functions written by functions (See [here](http://adv-r.had.co.nz/Functional-programming.html#closures) for more info).
 
