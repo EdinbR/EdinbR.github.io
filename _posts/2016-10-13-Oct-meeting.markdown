@@ -14,7 +14,7 @@ This will invariably be followed by drinks and chat in the pub (probably the Pot
 
 We have two speakers:
 
-* [Roman Popat](http://www.thedatalab.com/Roman-Popat): Developing and hosting an R ‘app’ on AWS.
+* [Roman Popat](http://www.thedatalab.com/Roman-Popat): [Developing and hosting an R ‘app’ on AWS](https://github.com/EdinbR/edinbr-talks/raw/master/2016-10-13/RPopat_RAppsOnAWS.pdf).
 
 > I recently tinkered with developing and deploying a dashboard app on AWS. It is a collection of R scripts that live and run in the cloud. The task was to monitor the UK data science job market. I will give a high level overview of how it is structured and what tools are out there to help you do this using R. The app can be viewed [here](https://s3-eu-west-1.amazonaws.com/adzunadata/dashboard/AdzunaFlexDashboard.html#map)
 
