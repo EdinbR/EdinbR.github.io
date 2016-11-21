@@ -16,7 +16,7 @@ This month's meeting will be a little different from usual. First, we're going t
 
 We have five speakers lined up, who'll each talk for five minutes and you can ask questions for up to five minutes. These nuggets of R wisdom will be provided by:
 
-- Christophe Ladroue: "Write a closure and make your life easier" 
+- Christophe Ladroue: "Write a closure and make your life easier" (extended version [here](http://edinbr.org/edinbr/2016/05/13/may-meeting.html))
 - Martin Graham: “Using R for topic modelling”
 - Guillaume Devailly: ["Interactive heatmaps in R with d3heatmap and plotly"](https://github.com/EdinbR/edinbr-talks/raw/master/2015-10-21/InteractiveHeatmapsR.pdf) 
 - Dave Evans: "Applied non-negative matrix factorisation"
