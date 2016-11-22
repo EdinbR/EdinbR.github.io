@@ -16,7 +16,7 @@ This will invariably be followed by drinks and chat in the pub (probably the Pot
 
 We have two speakers:
 
-* [Guillaume Devailly](https://github.com/gdevailly): R future: non blocking, parallel assignment in R
+* [Guillaume Devailly](https://github.com/gdevailly): [R future: non blocking, parallel assignment in R](https://github.com/EdinbR/edinbr-talks/raw/master/2016-09-15/GDevailly_Rfuture2.pdf)
 
 > _future_ is an R package developed by Henrik Bengtsson, available on CRAN (https://cran.r-project.org/web/packages/future/index.html). It implements futures, variables that will be available in the future. One of the most useful way to use _future_ is through the new assignment operator %<-%. I will demonstrate how future allows to run tasks in the background, i.e. without blocking the R terminal, as well as how future allows easy parallelisation of both homogeneous and heterogeneous tasks. _future_ supports multithreading on Linux, OSX and Windows, as well as distributed computing.
 
