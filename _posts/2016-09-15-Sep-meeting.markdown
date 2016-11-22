@@ -25,7 +25,7 @@ We have two speakers:
 > The lasso is a powerful, widely applicable regression method that can perform both variable selection and regularization to augment the predictive and interpretive power of models. Lasso uses regularization to shrink coefficients, and is moreover able to shrink these values to zero, removing them from the model. This provides a superior selection method to stepwise approaches, which often fail to find the optimal model and can even make prediction error worse. The lasso has been applied to generalized linear models, mixed models, proportional hazard models and many others, in a variety of R packages. I will discuss a few of these, in particular, how to get started with 'glmnet'.
 
 
-For any newcomers (you're very welcome!), here's a map of we'll be.
+For any newcomers (you're very welcome!), here's a map of where we'll be.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d939.4322782159774!2d-3.1868992813634778!3d55.9431477069392!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8b232656b3b16a57!2sDavid+Hume+Tower!5e0!3m2!1sen!2suk!4v1473937651228" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 

@@ -18,9 +18,9 @@ Caterina will quickly discuss the EdinbR Survey Results, followed by two speaker
 
 * [Tim Bates](http://timbates.wikidot.com/): Structural Equation Modelling (SEM) in R using umx and OpenMx
 
-> Abstract to follow
+> In this talk, I will do a live demo of SEM software and give examples of appropriate model specification and ways to interpret SEM results.
 
-For any newcomers (you're very welcome!), here's a map of we'll be.
+For any newcomers (you're very welcome!), here's a map of where we'll be.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.2857959093512!2d-3.1896144261229358!3d55.944418290254944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c7837b340937%3A0xaf82184629da8aed!2s7+George+Square%2C+Edinburgh+EH8!5e0!3m2!1sen!2suk!4v1447278868342" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 

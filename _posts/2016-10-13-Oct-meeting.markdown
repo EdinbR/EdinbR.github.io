@@ -23,7 +23,7 @@ We have two speakers:
 > Tables with multi-level headers and formatting that encodes information are good for humans but bad for computers.  But two new R packages can take you from spreadsheet-import-hell to tidy-data-heaven.  Tidyxl imports .xlsx (Excel) spreadsheets, including formatting, without lossy coercion into ill-fitting tabular structures.  Unpivotr provides tools for converting tables with complex or irregular layouts to a standard columnar structure.  In this talk I will motivate the use of human intelligence rather than artificial intelligence to untangle difficult data layouts, demonstrate how proximity is more expressive than position when associating data cells with headers, and survey related developments in this area.
 
 
-For any newcomers (you're very welcome!), here's a map of we'll be.
+For any newcomers (you're very welcome!), here's a map of where we'll be.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d939.4322782159774!2d-3.1868992813634778!3d55.9431477069392!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8b232656b3b16a57!2sDavid+Hume+Tower!5e0!3m2!1sen!2suk!4v1473937651228" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 

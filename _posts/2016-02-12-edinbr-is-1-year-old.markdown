@@ -21,7 +21,7 @@ We have two speakers lined up for February:
 
 > The shiny package provides a nice framework for developing web apps entirely in R (no JavaScript required). I will give a demo of the [Edinburgh Open Data Map](https://myleith.shinyapps.io/myedinburgh/), which brings together several local datasets using [shiny](http://shinyapps.io) and [leaflet](https://rstudio.github.io/leaflet).
 
-* **Dave Evans**, FreeAgent : [Behaviour driven development](https://github.com/EdinbR/edinbr-talks/raw/master/2016-02-17/BehaviourDrivenDevelopment.pdf)
+* **Dave Evans**, FreeAgent : [**Behaviour driven development**](https://github.com/EdinbR/edinbr-talks/raw/master/2016-02-17/BehaviourDrivenDevelopment.pdf)
 
 > Programatic testing is a common practice in the software industry that rarely seems to permeate into scientific analysis code. In this talk I'll explore how programatic testing doesn't have to be time consuming and can improve both the accuracy and quality of even simple analysis code.
 
