@@ -12,7 +12,7 @@ The next meeting will be held on Wednesday **16th of November** at **5.30pm in R
 
 We are very pleased to welcome [Dr Colin Gillespie](http://www.mas.ncl.ac.uk/~ncsg3/) as our speaker this month. Colin is a senior statistics lecturer at Newcastle University. He has been using R since 1999 and teaching R programming for the last eight years. Colin has authored a number of R packages, regularly answers R questions on stackoverflow and recently published [Efficient R programming](https://csgillespie.github.io/efficientR/) with O'Reilly.
 
-He'll give an hour interactive seminar entitled: [**My R code is slow**](https://cdn.rawgit.com/EdinbR/edinbr-talks/master/2016-11-03/CGillespie_edinbR.html):
+He'll give an hour interactive seminar entitled [**My R code is slow**](https://cdn.rawgit.com/EdinbR/edinbr-talks/master/2016-11-03/CGillespie_edinbR.html):
 
 > One of the simplest ways to speed up your code is to buy a faster computer. While this advice is certainly trite, it is something that should still be considered. However it is often unclear to determine the benefit of upgrading your system. The `benchmarkme` package aims to tackle this question by allowing users to benchmark their system and compare their results with other users. This talk will discuss the results of this benchmarking exercise. Additionally we'll provide practical advice about how to move your system up the benchmark rankings through byte compiling and using alternate BLAS libraries.
 
