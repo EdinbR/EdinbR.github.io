@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "November Meeting: Crowd Sourced Benchmarks with Colin Gillespie"
+title:  "November Meeting: 'My R code is slow', with Colin Gillespie"
 date:   2016-11-03
 categories: edinbr
 tags:   announcement
