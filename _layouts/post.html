@@ -143,8 +143,9 @@
                 <p class="bio">{{author.bio}}</p>
               {% endif %}
 
-              <hr>
-              <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+              <!-- Removing date because it is also at the top of the post: redundant -->
+              <!--<hr> -->
+              <!--<p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>-->
             </section>
           </div>
           {{/post}}
