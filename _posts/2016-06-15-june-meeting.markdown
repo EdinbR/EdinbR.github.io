@@ -6,6 +6,7 @@ categories: edinbr
 tags:   announcement
 image:
 author: acaterin
+comments: true
 ---
 
 The next meeting will be held at 5pm, Wednesday **15th of June** in Room S1, 7 George Square. This will be the last meeting before we take a summer break, so it would be great to see as many of you there as we can!

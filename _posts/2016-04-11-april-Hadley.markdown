@@ -6,6 +6,7 @@ categories: edinbr
 tags:   announcement
 image:
 author: tbates
+comments: false
 ---
 
 # Hadley Wickham: Managing many models with R 

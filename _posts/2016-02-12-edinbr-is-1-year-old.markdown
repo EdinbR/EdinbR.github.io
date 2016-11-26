@@ -6,6 +6,7 @@ categories: edinbr
 tags:   announcement
 image:
 author: edinbr
+comments: true
 ---
 This February's meeting 
 

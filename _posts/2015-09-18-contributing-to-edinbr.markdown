@@ -6,6 +6,7 @@ categories: edinbr
 tags:   how-to guide
 image:  /assets/images/edinbr_meet.jpg
 author: ben_moore
+comments: false
 ---
 
 

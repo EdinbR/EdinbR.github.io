@@ -6,6 +6,7 @@ categories: edinbr
 tags:   announcement
 image:
 author: edinbr
+comments: true
 ---
 
 We are now approaching the end of 2016, and no further EdinbR meetings will be taking place until January 18, 2017 - when we hope to see many of you around again!

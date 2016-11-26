@@ -6,6 +6,7 @@ categories: edinbr
 tags:   announcement
 image:
 author: tbates
+comments: true
 ---
 
 # Multi-level models in R

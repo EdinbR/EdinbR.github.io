@@ -6,6 +6,7 @@ categories: edinbr
 tags:   announcement
 image:
 author: susjoh
+comments: true
 ---
 
 The next meeting will be held on Wednesday **18th May**, 5.30-6.30pm in S1, 7 George Square, followed by a pub social in the Potting Shed. We'll have someone at the main door to make sure you can get in.

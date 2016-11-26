@@ -6,6 +6,7 @@ categories: edinbr
 tags:   announcements
 image:
 author: ben_moore
+comments: true
 ---
 
 I'm pleased to announce the March meeting of EdinbR! Here are the details:

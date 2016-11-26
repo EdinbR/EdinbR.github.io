@@ -6,6 +6,7 @@ categories: edinbr
 tags:   announcement
 image:
 author: edinbr
+comments: false
 ---
 
 As you may have seen on our [mailing list](https://groups.google.com/forum/#!forum/edinbr), there's no EdinbR meeting this month (July 2015). There's two (probably related) reasons for this: a lot of people are away at conferences or on holiday and we have no volunteer speakers!

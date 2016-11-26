@@ -6,6 +6,7 @@ categories: edinbr planning
 tags:   announcement
 image:
 author: tbates
+comments: false
 ---
 
 ### A common page we can edit to build a meeting plan

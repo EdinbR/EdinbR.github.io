@@ -65,4 +65,10 @@ social:
 # Google services
 google_analytics: UA-87762630-1
 
+# Disqus
+comments:
+   provider: disqus
+disqus: 
+   short_name: edinbr
+
 

@@ -6,6 +6,7 @@ categories: edinbr
 tags:   announcement
 image:
 author:
+comments: true
 ---
 
 The next EdinbR meeting will be:

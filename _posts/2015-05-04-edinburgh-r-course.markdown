@@ -6,6 +6,7 @@ categories: edinbr
 tags:   announcement
 image:
 author:
+comments: false
 ---
 
 [Introduction to R Programming](http://www.ccace.ed.ac.uk/students-training/training/r-programming-course

@@ -6,6 +6,7 @@ categories: edinbr
 tags:   announcement
 image:
 author: ben_moore
+comments: true
 ---
 
 

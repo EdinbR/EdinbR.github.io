@@ -6,6 +6,7 @@ categories: edinbr
 tags:   survey
 image:
 author: ben_moore
+comments: false
 ---
 
 Thank you to everyone who filled in the [EdinbR survey](http://edinbr.org/edinbr/2015/02/22/edinbr-survey.html)! We had 75 responses (and a few more after I grabbed the results) — here's some quick analysis, all done in R of course. The code and data for these figures are available on our [github account](https://github.com/EdinbR/edinbr-survey).

@@ -5,6 +5,7 @@ date:   2015-01-30 15:00:00
 categories: edinbr
 tags:
 image:
+comments: false
 ---
 
 Now that the busy festive period is behind us, we are pleased to annouce that the first meeting of EdinbR will be:

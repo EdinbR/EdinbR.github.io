@@ -6,6 +6,7 @@ categories: edinbr
 tags:   announcement
 image:
 author: edinbr
+comments: true
 ---
 
 Happy new year everyone! The first EdinbR meeting of 2016 will be:
