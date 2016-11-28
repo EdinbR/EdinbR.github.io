@@ -17,7 +17,7 @@ Caterina will quickly discuss the EdinbR Survey Results, followed by two speaker
 
 > How much bicycle infrastructure exists across the regions of Scotland, how does that compare to Amsterdam, Malmo and Copenhagen? And how much would it cost to improve the infrastructure in Scotland to a match these exemplars? See how these questions can be answered using open data, geo-databases, R packages and visualised in shiny app. In an almost reproducible work flow.
 
-* [Tim Bates](http://timbates.wikidot.com/): Structural Equation Modelling (SEM) in R using umx and OpenMx
+* [Tim Bates](http://timbates.wikidot.com/): [Structural Equation Modelling (SEM) in R using umx and OpenMx](https://github.com/EdinbR/edinbr-talks/raw/master/2016-03-09/tim%20umx.pptx)
 
 > In this talk, I will do a live demo of SEM software and give examples of appropriate model specification and ways to interpret SEM results.
 
