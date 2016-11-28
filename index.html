@@ -119,7 +119,8 @@ layout: default
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-              [<a href="http://edinbr.org/{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"> View comments</a>] 
+              <!-- Below, adding the number of comments here, without any tag (such as: [View comments]). This way, the comment count automatically gets displayed instead of a blank space, rather than replace the tag [View comments]. This is useful for posts where comments are disabled, where the tag would never get replaced, and would still show [View comments], even though there is no comment thread to view for that post.-->
+              <a href="http://edinbr.org/{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a> 
 <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
             </div>
           <div>
