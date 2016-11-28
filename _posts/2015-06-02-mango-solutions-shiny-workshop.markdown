@@ -50,4 +50,4 @@ Hope to see you there!
 
 ## Slides
 
-Slides for this workshop now on the Edinbr Github: https://github.com/EdinbR/edinbr-talks/blob/master/2015-06-17/Campbell_IntroToShinyWorkshop.pptx
+Slides for this workshop now on the Edinbr Github [here](https://github.com/EdinbR/edinbr-talks/raw/master/2015-06-17/Campbell_IntroToShinyWorkshop.pptx).
