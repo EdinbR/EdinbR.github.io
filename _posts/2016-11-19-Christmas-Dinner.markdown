@@ -5,7 +5,7 @@ date:   2016-11-19
 categories: edinbr
 tags:   announcement
 image:
-author: edinbr
+author: acaterin
 comments: true
 ---
 
