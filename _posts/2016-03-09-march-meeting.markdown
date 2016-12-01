@@ -13,7 +13,7 @@ The next meeting will be held on Wednesday **March 16th**, 5-6pm in S1, 7 George
 
 Caterina will quickly discuss the EdinbR Survey Results, followed by two speakers:
 
-* [Tim Foster](https://opendata.shinyapps.io/shinyapp/): Rate bicycle infrastructure in your area using R and OpenStreetMap
+* [Tim Foster](https://opendata.shinyapps.io/shinyapp/): [Rate bicycle infrastructure in your area using R and OpenStreetMap](https://cdn.rawgit.com/EdinbR/edinbr-talks/master/2016-03-09/TimFoster_OpenStreetMap.html#1)
 
 > How much bicycle infrastructure exists across the regions of Scotland, how does that compare to Amsterdam, Malmo and Copenhagen? And how much would it cost to improve the infrastructure in Scotland to a match these exemplars? See how these questions can be answered using open data, geo-databases, R packages and visualised in shiny app. In an almost reproducible work flow.
 
