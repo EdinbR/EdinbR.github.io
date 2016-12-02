@@ -5,7 +5,7 @@ date:   2016-05-11
 categories: edinbr
 tags:   announcement
 image:
-author: edinbr
+author: acaterin
 comments: true
 ---
 
@@ -15,7 +15,8 @@ As many of you know, [Hadley Wickham](http://hadley.nz) visited Edinburgh on **S
 <iframe  title="EdinbR event: Hadley Wickham, 'Managing many models with R'" width="480" height="340" src="https://www.youtube.com/embed/rz3_FDVt9eg?html5=1" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
 
 <br>
-
+<span style="background-color: #ccdefc">Courtesy of [Fernando DePaolis](http://www.miis.edu/academics/faculty/fdepaolis), we can now share an R script based on Hadley's talk. Download it [here](https://github.com/EdinbR/edinbr-talks/blob/master/2016-04-24/Hadley_Wickham_Managing_models_FernandoDePaolis.R).</span>
+<br><br>
 
 As a reminder, here is the summary of the talk for all those interested:
 
@@ -30,4 +31,5 @@ As a reminder, here is the summary of the talk for all those interested:
 *This work is embedded in R so I'll not only talk about the ideas, but show concrete code for working with large sets of models. You'll see how you can combine the [dplyr](https://cran.rstudio.com/web/packages/dplyr) and [purrr](https://cran.rstudio.com/web/packages/purrr) packages to fit many models, then use [tidyr](https://cran.rstudio.com/web/packages/tidyr) and [broom](https://cran.rstudio.com/web/packages/broom) to convert to tidy data which can be visualised with [ggplot2](http://cran.rstudio.com/web/packages/ggplot2).*
 
 
-EdinbR team
+<br><br>
+On behalf of the EdinbR team,
