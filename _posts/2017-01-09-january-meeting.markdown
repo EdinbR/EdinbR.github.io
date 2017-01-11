@@ -9,7 +9,7 @@ author: edinbr
 comments: true
 ---
 
-Hello everyone and welcome back from the winter holidays! We hope you are ready for another year of R talks!
+Hello everyone and welcome back from the winter holidays! We hope you are ready for another year of R talks.
 
 These past few months, we've been improving our website: we are pleased to say we've now added a search bar, and you can now also leave us comments at the end of our posts, if you'd like to share your thoughts with us!
 
