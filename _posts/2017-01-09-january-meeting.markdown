@@ -13,7 +13,7 @@ Hello everyone and welcome back from the winter holidays! We hope you are ready 
 
 These past few months, we've been improving our website: we are pleased to say we've now added a search bar, and you can now also leave us comments at the end of our posts, if you'd like to share your thoughts with us!
 
-Our next meeting will be held on Wednesday **18th of January**, at **5.00pm, venue TBD**. As usual, the meeting will be followed by drinks and chat in the Potting Shed.
+Our next meeting will be held on Wednesday **18th of January**, at **5.00pm, in LG.11, David Hume Tower** (on the lower ground floor). As usual, the meeting will be followed by drinks and chat in the Potting Shed.
 
 <!--TO INSERT INSTEAD OF venue TBD: , in Room LG.11 in David Hume Tower. The entrance is via the 50 George Square building, and through its basement (feel free to ask for directions at the reception). -->
 
