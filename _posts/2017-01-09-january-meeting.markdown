@@ -19,7 +19,7 @@ Our next meeting will be held on Wednesday **18th of January**, at **5.00pm, in 
 
 We will be welcoming [Dr Tom Booth](http://www.ed.ac.uk/profile/tom-booth) as our speaker this month. Tom is a lecturer in Quantitative Research Methods, and has been teaching statistics using R in the Department of Psychology, at the University of Edinburgh.
 
-He'll give a one-hour talk on **Structural Equation Modelling using `lavaan`**:
+He'll give a one-hour talk on [**Structural Equation Modelling using `lavaan`**](https://github.com/EdinbR/edinbr-talks/raw/master/2017-01-09/TomBooth_EdinbR_SEM.pdf), and has also kindly provided related materials [here](https://github.com/EdinbR/edinbr-talks/raw/master/2017-01-09/TomBooth_Lecture_10_CFA_201516.pdf) and [here](https://github.com/EdinbR/edinbr-talks/raw/master/2017-01-09/TomBooth_Additional_MCCFA_201516.pdf). The abstract for the talk is below:
 
 > Structural equation modelling (SEM) is a powerful framework for data analysis, from simple linear models, to models which include measurement models for latent constructs and the relations between these constructs. The general SEM framework can be applied to data of almost any type, and include both continuous and categorical latent variables. In short, if you can think of it, you can probably do it in SEM. In this talk I will demonstrate the fundamentals of SEM in R using `lavaan`. We will consider a number of different model specifications, the types of questions they can answer, and how to interpret the output. The examples used will demonstrate a number of key features such as applying model constraints, multi-group analysis and nested model comparisons. We will consider the pro’s and con’s of `lavaan` versus other SEM packages within R.
 
