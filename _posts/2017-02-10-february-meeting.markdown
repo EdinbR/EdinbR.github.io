@@ -13,13 +13,15 @@ Our next meeting will be held on Wednesday **15th of February**, at **5.00pm, in
 
 Our speaker is [Juan Fumero](http://homepages.inf.ed.ac.uk/s1369892/) from the School of Informatics at the University of Edinburgh, who will talk about:
 
-**Automatic Acceleration of R programs with GPUs**
+[**Automatic Acceleration of R programs with GPUs**](https://github.com/EdinbR/edinbr-talks/raw/master/2017-02-15/JFumero_Automatic%20Acceleration%20of%20R%20programs%20with%20GPUs.pdf)
 
 > Graphics Processor Units (GPUs) are interesting hardware to parallelize and speed-up applications. However, the programmability of these devices is quite complex for most of the users and the existing standards for GPU programming are mostly available for low-level languages such as C. 
 
 > Academia and industry have proposed and implemented higher-level abstractions on top of the most common dynamic programming languages to program GPUs much more easily. For example in R, GPU programming is possible through external libraries (for a certain number of operations) or via wrappers in which the GPU code is normally written in C. But, would it not be better if the R interpreter could offload the potentially parallel R code to the GPU automatically? 
 
 > In this talk we present an R interpreter that automatically offloads parts of the R program into the GPU without any changes in the source code. We will show some preliminary results and a demo with a few examples. We will also show an overview about how the translation process (R to the GPU with OpenCL) is performed.
+
+To download the paper associated with this talk, click [here](https://github.com/EdinbR/edinbr-talks/raw/master/2017-02-15/JFumeroVEE2017.pdf).
 
 For any newcomers, here's a map of where we'll be.
 

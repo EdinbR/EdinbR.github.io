@@ -12,9 +12,9 @@ comments: true
 
 Our next meeting will be held on Wednesday **15th of March**, at **5.00pm, in LG.11, David Hume Tower** (on the lower ground floor - map below). As usual, the meeting will be followed by drinks and chat in the Potting Shed. Meetings are open for all to attend and newcomers/beginners are very welcome.
 
-Our speaker is [Benjamin Erichson](https://github.com/Benli11) from the School of Maths and Statistics at the University of St Andrews, who will talk about:
+Our speaker is [Benjamin Erichson](https://github.com/Benli11) from the School of Mathematics and Statistics at the University of St Andrews, who will talk about:
 
-**Randomized Matrix Decompositions using 'rsvd'**
+[**Randomized Matrix Decompositions using 'rsvd'**](https://github.com/EdinbR/edinbr-talks/raw/master/2017-03-15/BenErichson_rsvd.pdf)
 
 > Matrix decompositions play an important role for machine learning, statistical computing and elsewhere. However, massive datasets pose a computational challenge for traditional (deterministic) algorithms.
 
