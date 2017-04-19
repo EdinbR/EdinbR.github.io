@@ -13,13 +13,13 @@ This month's meeting will be held on Wednesday **19th of April**, at **5.00pm**,
 
 Our first speaker is [Victoria Avila](https://www.linkedin.com/in/victoriaavilaregidor/), Assistant Statistician and data visualisation champion at the National Records of Scotland, who will talk about:
 
-**Effective data visualisation**
+**Effective data visualisation** (see `.pptx` [here](https://github.com/EdinbR/edinbr-talks/raw/master/2017-04-19/EdinbR.org%20-%20April%20-%20Victoria%20Avila%20-%20Data%20Visualisation.pptx), and `.pdf` [here](https://github.com/EdinbR/edinbr-talks/raw/master/2017-04-19/EdinbR.org%20-%20April%20-%20Victoria%20Avila%20-%20Data%20Visualisation.pdf))
 > Data visualisation is a very trendy topic nowadays. So is R. In this talk I’ll give you some tips and guidelines to think about next time you need to visualise your data and communicate the findings of your research.
 
 <br>
 Our second speaker is [Caterina Constantinescu](http://www.ed.ac.uk/profile/caterina-constantinescu), who is part of the EdinbR team, and also a PhD student at the University of Edinburgh. The topic of discussion will be:
 
-**Making sense of Twitter data**
+**Making sense of Twitter data** (see `R` code [here](https://github.com/EdinbR/edinbr-talks/blob/master/2017-04-19/MakingSenseOfTwitterData_NoCodes.R), and get `.RData` [here](https://github.com/EdinbR/edinbr-talks/raw/master/2017-04-19/TwitterAnalysisData.RData))
 > In this talk, I will show you how to access your Twitter account's data, using the [`TwitteR`](https://cran.r-project.org/web/packages/twitteR/index.html) R package. I'll also demo some useful code, including data manipulations, example analyses and some graphics.
 
 
