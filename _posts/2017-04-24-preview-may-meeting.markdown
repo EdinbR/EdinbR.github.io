@@ -22,11 +22,11 @@ For this workshop, you will need to follow the exercises and examples along with
 Workshop pre-requisites:
 * Fully-charged laptop.
 * A copy of the [workshop material](https://github.com/AlastairKerr/Tutorials/blob/master/ggplot/ggplot.Rmd).
-* R and `ggplot2` package are installed, as well as the additional packages specified in the GitHub link above. But do not worry if some do not install properly, as these are not central to the session.
+* Having R and the `ggplot2` package installed, as well as the additional packages specified in the GitHub link above. But do not worry if some do not install properly, as these are not central to the session.
 * If you have RStudio installed, following the session using the Rmd file from GitHub will be much easier.
 
 
-You can sign up here for a **ticket on Eventbrite** [here](https://www.eventbrite.co.uk/e/edinbr-presents-ggplot2-workshop-with-alastair-kerr-tickets-33732035426), and here's a map for getting to the venue:
+You can sign up for a **ticket on Eventbrite** [here](https://www.eventbrite.co.uk/e/edinbr-presents-ggplot2-workshop-with-alastair-kerr-tickets-33732035426), and here's a map for getting to the venue:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.2618770489853!2d-3.190739334452959!3d55.94483288060511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c78481291d57%3A0x308db74e83fd68a5!2sDugald+Stewart+Building!5e0!3m2!1sen!2suk!4v1493050200995" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
