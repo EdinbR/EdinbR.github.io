@@ -15,7 +15,7 @@ This month's meeting will be held on Wednesday, **21st of June**, at **5.00pm**,
 
 Our first speaker is [Alastair Rushworth](https://alastairrushworth.github.io/), data scientist at Tesco Bank, who will tell us about:
 
-**Doing machine learning in R** 
+**Doing machine learning in R** (get slides [here](https://github.com/EdinbR/edinbr-talks/raw/master/2017-06-21/AlastairRushworth_MachineLearning_talk.pdf))
 > Recent developments in supervised learning have resulted in a diverse constellation of packages appearing on CRAN each with varying syntax, hyperparameter and input requirements. Navigating the idiosyncrasies of different software packages presents a substantial challenge for the time-pressed analyst wishing to compare (or combine) several model types for a particular task. In this talk I will provide a brief overview of the machine learning landscape in R, and introduce packages such as caret and mlr that provide high level wrappers to specialist CRAN packages and which streamline the process of working with different models.
 
 
