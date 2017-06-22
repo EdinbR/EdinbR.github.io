@@ -17,8 +17,8 @@ This evening was our last EdinbR meeting for this academic year. We'll be meetin
 Since September 2016, we have had a great lineup of speakers: no fewer than 13 presenting diverse topics, such as data viz, statistical models offered in various `R` packages, and several talks which were more heavily programming-oriented. We've also hosted one `ggplot2` workshop, which we will try to repeat in the next academic year.
 
 
-![Our last meeting: 21-06-2017](https://raw.githubusercontent.com/EdinbR/edinbr-talks/master/2017-06-21/19451696_1441188172591690_1505948642_o.jpg)
-![Our last meeting: 21-06-2017](https://raw.githubusercontent.com/EdinbR/edinbr-talks/master/2017-06-21/19449348_1441188112591696_1717577214_o.jpg)
+![Our last meeting in the 2016-2017 academic year (21-06-2017)](https://raw.githubusercontent.com/EdinbR/edinbr-talks/master/2017-06-21/19451696_1441188172591690_1505948642_o.jpg)
+![Our last meeting in the 2016-2017 academic year (21-06-2017)](https://raw.githubusercontent.com/EdinbR/edinbr-talks/master/2017-06-21/19449348_1441188112591696_1717577214_o.jpg)
 ![The ggplot2 workshop](https://raw.githubusercontent.com/EdinbR/edinbr-talks/master/2017-04-24/19401531_1441188219258352_635328314_o.jpg)
 
 
