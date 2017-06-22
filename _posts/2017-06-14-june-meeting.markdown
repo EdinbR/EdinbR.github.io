@@ -22,7 +22,7 @@ Our first speaker is [Alastair Rushworth](https://alastairrushworth.github.io/),
 <br>
 Our second speaker is [Nevil Hopley](https://www.linkedin.com/in/nevilhopley/?ppe=1), who teaches maths and statistics at George Watson's College, and has been learning `R` since January 2017. The discussion will focus on how to visualize frequency tables:
 
-**A novice R user's journey** 
+**A novice R user's journey** (download `R` code [here](https://github.com/EdinbR/edinbr-talks/blob/master/2017-06-21/NHopley_EdinbRTalk.R))
 > Consider an example data frame with 70 entries of two variables. These can be either numeric or categorical variables. In this basic example we have categorical values of ‘a’, ‘b’, ‘c’ and ‘d’ and numerical values of 1, 2, 3. Creating a frequency table from the data frame, using `table()` gives:
 
 |             |&emsp;&emsp;&emsp;1&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;2&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;3&emsp;&emsp;&emsp;|
