@@ -16,7 +16,7 @@ This month, our lineup includes talks on plotting postcodes on Google Maps, and 
 
 Our first speaker is [Nevil Hopley](https://www.linkedin.com/in/nevilhopley/?ppe=1), who teaches maths and statistics at George Watson’s College, and has been learning R since January 2017. He will be telling us about:
 
-**Plotting Postcodes on Google Maps**
+**Plotting Postcodes on Google Maps** (slides [here](https://github.com/EdinbR/edinbr-talks/raw/master/2017-09-20/NevilHopley_Sept2017_EdinbR%20Talk%20-%20Maps%20-%20optimised%20public.pdf))
 
 >This will be a short explanation of how to plot postcode location data on Google Maps of the UK. As an example, we shall look at the catchment area of a secondary school in Edinburgh, and where pupils live.
 
@@ -24,7 +24,7 @@ Our first speaker is [Nevil Hopley](https://www.linkedin.com/in/nevilhopley/?ppe
 <br>
 Our second speaker is [Dan Ridley-Ellis](http://blogs.napier.ac.uk/cwst/dan-ridley-ellis/), from the Centre for Wood Science and Technology, Edinburgh Napier University. He will be discussing:
 
-**R - on impulse and excitation**
+**R - on impulse and excitation** (slides [here](https://github.com/EdinbR/edinbr-talks/raw/master/2017-09-20/DanRidleyEllis_Sept2017_presentation.xps), and sample `R` code [here](https://github.com/EdinbR/edinbr-talks/blob/master/2017-09-20/DanRidleyEllis_Sept2017_data_to_wav.R))
 
 >“Impulse excitation”, also known as “impact excitation” and “resonance technique”, is a commonly used method to assess the stiffness of wood in both scientific and industrial settings. One or more modes of vibration are excited by a mechanical impulse and their resonant frequencies measured. When combined with density and dimensions, these frequencies can be used to calculate stiffness - an important property for construction timber. The technique may also be used to assess damping - an important property for wood used in musical instruments. 
 > 
