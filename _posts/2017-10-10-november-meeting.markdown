@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "November meeting: Shiny apps and gamms"
+title:  "October meeting: Shiny apps and gamms"
 date:   2017-10-10
 categories: edinbr
 tags:   announcement
