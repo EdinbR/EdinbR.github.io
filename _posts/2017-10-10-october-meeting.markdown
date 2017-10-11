@@ -11,7 +11,7 @@ comments: true
 
 Hi all, 
 
-This month we've got two great talks lined up, so we hope you'll join us in hearing about Shiny apps, and `gamms` models. The meeting will be held on Wednesday **18th of October**, at **5.30pm, in G.06, David Hume Tower** (on the ground floor - see map below). As usual, the meeting will be followed by drinks and chat in the Potting Shed. Meetings are open for all to attend and newcomers / beginners are very welcome.
+This month we've got two great talks lined up, so we hope you'll join us in hearing about Shiny apps, and `gamms` models. The meeting will be held on Wednesday **18th of October**, at **5.30pm, in G.06, 50 George Square** (on the ground floor - see map below). As usual, the meeting will be followed by drinks and chat in the Potting Shed. Meetings are open for all to attend and newcomers / beginners are very welcome.
 
 
 Our first speaker is [Dr. Riinu Ots](https://www.linkedin.com/in/riinu-ots-18860140/), who works as Data Manager at the [Surgical Informatics Research Group](http://surgicalinformatics.org/). She will be telling us about:
@@ -32,8 +32,7 @@ Our second speaker is [Dr. Josef Fruehwald](https://www.linkedin.com/in/josef-fr
 <br>
 For any newcomers, here's a map of where we'll be.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d939.4322782159774!2d-3.1868992813634778!3d55.9431477069392!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8b232656b3b16a57!2sDavid+Hume+Tower!5e0!3m2!1sen!2suk!4v1473937651228" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.322534985958!2d-3.189318484062028!3d55.94378148060493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c7839e9c711d%3A0x998c11ef90792a87!2s50+George+Square%2C+Edinburgh+EH8+9JU!5e0!3m2!1sen!2suk!4v1507753067487" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <br>
 See you there!
