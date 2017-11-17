@@ -16,14 +16,14 @@ We'll soon be meeting up for the last time in 2017! So please be sure to join us
 
 Our first speaker is [Nevil Hopley](https://www.linkedin.com/in/nevilhopley/?ppe=1), who teaches maths and statistics at George Watson’s College, and has been learning `R` since January 2017. He will be telling us about:
 
-**Sankey diagrams using the `riverplot` package**
+**Sankey diagrams using the `riverplot` package** (slides [here](https://github.com/EdinbR/edinbr-talks/raw/master/2017-11-15/NevilHopley_EdinbRTalk_Riverplots.pdf))
 
 > The construction and use of Sankey diagrams will be described and demonstrated in this talk. The example data sets will be Scottish Qualification Authority exam candidate progressions from National 5 to Higher to Advanced Higher. As always, there will be opportunity for more experienced users to offer suggestions for how the `R` code and resulting imagery can be enhanced even further!
 
 <br>
 Our second speaker is [Charlotte Woolley](http://www.j-evs.com/article/S0737-0806(15)00159-8/abstract), who is a Veterinary Clinical Sciences PhD student based at the Roslin Institute and the Royal (Dick) School of Veterinary Studies (University of Edinburgh). She will be discussing:
 
-**Using Google Trends to explore temporal and geographical patterns in search query data** 
+**Using Google Trends to explore temporal and geographical patterns in search query data**  (`R` code [here](https://github.com/CharlotteWoolley/Google_Trends_gtrendsR_Tutorial/blob/master/Google_Trends_gtrendsR_Tutorial.R))
 
 > Over 50% of the world’s population now has internet access and search query data is becoming an increasingly important source of information for science, finance, business, politics and many other industries. Google provides freely available search query data through their Google Trends facility, which can be accessed from R with the `gtrendsR` package. In this talk I will provide a brief introduction to Google Trends and will use `gtrendsR` to obtain the data and demonstrate a few of its potential applications. I will be providing example code and graphical representation of the data. 
 
