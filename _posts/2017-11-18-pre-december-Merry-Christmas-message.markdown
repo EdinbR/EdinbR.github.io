@@ -44,6 +44,10 @@ text( x = 0.52, y = 0.46, paste( "from EdinbR!" ),
 # Then use png(); print(message); dev.off() to export the 'message' plot as a .png.
 ```
 
+What you get is this:
+
+![](/assets/images/2017-11-18-pre-december-Merry-Christmas-message/MerryChristmasStartPoint.png)
+
 Now upload this very simple plot to [**WebPlotDigitizer**](http://arohatgi.info/WebPlotDigitizer/app3_12/), and let it work its magic. Its author, Ankit Rohatgi offers a very useful video tutorial [here](https://youtu.be/P7GbGdMvopU) (and you can find further information [here](https://automeris.io/WebPlotDigitizer/tutorial.html)).
 
 In this case, the job of WebPlotDigitizer is to convert our text to points with specific coordinates - and to do so quite precisely, so we don't end up with very fuzzy lettering. You can see the interface below:
