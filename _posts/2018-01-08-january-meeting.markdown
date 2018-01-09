@@ -27,11 +27,11 @@ Our first speaker is [Michael Spencer](http://mikerspencer.com/), data scientist
   - _digital terrain models_  
 >_Some of these topics are shown in the blog post [here](https://scottishsnow.wordpress.com/2017/11/13/spatial-networks-stjames-2/)._
 
+Our second speaker is [Susan Johnston](https://sejohnston.com/), who is a Royal Society Research Fellow within the Institute of Evolutionary Biology at the University of Edinburgh. She will be talking about:
 
-<br>
-Our second speaker is [Susan Johnston](https://sejohnston.com/), who is a Royal Society Research Fellow within the Institute of Evolutionary Biology at the University of Edinburgh. 
+**Writing R packages from scratch: a quick-start guide.**
 
->Her topic and abstract will soon follow!
+> R packages are the fundamental units of reproducible R code. Many of us write utility functions to help carry out everyday data tasks, such as data-processing, graphics, and so on. A great way to organise, document and distribute these functions is to wrap them into an R package. I will present a simple workflow using RStudio with the packages devtools and roxygen2 to create a basic R package from scratch. 
 
 
 
