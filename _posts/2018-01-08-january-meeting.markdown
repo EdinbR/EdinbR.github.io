@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "January meeting: Getting started with spatial data"
+title:  "January meeting: Getting started with spatial data and writing R packages from scratch"
 date:   2018-01-08
 categories: edinbr
 tags:   announcement
