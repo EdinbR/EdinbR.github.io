@@ -16,7 +16,8 @@ We are back for more R talks in 2018! Our upcoming meeting will be held on Wedne
 
 Our first speaker is [Michael Spencer](http://mikerspencer.com/), data scientist and hydrologist. Mike has a PhD from the University of Edinburgh, and has researched snow melt frequency, as well as the link between snow cover and climate fluctuations, using computer simulation, machine learning and statistics. In this talk, he will be telling us about:
 
-**Getting started with spatial data**
+**Getting started with spatial data**<br/>
+(slides [here](https://github.com/EdinbR/edinbr-talks/blob/master/2018-01-17/MSpencer_spatial.pdf))
 
 >This talk will be a brief introduction to using R (and other open source software) for working with spatial data. The talk will cover:
 * _types of spatial data_
@@ -29,7 +30,8 @@ Our first speaker is [Michael Spencer](http://mikerspencer.com/), data scientist
 
 Our second speaker is [Susan Johnston](https://sejohnston.com/), who is a Royal Society Research Fellow within the Institute of Evolutionary Biology at the University of Edinburgh. She will be talking about:
 
-**Writing R packages from scratch: a quick-start guide.**
+**Writing R packages from scratch: a quick-start guide.**<br/>
+(slides [here](https://github.com/EdinbR/edinbr-talks/blob/master/2018-01-17/Writing_R_Packages_from_Scratch_v2_annotated.pdf))
 
 > R packages are the fundamental units of reproducible R code. Many of us write utility functions to help carry out everyday data tasks, such as data-processing, graphics, and so on. A great way to organise, document and distribute these functions is to wrap them into an R package. I will present a simple workflow using RStudio with the packages devtools and roxygen2 to create a basic R package from scratch. 
 
