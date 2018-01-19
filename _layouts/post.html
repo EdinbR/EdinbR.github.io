@@ -122,10 +122,11 @@
         </footer>
         <div class="bottom-teaser cf">
           <div class="isLeft">
-            <h5 class="index-headline featured"><span>Written by</span></h5>
+            <h5 class="index-headline featured"><span>Written by:</span></h5>
+            </br>
             <section class="author">
               <!-- allow for per-post author images -->
-              {% if author %}
+                {% if author %}
                 <div class="author-image" style="background-image: url({{ site.url }}/assets/images/{{ author.image }})">Blog Logo</div>
                 <h4>{{ author.name }} <sup><span style="font-size: .7rem;">
                 {% if author.twitter %}
@@ -150,9 +151,11 @@
           </div>
           {{/post}}
           <div class="isRight">
-            <h5 class="index-headline featured"><span>If you would like to sponsor EdinbR, get in touch.</span></h5>
+            <h5 class="index-headline featured"><span>Sponsored by:</span></h5>
             <footer class="site-footer">
-              <!-- Sponsorship here -->
+              <a href="https://www.jumpingrivers.com/"> 
+              <img src="{{ site.url }}/assets/images/JumpingRivers.png" style="max-width:50%;"/></a>
+              <p>If you would like to sponsor EdinbR, please get in touch!</p> 
             </footer>
           </div>
         </div>
