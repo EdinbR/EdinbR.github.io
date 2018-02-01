@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "February meeting with special guest David Robinson"
-date:   2018-01-08
+date:   2018-02-01
 categories: edinbr
 tags:   announcement
 image:
