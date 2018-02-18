@@ -11,7 +11,7 @@ hidden: true
 ---
 
 
-Thanks for stopping by! Please fill in the short form below. Responses are anonymous.
+Thanks for stopping by! Please fill in the short form below. Responses are anonymous (except if you volunteer for an EdinbR talk), and will not be made public.
 
 
 <br>
