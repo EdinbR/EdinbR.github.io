@@ -16,7 +16,7 @@ Our upcoming meeting will be held on Wednesday **21st of March**, at **5.30pm, i
 
 Our first speaker is [Dr Milan Valášek](https://www.ed.ac.uk/profile/milan-valasek), postdoctoral tutor in Statistics, within the Department of Psychology at the University of Edinburgh. In this talk, he will be telling us about:
 
-**Testing GUI apps**<br/>
+**Testing GUI apps** (code [here](https://github.com/EdinbR/edinbr-talks/raw/master/2018-03-21/Milan_Valasek_tcltk_edinbR_talk.zip))<br/>
 
 >At two previous meetings, we discussed building interactive GUI applications (David C Sterratt, 20 January 2016, see [here](https://github.com/EdinbR/edinbr-talks/tree/master/2016-01-13)) and programmatic code testing (Dave Evans, 17 February 2016, see [here](https://github.com/EdinbR/edinbr-talks/blob/master/2016-02-17/BehaviourDrivenDevelopment.pdf)).
  The present talk is motivated by a question that arose at the former of the two meetings, bringing these topics together: How do you build programmatic unit tests for R GUI apps? I will present one way of answering this question, using the `tcltk` package for building GUI apps in Tcl/Tk and the `testthat` package for programmatic code testing.

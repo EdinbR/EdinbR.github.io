@@ -23,6 +23,7 @@ The meeting will be followed by a small reception sponsored by [Jumping Rivers](
 >Text data is increasingly important in many domains, but it can be challenging to manipulate and visualize within typical R analysis workflows. In this talk, I will introduce the tidytext package and show how tidy data principles and tools can make text mining easier and more effective, by structuring text as one-token-per-row. You'll learn how to manipulate, summarize, and visualize text's characteristics using R packages from the tidy ecosystem such as dplyr, ggplot2, and tidyr. You'll see case studies of sentiment analysis, tf-idf, and topic modeling applied to examples from literature and Twitter, and gain the tools to draw conclusions from your own text datasets.
 
 
+Some of the `R` code demoed at this meeting has kindly been reproduced by Jumping Rivers on their blog [here](https://blog.jumpingrivers.com/posts/2018/tidytext_edinbr_2018/).
 
 <br>
 <br>
