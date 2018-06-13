@@ -25,7 +25,7 @@ Our upcoming meeting will be held on Wednesday **16th of May**, at **5.30pm, in 
 
 Our first speaker is [Euan Gardner](https://www.linkedin.com/in/euan-gardner-86496613b/), Senior Information Analyst/Statistician and Member of the Data Science Team within the NHS. In this talk, he will be telling us about:
 
-**Practical Data Science with Machine Learning and big data in R**<br/>
+**Practical Data Science with Machine Learning and big data in R** (`R` code [here](https://github.com/EdinbR/edinbr-talks/blob/master/2018-05-16/EuanGardner_PracticalDataScience.R))<br/>
 
 >There’s been a great deal of interest around data science and machine learning in both the analytics community and wider media. This has translated into many excellent tutorials and resources online for R but most use a standardised dataset, such as the excellent Mixed National Institute of Standards and Technology (MNIST). While this is great for general teaching there are few examples where strategies that cover importing your own data and dealing with the problems of large amounts of data in the context of a larger analytical pipeline are dealt with. This talk is, therefore, based on my own (limited) knowledge and experiences around using R to work with large amounts of complex data, using practical machine learning techniques, and deploying the knowledge and findings to a wider audience. The talk will cover:
 
