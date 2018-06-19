@@ -55,7 +55,9 @@ alt="Thanks to the The Data Lab for facilitating this project" width="50%"></a>
 
 <br/>
 
-You can read a very concise description of the project, and access the underlying **R Shiny code** via [The Data Lab's technical blog](https://thedatateam.silvrback.com/r-shiny-app-for-visualising-transport-routes), and cite it as:
+
+
+You can read a very concise description of the project, and access the underlying <span style="background-color: yellow">**R Shiny code** via [The Data Lab's technical blog](https://thedatateam.silvrback.com/r-shiny-app-for-visualising-transport-routes)</span>, and cite it as:
 >Constantinescu, A.C. (2018, June). Exploring transport routes, journey characteristics and postcode networks using R Shiny [R script as GitHub Gist]. Edinburgh, Scotland: The Data Lab Innovation Centre. Retrieved [Month] [Day], [Year], from [URL]
 
 <br>
