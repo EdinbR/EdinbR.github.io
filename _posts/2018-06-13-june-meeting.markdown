@@ -18,7 +18,7 @@ This month's meeting will be held on Wednesday **20th of June**, at **5.30pm, in
 
 Our speaker is [Dr. Peter McKenna](https://psych.hw.ac.uk/people/f-m/dr-peter-mckenna.html), whose research interests lie in the psychological and societal impact of technology. This includes the mediatory effects of videogame play on cognition, human-robot interaction, and technologies for special populations such as individuals with autism-spectrum disorder (ASD). Peter is currently a research associate on the EPSRC funded [SoCoRo project](http://www.socoro.net). He and the team are developing a socially competent robot to teach adults with an ASD social and employment skills. In this talk, he will be telling us about:
 
-**Tidyverse methods for HRI research**<br/>
+**Tidyverse methods for HRI research** (slides [here](https://cdn.rawgit.com/EdinbR/edinbr-talks/edc3c814/2018-06-20/PeterMcKenna_tidyverse-hri.html))<br/>
 
 >One of the challenges in Human-robot interaction (HRI) research is synthesising multiple data sources (e.g. questionnaires, behavioural data) into neat and tidy objects for later analysis. While the syntax of the Tidyverse makes for easier, more logical reading of code than base R, the packages included also allow for a more contained workflow. In the following talk I will discuss some of the methods I have used to create tidy objects for data analysis, graphics and analysis. I argue this set of packages is a powerful tool in the domain of HRI, particularly for data exploration.
 

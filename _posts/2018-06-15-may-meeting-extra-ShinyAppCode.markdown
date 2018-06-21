@@ -17,7 +17,7 @@ comments: true
 ## Hello,
 <br/>
 
-I am pleased to say that following my Shiny code demo from a previous EdinbR meeting (see [here](http://edinbr.org/edinbr/2018/05/08/may-meeting.html)), I am now able to share a more generic version of the code. Because I do not own the associated data, I am not able to include that as well - however the script alone should hopefully be enough to demonstrate various things you can achieve in Shiny.
+I am pleased to say that following my Shiny code demo from a [previous EdinbR meeting](http://edinbr.org/edinbr/2018/05/08/may-meeting.html), I am now able to share a more generic version of the code - **see link below**. Because I do not own the associated data, I am not able to include that as well - however the script alone should hopefully be enough to demonstrate various things you can achieve in Shiny.
 
 Prior to visualising the data within the Shiny app, it underwent some cleaning and transformations. Then, I used the `stplanr` package (as well as the [GraphHopper](https://www.graphhopper.com/) routing engine) to create the __spatial lines__ connecting the origins and destinations for each unique journey. After these preliminary steps (which are not included in the code below), I was able to move on to creating the Shiny app itself, which looks roughly like this:
 
@@ -55,9 +55,9 @@ alt="Thanks to the The Data Lab for facilitating this project" width="50%"></a>
 
 <br/>
 
+Other packages I used include: `shinydashboard` (for more flexibility in determining the look of the UI), `DT` (for beautiful, interactive tables), `leaflet` (for creating the interactive maps over which to plot the data), and `visNetwork` (to visualise the network of postcodes between which people travelled).
 
-
-You can read a very concise description of the project, and access the underlying <span style="background-color: yellow">**R Shiny code** via [The Data Lab's technical blog](https://thedatateam.silvrback.com/r-shiny-app-for-visualising-transport-routes)</span>, and cite it as:
+You can read a very concise description of the project, and access the underlying <span style="background-color: yellow">**R Shiny code** via [The Data Lab's technical blog](https://thedatateam.silvrback.com/r-shiny-app-for-visualising-transport-routes)</span>. If you would like to adapt this code for your purposes, please cite it as:
 >Constantinescu, A.C. (2018, June). Exploring transport routes, journey characteristics and postcode networks using R Shiny [R script as GitHub Gist]. Edinburgh, Scotland: The Data Lab Innovation Centre. Retrieved [Month] [Day], [Year], from [URL]
 
 <br>
