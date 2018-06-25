@@ -24,7 +24,7 @@ Our first speaker is [Dave Evans](https://www.linkedin.com/in/dave-evans-a2a2555
 
 Our second speaker is [Nevil Hopley](https://www.linkedin.com/in/nevilhopley/), Head of Mathematics at George Watson's College, and the author of [Calculator Software](http://www.calculatorsoftware.co.uk/cs/about.htm). He will be talking about:
 
-**R Markdown with bump charts, heatmaps and networks**<br/>
+**R Markdown with bump charts, heatmaps and networks** (slides [here](https://github.com/EdinbR/edinbr-talks/blob/master/2018-04-18/NevilHopley_EdinbRTalk_RMarkdownAndUCASForWebsite.pdf))<br/>
 
 >This short talk will describe the move from using R Scripts to R Markdown, the hurdles that were encountered along the way and the subsequent generation of various static and interactive data visualisations relating to UCAS University applications. These will include bump charts, heat maps, networks and the trusty stacked bar chart!
 
