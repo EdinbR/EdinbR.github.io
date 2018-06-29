@@ -17,7 +17,7 @@ Our upcoming meeting will be held on Wednesday **18th of April**, at **6.00pm, i
 
 Our first speaker is [Dave Evans](https://www.linkedin.com/in/dave-evans-a2a2555b/), Engineering Team Lead (Analytics) at FreeAgent, and ex particle physicist. In this talk, he will be telling us about:
 
-**The cargo cult of the south seas**<br/>
+**The cargo cult of the south seas** (slides [here](https://github.com/EdinbR/edinbr-talks/blob/master/2018-04-18/DaveEvans_TheCargoCultofTheSouthSeas.pdf))<br/>
 
 >Some of the behaviours that have been observed when less developed societies come into contact with modern industrial technology bear a striking similarity with how science is used and abused in every day life. In this talk I'll revisit the analogy first made by Richard Feynman, and discuss how it permeates everything from project management to usage of third party R packages, and what we can do as scientists to help.
 
