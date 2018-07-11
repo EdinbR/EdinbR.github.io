@@ -14,7 +14,7 @@ comments: true
 
 ## Hi everyone,
 <br/>
-This month's meeting will be held on Wednesday **20th of June**, at **5.30pm, in room S.1, 7 George Square** (see map below). As usual, the meeting will be followed by drinks and chat in the Potting Shed. Our meetings are open for all to attend, and newcomers / beginners are very welcome!
+This month's meeting will be held on Wednesday **20th of June**, at **5.30pm, in room S.1, 7 George Square** (kindly supported by [The Data Lab](https://thedatalab.com/); see map below). As usual, the meeting will be followed by drinks and chat in the Potting Shed. Our meetings are open for all to attend, and newcomers / beginners are very welcome!
 
 Our speaker is [Dr. Peter McKenna](https://psych.hw.ac.uk/people/f-m/dr-peter-mckenna.html), whose research interests lie in the psychological and societal impact of technology. This includes the mediatory effects of videogame play on cognition, human-robot interaction, and technologies for special populations such as individuals with autism-spectrum disorder (ASD). Peter is currently a research associate on the EPSRC funded [SoCoRo project](http://www.socoro.net). He and the team are developing a socially competent robot to teach adults with an ASD social and employment skills. In this talk, he will be telling us about:
 
