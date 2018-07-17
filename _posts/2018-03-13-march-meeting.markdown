@@ -24,7 +24,7 @@ Our first speaker is [Dr Milan Valášek](https://www.ed.ac.uk/profile/milan-val
 
 Our second speaker is [Dr Elliot Meador](https://www.sruc.ac.uk/emeador), researcher of rural economy and society, at Scotland's Rural College (SRUC). He will be talking about:
 
-**Quantifying networks using survey data: Things your parents don't want you to know...**<br/>
+**Quantifying networks using survey data: Things your parents don't want you to know...** (R code included [here](https://github.com/EdinbR/edinbr-talks/blob/master/2018-03-21/Elliot_meador_EdinbR.Rmd))<br/>
 
 > Social networks lie at the heart of many prominent social theories, and survey-driven research is a lasting methodology used in the social sciences.  In this talk, I review some approaches to conducting network analysis using survey data.  Specifically, I use R's `igraph` package and the tidyverse to create useful and easily understandable networks from survey data collected in rural areas in Sub-Saharan Africa. The following topics will be discussed: <br/>
 **1.** Moving between graph types (i.e. creating bipartite graphs); <br/>
