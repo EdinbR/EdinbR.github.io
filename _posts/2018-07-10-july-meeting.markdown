@@ -21,7 +21,7 @@ The upcoming meeting will be held on Wednesday **18th of July**, at **5.30pm**. 
 
 Our first speaker is [**Dr. Russell Hyde**](https://www.gla.ac.uk/researchinstitutes/cancersciences/staff/russellhyde/), research associate within the [Paul O'Gorman Leukaemia Research Centre](https://www.gla.ac.uk/researchinstitutes/cancersciences/research/units/paulogormanleukaemiaresearchcentre/). He has been working on his very own R package, which he will be presenting to us:
 
-<h2>Polyply package</h2> 
+<h2>Polyply package</h2> (slides [here](https://cdn.rawgit.com/EdinbR/edinbr-talks/ef941280/2018-07-18/RPubs%20-%20%60polyply%60%20slides.html))
 
 <br/>
 
@@ -34,7 +34,7 @@ Our second speaker is [**Dr. Gavin Bowick**](https://www.researchgate.net/scient
 
 <h2>Becoming a regular useR</h2>
 
-**From haemorrhagic fevers to sustainable fashion, marketing and business analytics** <br/>
+**From haemorrhagic fevers to sustainable fashion, marketing and business analytics** (slides [here](https://github.com/EdinbR/edinbr-talks/blob/master/2018-07-18/Gavin_Bowick_EdinbRJuly18.ppt)) <br/>
 
 >While I’m a relative newcomer to R, it has now become a central part of (nearly) every day's work. The functionality and flexibility of R and its myriad packages make it an ideal platform for virtually every type of analysis across every discipline. In this talk, I will discuss how I have used R to perform techniques such as machine learning using support vector machines and random forests, to regression, survival analysis, sentiment analysis and more, in fields from infectious diseases to marketing analytics, as well as how R Markdown and API integrations can make the regular reporting of key performance indicators much more efficient.
 
