@@ -21,9 +21,7 @@ The upcoming meeting will be held on Wednesday **18th of July**, at **5.30pm**. 
 
 Our first speaker is [**Dr. Russell Hyde**](https://www.gla.ac.uk/researchinstitutes/cancersciences/staff/russellhyde/), research associate within the [Paul O'Gorman Leukaemia Research Centre](https://www.gla.ac.uk/researchinstitutes/cancersciences/research/units/paulogormanleukaemiaresearchcentre/). He has been working on his very own R package, which he will be presenting to us:
 
-<h2>Polyply package</h2> (slides [here](https://cdn.rawgit.com/EdinbR/edinbr-talks/ef941280/2018-07-18/RPubs%20-%20%60polyply%60%20slides.html))
-
-<br/>
+<h2>Polyply package</h2> (slides [here](https://cdn.rawgit.com/EdinbR/edinbr-talks/ef941280/2018-07-18/RPubs%20-%20%60polyply%60%20slides.html)) <br/>
 
 >Briefly, `polyply` allows you to do `dplyr`-type commands over a list of heterogeneous data frames. I mostly use it for interactive work where it saves me some memory issues, cleans up pipelines that look like: `(filter(table, ...) %>% join(filter(table, ...)) %>% join(.....))` and reduces my temp-variable count. 
 
