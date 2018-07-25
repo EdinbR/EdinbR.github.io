@@ -27,7 +27,7 @@ So, Curtis will be discussing some cool features added recently for:
 >RMarkdown is a simple tool to mix your code (R, Python, Bash, etc.), results, and prose in a single document. In this talk we review a few extensions of this tool to make your data science workflow more efficient and your output more useful. <br/>
  * _Deploy to html, pdf, word, ppt, blogdown, bookdown and much more._ 
  * _RMarkdown Notebooks - Interact with and develop your document as you develop it._
- * _HTMLWidgets - Embedding interactive JavaScrip visualizations in your R Markdown doc is easy._
+ * _HTMLWidgets - Embedding interactive JavaScript visualizations in your R Markdown doc is easy._
  * _Parameterized markdown documents - specify parameters to customize and further automate your analysis._
  * _FlexDashboards - Embedding interactivity (Shiny Apps) in R Markdown documents._
 
