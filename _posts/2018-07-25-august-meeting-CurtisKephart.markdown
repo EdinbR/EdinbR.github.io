@@ -16,7 +16,7 @@ Hi everyone,
   
 As it turns out, we _will_ have a meeting in August after all! So I hope you're back from holiday, because [Curtis Kephart](https://www.linkedin.com/in/curtiskephart/) from [RStudio](https://www.rstudio.com/) is visiting Scotland around that time, and has offered to come give a talk. Until recently, Curtis was an academic economist, but at the moment he is working as [Community Organizer at RStudio](http://community.rstudio.com/) - which he will be able to share more about himself!
 
-Specifically, the upcoming meeting will be held on Wednesday **15th of August**, at **4.00pm** (notice the slightly earlier start due to university timetabling issues). The venue is the Dugald Stewart Building, **room 1.20**. As usual, the meeting is open for all to attend, and newcomers / beginners are very welcome! If you want to join us, can you please let me know [**in this Google Form**](https://goo.gl/forms/BEVgLSXNG6rrwfEh2), as I'd like to get an idea of numbers.
+Specifically, the upcoming meeting will be held on Wednesday **15th of August**, at **4.00pm** (notice the slightly earlier start due to university timetabling issues). The venue is the **Psychology Building in 7 George Square, room F.21**. As usual, the meeting is open for all to attend, and newcomers / beginners are very welcome! If you want to join us, can you please let me know [**in this Google Form**](https://goo.gl/forms/BEVgLSXNG6rrwfEh2), as I'd like to get an idea of numbers.
 <br/>
 [FYI, all data is anonymous unless you provide contact details yourself as comments, and you will not need to log in to a Google account either].
 
@@ -50,8 +50,7 @@ Should time allow it, Curtis can also give a quick demo of:
 <br/>
 I do hope you'll join us, in which case here's a map of where we'll be:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.2325514308473!2d-3.189721883961712!3d55.94534118459296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c7847ee4d00b%3A0x312cbe8742a8e432!2sUniversity+of+Edinburgh%2C+Edinburgh+EH8+9AB!5e0!3m2!1sen!2suk!4v1532522448547" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.27855580378!2d-3.190638783961701!3d55.94454378465463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c78367403f5b%3A0x342d6b9392ffecc6!2s7+George+Square%2C+Edinburgh+EH8+9JZ!5e0!3m2!1sen!2suk!4v1533634637661" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <br/>
 See you there!
