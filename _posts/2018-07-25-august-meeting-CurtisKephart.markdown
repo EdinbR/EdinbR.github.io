@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "August meeting: Recently added features in RMarkdown"
+title:  "August meeting: Recently added features in R Markdown"
 date:   2018-07-25
 categories: edinbr
 tags:   announcement
@@ -22,11 +22,11 @@ Specifically, the upcoming meeting will be held on Wednesday **15th of August**,
 
 So, Curtis will be discussing some cool features added recently for:
 
-**RMarkdown in production**
+**R Markdown in production** (slides [here](https://github.com/EdinbR/edinbr-talks/raw/master/2018-08-15/CurtisKephart_RStudio_markdown_community_EdinbR.pdf))
 
->RMarkdown is a simple tool to mix your code (R, Python, Bash, etc.), results, and prose in a single document. In this talk we review a few extensions of this tool to make your data science workflow more efficient and your output more useful. <br/>
+>R Markdown is a simple tool to mix your code (R, Python, Bash, etc.), results, and prose in a single document. In this talk we review a few extensions of this tool to make your data science workflow more efficient and your output more useful. <br/>
  * _Deploy to html, pdf, word, ppt, blogdown, bookdown and much more._ 
- * _RMarkdown Notebooks - Interact with and develop your document as you develop it._
+ * _R Markdown Notebooks - Interact with and develop your document as you develop it._
  * _HTMLWidgets - Embedding interactive JavaScript visualizations in your R Markdown doc is easy._
  * _Parameterized markdown documents - specify parameters to customize and further automate your analysis._
  * _FlexDashboards - Embedding interactivity (Shiny Apps) in R Markdown documents._
@@ -38,7 +38,7 @@ Should time allow it, Curtis can also give a quick demo of:
 **RStudio Connect**
 
 > [RStudio Connect](https://www.rstudio.com/products/connect/) is a commercial product by RStudio. It allows for the deployment of data science artifacts super easy:
-* _Push-button deployment of all sorts of RMarkdown docs, shiny apps, and plumber APIs._
+* _Push-button deployment of all sorts of R Markdown docs, shiny apps, and plumber APIs._
 * _Secure who has access to those reports._
 * _Automate updating and distribution of those reports._ 
 
