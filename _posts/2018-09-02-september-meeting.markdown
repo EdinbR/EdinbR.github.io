@@ -21,9 +21,9 @@ Our upcoming meeting will be held one week earlier than usual, on Wednesday **12
 
 Our first speaker is [Alastair Kerr](https://www.linkedin.com/in/alastair-kerr-37726732/), Bioinformatics Core Facility Manager (Wellcome Trust Centre for Cell Biology, University of Edinburgh). He will be presenting to us a short:
 
-## Seminar on R [plumber](https://www.rplumber.io/) <br/>
+## Demo on R [plumber](https://www.rplumber.io/) <br/>
 
-> Details will follow shortly.
+> R Markdown and R Shiny facilitate R-programmers to communicate their data and ideas to other people. But how can R code and data be made interoperable with other computers and programming languages? Representational State Transfer (REST), is a common standard that enables RESTful applications to communicate over HTTP and is found in many web services. The R package `plumber` adds this functionality easily to existing R code. I will explain what you need to know about creating your own RESTful program in R and `plumber`, highlighting some key features and security considerations. Assuming internet connections and firewalls are working as expected, there should also be a [live demo](https://github.com/AlastairKerr/plumberSeminar) that will allow you to interact with the apps using a laptop or smartphone.
 
 
 <br/>
