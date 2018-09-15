@@ -31,7 +31,7 @@ Our first speaker is [Alastair Kerr](https://www.linkedin.com/in/alastair-kerr-3
 Our second speaker is [**Nevil Hopley**](https://www.linkedin.com/in/nevilhopley/?ppe=1), Head of Mathematics at George Watson's College, and the author of [Calculator Software](http://www.calculatorsoftware.co.uk/cs/about.htm). He will be discussing:
 
 
-## The Journey from R Scripts to R Markdown to Shiny
+## The Journey from R Scripts to R Markdown to Shiny (pdf [here](https://github.com/EdinbR/edinbr-talks/raw/master/2018-09-12/EdinbR%20Talk%20-%20R%20scripts%20to%20Shiny.pdf))
 
 >After starting programming with R back in January 2017, Nevil Hopley has now arrived in the world of Shiny interactivity! This first talk (1 of 2) will describe a project that started as a simple R script, evolved into Rmarkdown and has now arrived in Shiny. There will be stories of many dead-ends, a few moments of enlightenment, and the professional help received from [Jumping Rivers](https://www.jumpingrivers.com/?utm_source=sponsor&utm_medium=image&utm_campaign=edinbR) consultants. You’ll see `ggplot`, `plotly` and `networkD3` visualisations of school exam data as well as snippets of R code. Git and GitHub may even get a mention. Part 2 of the talk will conclude at a future EdinbR meeting.
 
