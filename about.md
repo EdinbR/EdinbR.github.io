@@ -14,15 +14,15 @@ All talks are archived collectively on our Github [here](https://github.com/Edin
 
 We are always looking for R enthusiasts, sponsors and partnerships, so please get in touch via [email](mailto:info@edinbr.org). We hope to hear from you and see you at our meetings!
 
-
+<br/>
 
 Sponsors:
 
 <div class="row" style="display: flex;">
-  <div class="column" style="flex: 33.33%; padding: 5px;">
+  <div class="column" style="flex: 50%; padding: 5px;">
     <img src="../assets/images/RConsortium_Vertical_Pantone.png" alt="" style="width:200px;">
   </div>
-  <div class="column" style="flex: 33.33%; padding: 5px;">
-    <img src="../assets/images/JumpingRivers.png" alt="" style="width:200px;">
+  <div class="column" style="flex: 50%; padding: 5px;">
+    <a href="https://www.jumpingrivers.com/?utm_source=sponsor&utm_medium=image&utm_campaign=edinbR"><img src="../assets/images/JumpingRivers.png" alt="" style="width:200px;"></a>
   </div>
 </div> 
