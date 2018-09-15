@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aaac7e7-4d0c-47f9-bd17-251cb08da61f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-02-september-meeting.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-02-september-meeting.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,42 +50,43 @@
     <session id="87182373">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.42" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="markdown" value="3" />
+          <entry key="markdown" value="18" />
+          <entry key="md" value="214" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="232" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-august-meeting-CurtisKephart.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="975">
-                <caret line="52" column="372" selection-start-line="52" selection-start-column="372" selection-end-line="52" selection-end-column="372" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-09-02-september-meeting.markdown">
+        <entry file="file://$PROJECT_DIR$/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
-                <caret line="25" column="738" selection-start-line="25" selection-start-column="738" selection-end-line="25" selection-end-column="738" />
+              <first_editor relative-caret-position="255">
+                <caret line="10" column="369" selection-start-line="10" selection-start-column="369" selection-end-line="10" selection-end-column="369" />
               </first_editor>
               <second_editor />
             </state>
@@ -99,9 +101,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-25-august-meeting-CurtisKephart.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-09-02-september-meeting.markdown" />
+        <option value="$PROJECT_DIR$/about.md" />
       </list>
     </option>
   </component>
@@ -122,23 +124,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="EdinbR.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EdinbR.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EdinbR.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EdinbR.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="EdinbR.github.io_Team" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EdinbR.github.io_Team" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,12 +169,13 @@
       <workItem from="1533120726516" duration="1057000" />
       <workItem from="1533122352560" duration="11000" />
       <workItem from="1533634298710" duration="356000" />
-      <workItem from="1535998581190" duration="119000" />
+      <workItem from="1535998581190" duration="481000" />
+      <workItem from="1537047618280" duration="2987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1543000" />
+    <option name="totallyTimeSpent" value="4892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1922" height="1030" extended-state="6" />
@@ -209,11 +207,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-02-september-meeting.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <first_editor relative-caret-position="675">
+            <caret line="33" column="174" selection-start-line="33" selection-start-column="174" selection-end-line="33" selection-end-column="174" />
           </first_editor>
           <second_editor />
         </state>
@@ -222,18 +220,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-august-meeting-CurtisKephart.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="975">
+          <first_editor relative-caret-position="954">
             <caret line="52" column="372" selection-start-line="52" selection-start-column="372" selection-end-line="52" selection-end-column="372" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-02-september-meeting.markdown">
+    <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
-            <caret line="25" column="738" selection-start-line="25" selection-start-column="738" selection-end-line="25" selection-end-column="738" />
+          <first_editor relative-caret-position="255">
+            <caret line="10" column="369" selection-start-line="10" selection-start-column="369" selection-end-line="10" selection-end-column="369" />
           </first_editor>
           <second_editor />
         </state>
