@@ -4,7 +4,7 @@
 # Site settings
 title: "EdinbR: The Edinburgh R User Group"
 description: > # this means to ignore newlines until "email:"
-   Local meetups and training for the R programming language
+   Local <a href='https://www.meetup.com/EdinbR/'>meetups</a> and training for the R programming language
 
 email: info@edinbr.org
 #blog logo
