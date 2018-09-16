@@ -2,7 +2,7 @@
 # github highlights with rouge and marks-up with kramdown (We used to use pygments and redcarpet)
 
 # Site settings
-title: "EdinbR: The Edinburgh R Usergroup"
+title: "EdinbR: The Edinburgh R User Group"
 description: > # this means to ignore newlines until "email:"
    Local meetups and training for the R programming language
 
@@ -29,23 +29,27 @@ social:
     url:  https://groups.google.com/forum/#!forum/edinbr/join
     desc: Mailing list
 
-  - icon:	twitter
-    url:	https://twitter.com/edinb_r
-    desc: Follow EdinbR on twitter
+  - icon: twitter
+    url: https://twitter.com/edinb_r
+    desc: Follow EdinbR on Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
-  - icon:	facebook
-    url:	https://www.facebook.com/EdinburghRusers
-    desc: Like EdinbR on facebook
+  - icon: meetup
+    url:  https://www.meetup.com/EdinbR/
+    desc: Meetup
+
+  - icon: facebook
+    url: https://www.facebook.com/EdinburghRusers
+    desc: Like EdinbR on Facebook
     share_url: //www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/EdinbR
-    desc:	Fork EdinbR on github
+  - icon: github
+    url: https://github.com/EdinbR
+    desc: Fork EdinbR on Github
     share_url:
     share_title:
     share_link:
