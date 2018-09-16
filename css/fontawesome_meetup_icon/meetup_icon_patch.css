@@ -1,0 +1,19 @@
+﻿/*!
+ *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ *
+ *  This small css file is based on https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css 
+ *  This subset of that file is used to add extra icons to a system based on 4.2.0 of font awesome that can't easily be upgraded
+ *
+ */@font-face {
+  font-family:'FontAwesome';src:url('./fontawesome-webfont-4.7.0.eot');
+  src:url('.fontawesome-webfont-4.7.0-iefix.eot') format('embedded-opentype'),
+  url('./fontawesome-webfont-4.7.0.woff2') format('woff2'),
+  url('./fontawesome-webfont-4.7.0.woff') format('woff'),
+  url('./fontawesome-webfont-4.7.0.ttf') format('truetype'),
+  url('./fontawesome-webfont-4.7.0.svg') format('svg');font-weight:normal;font-style:normal;
+}
+
+.fa-meetup:before {
+  content: "\f2e0";
+}
