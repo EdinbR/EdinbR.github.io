@@ -36,7 +36,7 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-  - icon: meetup
+  - icon: 'meetup fa-1x'
     url:  https://www.meetup.com/EdinbR/
     desc: Meetup
 
