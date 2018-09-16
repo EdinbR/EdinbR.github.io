@@ -9,34 +9,37 @@ layout: default
 </div>
 
 <header class="blog-header">
-    
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-87762630-1', 'auto');
-  ga('send', 'pageview');
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/brands.css" integrity="sha384-rf1bqOAj3+pw6NqYrtaE1/4Se2NBwkIfeYbsFdtiR6TQz0acWiwJbv1IM/Nt/ite" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/fontawesome.css" integrity="sha384-1rquJLNOM3ijoueaaeS5m+McXPJCGdr5HcA03/VHXxcp2kX2sUrQDmFc3jR5i/C7" crossorigin="anonymous">
 
-</script>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-87762630-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
 
     {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
+    <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
-  <!--    <a href="https://groups.google.com/forum/#!forum/edinbr">Mailing list</a>
-      &nbsp;&nbsp;·&nbsp;&nbsp; -->
+        <!--    <a href="https://groups.google.com/forum/#!forum/edinbr">Mailing list</a>
+            &nbsp;&nbsp;·&nbsp;&nbsp; -->
 
-      {% for social in site.social %}
+        {% for social in site.social %}
         <a class="icon-{{ social.icon }}" href="{{ social.url }}">
-          <i class="fa fa-{{ social.icon }}"></i>
+            <i class="fa fa-{{ social.icon }}"></i>
         </a>
         &nbsp;&nbsp;·&nbsp;&nbsp;
-      {% endfor %}
-      <a href="/about/">About</a>
+        {% endfor %}
+        <a href="/about/">About</a>
     </div>
     <div id="home-search" class="home">
         <script>
@@ -46,7 +49,7 @@ layout: default
                 gcse.type = 'text/javascript';
                 gcse.async = true;
                 gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                           '//www.google.com/cse/cse.js?cx=' + cx;
+                    '//www.google.com/cse/cse.js?cx=' + cx;
                 var s = document.getElementsByTagName('script')[0];
                 s.parentNode.insertBefore(gcse, s);
             })();
@@ -86,60 +89,60 @@ layout: default
     <h5 class="index-headline featured"><span>Featured</span></h5>
 
     <div class="container featured">
-      {% for post in site.tags.featured %}
+        {% for post in site.tags.featured %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-            </section>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-  <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
-            </div>
-          <div>
+            <div class="article-item">
+                <header class="post-header">
+                    <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+                </header>
+                <section class="post-excerpt" itemprop="description">
+                    <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+                </section>
+                <div class="post-meta">
+                    <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+                    <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+                </div>
+                <div>
         </article>
-      {% endfor %}
+        {% endfor %}
     </div>
 
     <h5 class="index-headline normal"><span>Regular</span></h5>
     {% endif %}
 
     <div class="cf frame">
-      {% for post in paginator.posts %}
+        {% for post in paginator.posts %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-            </section>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-              <!-- Below, adding the number of comments here, without any tag (such as: [View comments]). This way, the comment count automatically gets displayed instead of a blank space, rather than replace the tag [View comments]. This is useful for posts where comments are disabled, where the tag would never get replaced, and would still show [View comments], even though there is no comment thread to view for that post.-->
-              <a href="http://edinbr.org/{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a> 
-<!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
-            </div>
-          <div>
+            <div class="article-item">
+                <header class="post-header">
+                    <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+                </header>
+                <section class="post-excerpt" itemprop="description">
+                    <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+                </section>
+                <div class="post-meta">
+                    <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+                    <!-- Below, adding the number of comments here, without any tag (such as: [View comments]). This way, the comment count automatically gets displayed instead of a blank space, rather than replace the tag [View comments]. This is useful for posts where comments are disabled, where the tag would never get replaced, and would still show [View comments], even though there is no comment thread to view for that post.-->
+                    <a href="http://edinbr.org/{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
+                    <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+                </div>
+                <div>
         </article>
-      {% endfor %}
+        {% endfor %}
     </div>
 
     <nav class="pagination" role="navigation">
-      {% if paginator.next_page %}
+        {% if paginator.next_page %}
         <a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Older posts</a>
-      {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.previous_page %}
-        {% if paginator.page == 2 %}
-          <a class="older-posts" href="/">Newer posts &rarr;</a>
-        {% else %}
-          <a class="older-posts" href="/page{{paginator.previous_page}}">Newer posts &rarr;</a>
         {% endif %}
-      {% endif %}
+        <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.previous_page %}
+        {% if paginator.page == 2 %}
+        <a class="older-posts" href="/">Newer posts &rarr;</a>
+        {% else %}
+        <a class="older-posts" href="/page{{paginator.previous_page}}">Newer posts &rarr;</a>
+        {% endif %}
+        {% endif %}
     </nav>
 
 
