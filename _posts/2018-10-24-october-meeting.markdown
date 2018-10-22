@@ -16,14 +16,24 @@ Hi everyone,
 <br/>
 
 
-Our upcoming meeting will be held on Wednesday **24h of October**, from **5.30pm**. The venue is **Lecture Theatre 5 in Appleton Tower** (see map below). As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome.
+Our upcoming meeting will be held on Wednesday **24h of October**, from **5.30pm**. The venue is **Lecture Theatre 5 in Appleton Tower** (see map below). As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome!
 
-I am delighted to announce that our guest speaker this month will be [**John Mertic**](https://www.linkedin.com/in/jmertic/), Director for [R Consortium](https://www.r-consortium.org/) on behalf of the Linux Foundation. He will be discussing:
+I am delighted to announce that our first guest speaker this month will be [**John Mertic**](https://www.linkedin.com/in/jmertic/), Director for [R Consortium](https://www.r-consortium.org/) on behalf of the Linux Foundation. He will be discussing:
 
 ## Sustainable Community Investment in Action
 ### A Look at Some of the R Consortium Funded Grant Projects and Working Groups
 
 >Linux Foundation R Consortium has funded over $500,000 USD to R community members improving the community and technical infrastructure for the benefit of the R ecosystem. In addition, the working groups program has worked to drive discussion and alignment on key areas such as industry adoption, package health, and educational standards. In this talk, we will showcase several of the working groups and funded projects stewarded by R Consortium. This will provide an opportunity for the audience to understand the work being done, and also opportunities on how they could take part.
+
+<br/>
+
+Our second speaker will be [Malte Grosser](http://www.malte-grosser.com/), co-organiser of [Hamburg R](https://rusershamburg.github.io/) (also check out their Meetup [here](https://www.meetup.com/Hamburg-R-User-Group/)). He will be presenting a package he has created:
+
+## The snakecase package
+  
+> During data analysis it’s typical to rename data a lot. Naming patterns like `snake_case`, `CamelCase` etc. are used in many projects and often naming conventions are among style guides and lists of best practices. The need to standardize or convert object names into different cases appears especially after importing, and before exporting data. However, many other tasks, i.e., creating readable names for visualizations or file paths can be treated similarly. The `snakecase` package introduces a systematic and intuitive approach to automate case conversion, based upon a consistent design philosophy. In this talk, we will briefly discuss the package and showcase its usage in a short demo.
+
+
 
 <br/>
 <p align="center"><iframe src="http://meetu.ps/3jmBJ3" width="400" height="400" frameborder="0"></iframe></p>
