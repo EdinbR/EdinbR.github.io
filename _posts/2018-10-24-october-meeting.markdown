@@ -27,11 +27,15 @@ I am delighted to announce that our first guest speaker this month will be [**Jo
 
 <br/>
 
-Our second speaker will be [Malte Grosser](http://www.malte-grosser.com/), co-organiser of [Hamburg R](https://rusershamburg.github.io/) (also check out their Meetup [here](https://www.meetup.com/Hamburg-R-User-Group/)). He will be presenting a package he has created:
+Our second speaker will be [Malte Grosser](http://www.malte-grosser.com/), co-organiser of [Hamburg R](https://rusershamburg.github.io/) (also check out their Meetup [here](https://www.meetup.com/Hamburg-R-User-Group/)). He will be presenting a package he has created, as well as his advanced R solutions:
 
 ## The snakecase package
   
 > During data analysis it’s typical to rename data a lot. Naming patterns like `snake_case`, `CamelCase` etc. are used in many projects and often naming conventions are among style guides and lists of best practices. The need to standardize or convert object names into different cases appears especially after importing, and before exporting data. However, many other tasks, i.e., creating readable names for visualizations or file paths can be treated similarly. The `snakecase` package introduces a systematic and intuitive approach to automate case conversion, based upon a consistent design philosophy. In this talk, we will briefly discuss the package and showcase its usage in a short demo.
+
+## Advanced R Solutions
+
+> Working through a complex textbook can be cumbersome and frustrating. Despite a strong motivation to understand the content, one needs a good memory to bear all the details in mind, discipline to stay focused on the content, as well as patience to finish. Solving exercises throughout the textbook can help to practice the concepts learned, get more involved and gain deeper insights. Furthermore, it can help to validate your newly acquired skills and understandings. In this lightning talk, we will briefly discuss our experiences while working through Hadley Wickham’s Advanced R book (Wickham 2014), which provides exercises after most of its chapters. In particular, we will describe the approach to document and monitor our progress via Yihui Xie’s `bookdown` package (Xie, 2017) to address the issues mentioned above.
 
 
 
