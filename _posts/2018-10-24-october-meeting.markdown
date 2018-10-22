@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "October meeting: Sustainable community investment - R Consortium funded grant projects and working groups"
+title:  "October meeting: Sustainable R community investment, the snakecase package, and advanced R solutions"
 date:   2018-09-30
 categories: edinbr
 tags:   announcement
