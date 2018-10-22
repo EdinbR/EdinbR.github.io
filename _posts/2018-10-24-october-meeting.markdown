@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "October meeting: Sustainable R community investment, the snakecase package, and advanced R solutions"
-date:   2018-09-30
+date:   2018-10-22
 categories: edinbr
 tags:   announcement
 image:
