@@ -21,7 +21,7 @@ Our upcoming meeting will be held on Wednesday **24h of October**, from **5.30pm
 I am delighted to announce that our first guest speaker this month will be [**John Mertic**](https://www.linkedin.com/in/jmertic/), Director for [R Consortium](https://www.r-consortium.org/) on behalf of the Linux Foundation. He will be discussing:
 
 ## Sustainable Community Investment in Action
-### A Look at Some of the R Consortium Funded Grant Projects and Working Groups
+### A Look at Some of the R Consortium Funded Grant Projects and Working Groups (slides [here](https://github.com/EdinbR/edinbr-talks/raw/master/2018-10-24/OSSNA%202018%20-%20Sustainable%20Community%20Investment%20in%20Action%20-%20A%20Look%20at%20Some%20of%20the%20R%20Consortium%20Funded%20Grant%20Projects%20and%20Working%20Groups%20-%20August%202018.pptx))
 
 >Linux Foundation R Consortium has funded over $500,000 USD to R community members improving the community and technical infrastructure for the benefit of the R ecosystem. In addition, the working groups program has worked to drive discussion and alignment on key areas such as industry adoption, package health, and educational standards. In this talk, we will showcase several of the working groups and funded projects stewarded by R Consortium. This will provide an opportunity for the audience to understand the work being done, and also opportunities on how they could take part.
 
@@ -29,11 +29,11 @@ I am delighted to announce that our first guest speaker this month will be [**Jo
 
 Our second speaker will be [Malte Grosser](http://www.malte-grosser.com/), co-organiser of [Hamburg R](https://rusershamburg.github.io/) (also check out their Meetup [here](https://www.meetup.com/Hamburg-R-User-Group/)). He will be presenting a package he has created, as well as his advanced R solutions:
 
-## The snakecase package
+## The snakecase package (slides [here](https://github.com/EdinbR/edinbr-talks/raw/master/2018-10-24/20170516_snakecase_pkg.pdf))
   
 > During data analysis it’s typical to rename data a lot. Naming patterns like `snake_case`, `CamelCase` etc. are used in many projects and often naming conventions are among style guides and lists of best practices. The need to standardize or convert object names into different cases appears especially after importing, and before exporting data. However, many other tasks, i.e., creating readable names for visualizations or file paths can be treated similarly. The `snakecase` package introduces a systematic and intuitive approach to automate case conversion, based upon a consistent design philosophy. In this talk, we will briefly discuss the package and showcase its usage in a short demo.
 
-## Advanced R Solutions
+## Advanced R Solutions (slides [here](https://github.com/EdinbR/edinbr-talks/raw/master/2018-10-24/AdvancedRSolutions_LightningTalk_UseR2017.pdf))
 
 > Working through a complex textbook can be cumbersome and frustrating. Despite a strong motivation to understand the content, one needs a good memory to bear all the details in mind, discipline to stay focused on the content, as well as patience to finish. Solving exercises throughout the textbook can help to practice the concepts learned, get more involved and gain deeper insights. Furthermore, it can help to validate your newly acquired skills and understandings. In this lightning talk, we will briefly discuss our experiences while working through Hadley Wickham’s Advanced R book (Wickham 2014), which provides exercises after most of its chapters. In particular, we will describe the approach to document and monitor our progress via Yihui Xie’s `bookdown` package (Xie, 2017) to address the issues mentioned above.
 
