@@ -37,8 +37,7 @@ Our second speaker will be [**Dr Christophe Ladroue**](https://chrisladroue.com/
 
 <br/>
 
-<!-- <p align="center"><iframe src="http://meetu.ps/3jmBJ3" width="400" height="400" frameborder="0"></iframe></p>  -->
-
+<p align="center"><iframe src="http://meetu.ps/3jwlVm" width="400" height="400" frameborder="0"></iframe></p>
 
 
 Here is a map of where we'll be for the meeting, followed by a trip to the nearby St. Andrews Brewing Co. pub:
