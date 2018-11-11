@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "November meeting: R for spatial data and debugging with RStudio"
+title:  "November meeting: R for spatial data and debugging with R / RStudio"
 date:   2018-11-10
 categories: edinbr
 tags:   announcement
@@ -32,7 +32,7 @@ Our second speaker will be [**Dr Christophe Ladroue**](https://chrisladroue.com/
 
 ## Debugging with RStudio
   
-> Abstract to follow.
+> Using `print` statements is useful for tracking down a bug, but as soon as your program gets complex, this approach quickly becomes unwieldy. A debugger allows you to peek into your functions as they are used and helps you locate errors in your code more efficiently. I'll go through a programming scenario to demonstrate the usefulness of the `R` debugger, including some options present in [RStudio](https://www.rstudio.com/products/RStudio/).
 
 
 <br/>
