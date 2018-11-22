@@ -20,7 +20,9 @@ Our final meeting for 2018 will be held on Wednesday **21st of November**, from 
 
 Our first guest speaker this month will be [**Dr Michael Spencer**](http://mikerspencer.com/), data scientist and hydrologist at [Scotland's Rural College](https://www.sruc.ac.uk/). He will be talking about GIS and R, and proposing some answers to the following question: 
 
-## Data Science and GIS (handout [here](https://github.com/EdinbR/edinbr-talks/blob/master/2018-11-21/MikeSpencer_Spatial_R_handout.pdf), slides to follow)
+## Data Science and GIS 
+
+(handout [here](https://github.com/EdinbR/edinbr-talks/blob/master/2018-11-21/MikeSpencer_Spatial_R_handout.pdf), slides to follow)
 
 > There's a lot of buzz around spatial data science. The `sf` package has made some great progress in undertaking traditional GIS tasks within R. But where are the limits of R in spatial work and what role does traditional desktop GIS software have to play in our workflow? 
 
@@ -30,7 +32,9 @@ Our first guest speaker this month will be [**Dr Michael Spencer**](http://miker
 
 Our second speaker will be [**Dr Christophe Ladroue**](https://chrisladroue.com/), senior statistical software programmer at [Quantics, UK](https://www.quantics.co.uk/). He will be discussing:
 
-## Debugging with RStudio (see code example [here](https://github.com/EdinbR/edinbr-talks/tree/master/2018-11-21/ChristopheLadroue_DebuggingExample))
+## Debugging with RStudio 
+
+(see code example [here](https://github.com/EdinbR/edinbr-talks/tree/master/2018-11-21/ChristopheLadroue_DebuggingExample))
   
 > Using `print` statements is useful for tracking down a bug, but as soon as your program gets complex, this approach quickly becomes unwieldy. A debugger allows you to peek into your functions as they are used and helps you locate errors in your code more efficiently. I'll go through a programming scenario to demonstrate the usefulness of the `R` debugger, including some options present in [RStudio](https://www.rstudio.com/products/RStudio/).
 
