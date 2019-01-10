@@ -20,17 +20,7 @@ Our **first speaker** is [Dr Elliot Meador](https://www.sruc.ac.uk/emeador), res
 
 ## Visualising Twitter data using `igraph`, `ggraph` and `tidytext`
 
->This talk looks at different approaches to visualising social networks using R. Using data pulled from Twitter, we will explore methods of visualising key trends in the data using a network approach. Specifically, this talk will cover: 
-
->1) pulling Twitter data from the API using iterative programing; 
-
->2) tidying the data using `dplyr` and `tidytext`; 
-
->3) creating network graphs in `igraph`;
-
->4) visualising the graphs using `ggraph`; and
-
->5) doing sentiment analysis on interesting network parameters (i.e., community detection, etc).
+>This talk looks at different approaches to visualising social networks using R. Using data pulled from Twitter, we will explore methods of visualising key trends in the data using a network approach. Specifically, this talk will cover: 1) pulling Twitter data from the API using iterative programing; 2) tidying the data using `dplyr` and `tidytext`; 3) creating network graphs in `igraph`; 4) visualising the graphs using `ggraph`; and 5) doing sentiment analysis on interesting network parameters (i.e., community detection, etc).
 
 
 Our **second speaker** is [Alasdair Sykes](https://www.sruc.ac.uk/asykes), agricultural modeller at SRUC. Alasdair has developed a [web app](https://www.fringebiscuit.com/trends-landing-page) for scraping tweets about the Fringe festival. The display uses Tableau, but the backend is R. A title and abstract will soon follow. 
