@@ -27,11 +27,8 @@ Our **second speaker** is [Alasdair Sykes](https://www.sruc.ac.uk/asykes), agric
 
 ## Tracking the Edinburgh Fringe Festival using Twitter, R, & Tableau
 
->This talk focuses on a novel use of Twitter data to analyse social media trends during the 2018 Edinburgh Fringe Festival. Edfringe is the single largest arts festival in the world, and the project integrated with an existing [Fringe review site](fringebiscuit.com) to track the popularity of individual shows and performers throughout the month-long festival. The talk will cover data collection using the `rtweet` and `rvest` packages, data cleaning and processing using `stringr` and `dplyr`, and real-time online presentation of the results using Tableau and Tableau Public.
+>This talk focuses on a novel use of Twitter data to analyse social media trends during the 2018 Edinburgh Fringe Festival. Edfringe is the single largest arts festival in the world, and the project integrated with an existing [Fringe review site](https://www.fringebiscuit.com/trends-landing-page/) to track the popularity of individual shows and performers throughout the month-long festival. The talk will cover data collection using the `rtweet` and `rvest` packages, data cleaning and processing using `stringr` and `dplyr`, and real-time online presentation of the results using Tableau and Tableau Public.
 
-
-
-<!-- I think some members of the group will be interested in the Software Sustainability Institute Fellowship Programme 2019. The Programme funds researchers and individuals passionate about research software use and/or development. Our Fellows also develop skills and knowledge around software sustainability network with like-minded individuals from a wide variety of research areas. Applications are now open to the Software Sustainability Institute Fellowship Programme 2019. Deadline for applications is 3rd February 2019. Could you promote it among the meetup? https://www.software.ac.uk/programmes-and-events/fellowship-programme -->
 
 
 
