@@ -18,14 +18,14 @@ Happy New Year and welcome back! Our first meeting in 2019 will take place on th
 
 Our **first speaker** is [Dr Elliot Meador](https://www.sruc.ac.uk/emeador), researcher of rural economy and society, at Scotland's Rural College (SRUC). He will be sharing details on:
 
-## Visualising Twitter data using `igraph`, `ggraph` and `tidytext`
+## Visualising Twitter data using `igraph`, `ggraph` and `tidytext` (presentation [here](https://htmlpreview.github.io/?https://github.com/EdinbR/edinbr-talks/blob/master/2019-01-16/ElliotMeador_EdinR_stripped.html?raw=true))
 
 >This talk looks at different approaches to visualising social networks using R. Using data pulled from Twitter, we will explore methods of visualising key trends in the data using a network approach. Specifically, this talk will cover: 1) pulling Twitter data from the API using iterative programing; 2) tidying the data using `dplyr` and `tidytext`; 3) creating network graphs in `igraph`; 4) visualising the graphs using `ggraph`; and 5) doing sentiment analysis on interesting network parameters (i.e., community detection, etc).
 
 
 Our **second speaker** is [Alasdair Sykes](https://www.sruc.ac.uk/asykes), agricultural modeller at SRUC. Alasdair has developed a [web app](https://www.fringebiscuit.com/trends-landing-page) for scraping tweets about the Fringe festival. The display uses Tableau, but the backend is R. Please see below for details:
 
-## Tracking the Edinburgh Fringe Festival using Twitter, R, & Tableau
+## Tracking the Edinburgh Fringe Festival using Twitter, R, & Tableau (slides [here](https://github.com/EdinbR/edinbr-talks/raw/master/2019-01-16/Alasdair%20Sykes%20-%20Fringebiscuit%20presentation%20v1%20(no%20tokens).pptx))
 
 >This talk focuses on a novel use of Twitter data to analyse social media trends during the 2018 Edinburgh Fringe Festival. Edfringe is the single largest arts festival in the world, and the project integrated with an existing [Fringe review site](https://www.fringebiscuit.com/trends-landing-page/) to track the popularity of individual shows and performers throughout the month-long festival. The talk will cover data collection using the `rtweet` and `rvest` packages, data cleaning and processing using `stringr` and `dplyr`, and real-time online presentation of the results using Tableau and Tableau Public.
 
