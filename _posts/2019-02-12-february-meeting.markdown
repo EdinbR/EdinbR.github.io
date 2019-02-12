@@ -23,7 +23,7 @@ Our **first speaker** is [Cameron Fairfield](https://www.ed.ac.uk/surgery/resear
 >RStudio::conf is a great setting in which to hear the latest developments in R and to meet package developers. I'll mention some of the highlights from the conference including new packages, best practices for data analysis and other new developments from the RStudio team. I'll demonstrate some of the techniques learned from specialised workshops and give you good reason to book RStudio::conf 2020.
 
 
-Our **second speaker** is [Mirjam Eiswirth](https://www.ed.ac.uk/profile/mirjam-eiswirth), PhD student in Linguistics & English Language. Mirjam will illustrate how beginners just starting out with R can achieve using the `tidyverse`, `lubridate`, and `ggplot2`. Details soon to follow!
+Our **second speaker** is [Mirjam Eiswirth](https://www.ed.ac.uk/profile/mirjam-eiswirth), PhD student in Linguistics & English Language. Mirjam will illustrate what beginners just starting out with R can achieve using the `tidyverse`, `lubridate`, and `ggplot2`. Details soon to follow!
 
 
 
