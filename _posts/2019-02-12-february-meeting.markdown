@@ -14,7 +14,7 @@ comments: true
 Hi everyone,
 <br/>
 
-Our next meeting will take place on the 20th of February, from 5.30pm, in Appleton Tower, room 2.12 (see the map below for further details). This session will to include an interesting, first-hand account of [rstudio::conf](https://www.rstudio.com/conference/) sessions (January 15 - January 18, 2019, Austin, TX). As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome!
+Our next meeting will take place on the 20th of February, from 5.30pm, in Appleton Tower, room 2.12 (see the map below for further details + **sign-up link via Meetup**, due to limited space). This session will to include an interesting, first-hand account of [rstudio::conf](https://www.rstudio.com/conference/) sessions (January 15 - January 18, 2019, Austin, TX). As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome!
 
 Our **first speaker** is [Cameron Fairfield](https://www.ed.ac.uk/surgery/research/resfellows-clinicalandecatlecturers/cameron-fairfield), Clinical Research Fellow for Edinburgh Surgery Online. He will be discussing:
 
