@@ -35,7 +35,9 @@ Our **second speaker** is [Mirjam Eiswirth](https://www.ed.ac.uk/profile/mirjam-
 
 <br/>
 
-<p align="center"><iframe src="http://meetu.ps/3jwlVm" width="400" height="400" frameborder="0"></iframe></p>
+<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/258925892/">February meeting: RStudio::Conf 2019 and introductory R walkthrough</a></h4><p>As usual, our February session will be open for all to attend, and newcomers / beginners are very welcome! Our first speaker this month is Cameron Fairfield, Clinical Research Fellow for Edinburgh Surgery Online. He will be discussing: > RStudio::Conf 2019 - The Best Bits RStudio::conf is a great setting in which to hear the latest developments in R and to meet package developers.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 
 
 Here is a map of where we'll be for the meeting, followed by a trip to the nearby St. Andrews Brewing Co. pub:
