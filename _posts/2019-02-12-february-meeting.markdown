@@ -19,6 +19,7 @@ Our next meeting will take place on the 20th of February, from 5.30pm, in Applet
 Our **first speaker** is [Cameron Fairfield](https://www.ed.ac.uk/surgery/research/resfellows-clinicalandecatlecturers/cameron-fairfield), Clinical Research Fellow for Edinburgh Surgery Online. He will be discussing:
 
 ## RStudio::Conf 2019 - The Best Bits
+(slides [here](https://github.com/EdinbR/edinbr-talks/raw/master/2019-02-20/CameronFairfield_RStudioConf2019.pptx))
 
 >RStudio::conf is a great setting in which to hear the latest developments in R and to meet package developers. I'll mention some of the highlights from the conference including new packages, best practices for data analysis and other new developments from the RStudio team. I'll demonstrate some of the techniques learned from specialised workshops and give you good reason to book RStudio::conf 2020.
 
