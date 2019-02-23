@@ -27,8 +27,11 @@ Our **first speaker** is [Cameron Fairfield](https://www.ed.ac.uk/surgery/resear
 Our **second speaker** is [Mirjam Eiswirth](https://www.ed.ac.uk/profile/mirjam-eiswirth), PhD student in Linguistics & English Language. Mirjam will illustrate what beginners just starting out with R can achieve using the `tidyverse`, `lubridate`, and `ggplot2`. Details below:
 
 ## A real game-changeR: quantified self with the `tidyverse`, `lubridate`, and `ggplot2`
+(html [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/EdinbR/edinbr-talks/master/2019-02-20/20190220_MirjamEiswirth_TidyverseForBeginners.html))
 
 >Starting to learn R and statistics can be extremely daunting for someone who has never identified as 'a numbers person'. In this talk, I show how a question and project I am really passionate about helped me go from complete beginR to `tidyverse`-aficionada. I focus on the usefulness of pipes, mutating and summarising data, merging different dataframes, `lubridate`, and visualising results with `ggplot2`. I talk about these packages and functions in the context of my first project, which was an analysis of sources of blood glucose variability in Type 1 Diabetes – and the life-changing impact the results have had.
+
+You can read more about Mirjam's research using R on her [blog](https://mirjameiswirth.wordpress.com/2019/02/22/my-first-r-talk-learning-r-with-a-project-you-are-passionate-about/).
 
 
 
