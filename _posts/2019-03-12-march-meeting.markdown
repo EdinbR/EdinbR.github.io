@@ -20,6 +20,7 @@ Our next meeting will take place on the 20th of March, from 5.30pm, in Appleton 
 Our **first speaker** is [Alan O'Callaghan](https://www.linkedin.com/in/alan-o-callaghan-b95864108/), PhD student in biomedical data science in the The Institute of Genetics and Molecular Medicine (IGMM). He will be discussing:
 
 ## Building interactive modules using htmlwidgets
+(presentation [here](https://htmlpreview.github.io/?https://github.com/EdinbR/edinbr-talks/blob/master/2019-03-20/alan_ocallaghan_building_interactive_modules_using_htmlwidgets.html?raw=true))
 
 >This talk focuses on the `htmlwidgets` framework in R. We will look at the mechanics of creating your own, and why you might choose to use it instead of (or alongside) other frameworks like crosstalk or Shiny. We will start with toy examples to illustrate the basics and then progress to some real use cases, from networks of Twitter interaction to exploration of principal components, in order to demonstrate why this framework is worth learning and applying to your data.
 
@@ -29,7 +30,7 @@ Our **first speaker** is [Alan O'Callaghan](https://www.linkedin.com/in/alan-o-c
 Our **second speaker** is [Martin Johnsson](https://onunicornsandgenes.blog), Postdoc at The Roslin Institute, University of Edinburgh & The Department of Animal Breeding and Genetics, Swedish University of Agricultural Sciences. He will be discussing:
 
 ## Simulating genetic data in R: an example with deleterious variants (and a pun)
-
+(slides [here](https://github.com/EdinbR/edinbr-talks/raw/master/2019-03-20/johnsson_edinbr.pptx) and code [here](https://github.com/EdinbR/edinbr-talks/blob/master/2019-03-20/alphasimr_demo.R))
 
 >Simulated quantitative genetic data is extremely useful for geneticists, and can be made easily in R. In this talk, I will briefly sing the praises of simulation, demonstrate a toy breeding programme simulation with the `AlphaSimR` package, and use our recent preprint ['Removal of alleles by genome editing—RAGE against the deleterious load'](Link to preprint: https://www.biorxiv.org/content/10.1101/335497v1.abstract) as a more sophisticated example."
 
