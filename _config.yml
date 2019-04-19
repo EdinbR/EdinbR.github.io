@@ -25,9 +25,10 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon: envelope
+
+  - icon: group
     url:  https://groups.google.com/forum/#!forum/edinbr/join
-    desc: Mailing list
+    desc: Google groups
 
   - icon: twitter
     url: https://twitter.com/edinb_r
@@ -57,6 +58,11 @@ social:
   - icon: linkedin
     url:  https://www.linkedin.com/groups/Edinburgh-R-users-8204489
     desc: Join the EdinbR LinkedIn group
+
+  - icon: envelope
+    url:  mailto:info@edinbr.org
+    desc: Mailing list
+
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
