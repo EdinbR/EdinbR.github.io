@@ -27,7 +27,7 @@ Our **first speaker** is [Ksenia Aleksankina](https://www.linkedin.com/in/ksenia
 Our second speaker will be [Liam Mason](https://www.linkedin.com/in/liammason/), GIS Analyst at Marine Scotland. His talk will focus on:
 
 ## Improving Accessibility in Data Visualisation #EndTheRainbow
-(slides [here](https://github.com/EdinbR/edinbr-talks/raw/master/2019-04-17/LiamMason_Accessibility_EndTheRainbow_EdinbR_20190402.pdf))
+(slides [here](https://github.com/EdinbR/edinbr-talks/blob/master/2019-04-17/LiamMason_Accessibility_EndTheRainbow_EdinbR_20190402.pdf))
 
 > Rainbow colour schemes are commonly used in data visualisation, particularly in climate science & meteorology. Liam will demonstrate how these colour scales can distort, mislead, and confuse your message, and offer some advice on how to improve your use of colour.
 
