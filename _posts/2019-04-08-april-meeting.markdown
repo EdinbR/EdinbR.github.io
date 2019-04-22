@@ -20,6 +20,7 @@ Our next meeting will take place on the 17th of April, from 5.30pm, in Appleton 
 Our **first speaker** is [Ksenia Aleksankina](https://www.linkedin.com/in/ksenia-aleksankina-62816980/), Data Scientist at TravelNest. She will be discussing how to go:
 
 ## From laptop to cloud: making R work on Amazon AWS
+(slides [here](https://github.com/EdinbR/edinbr-talks/blob/master/2019-04-17/KseniaAleksankina_EdinbR.pdf))
 
 >This talk looks at various ways R can be used within Amazon Web Services: from setting up and running an RStudio Server and a Shiny Server using Amazon Machine Image to deploying R code. Using some simple examples I will demonstrate how to set up an EC2 instance (a virtual server), analyse data stored in S3 (Amazon Simple Storage Service), and host a Shiny app. 
 
