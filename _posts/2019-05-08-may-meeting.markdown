@@ -23,6 +23,7 @@ Our first speaker is [**Greg Sutcliffe**](https://emeraldreverie.org/). Greg is 
 
 ## 'No, you can't just take the mean...'
 ### A Beginners Guide to Survival Analysis in R
+(html [here](https://github.com/EdinbR/edinbr-talks/blob/master/2019-05-15/GregSutcliffe_talk.html))
 
 >Time-to-event data has some quirks that can make it tricky to characterise. In this talk, we briefly cover the basics of survival analysis, how to construct some basic models and plots in R, and finally
 look at a real application of this technique in the world of open source communities.
@@ -33,6 +34,7 @@ look at a real application of this technique in the world of open source communi
 Our second speaker will be [**Louise Sing**](https://www.forestresearch.gov.uk/staff/louise-sing/), spatial scientist at [Forest Research](https://www.forestresearch.gov.uk/) and PhD student in Geosciences at the University of Edinburgh. This month Louise will continue our series of talks on Shiny, this time with a focus on introductory-level Shiny:
 
 ## How R made my PhD Shiny: Communicating research outputs using Shiny
+(pdf [here](https://github.com/EdinbR/edinbr-talks/blob/master/2019-05-15/LouiseSing_Rshiny.pdf))
 
 > As a relatively inexperienced R user I'll explain how I've used Shiny to communicate the outputs from my research on the modelled effects of forest management for a range of environmental and social benefits. I'll describe how I've constructed the Shiny tool to present the data in different forms, and how it's helping to inform forest planning in Scotland. 
 
