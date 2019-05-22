@@ -38,6 +38,9 @@ Our second speaker will be [**Louise Sing**](https://www.forestresearch.gov.uk/s
 
 > As a relatively inexperienced R user I'll explain how I've used Shiny to communicate the outputs from my research on the modelled effects of forest management for a range of environmental and social benefits. I'll describe how I've constructed the Shiny tool to present the data in different forms, and how it's helping to inform forest planning in Scotland. 
 
+For those of you who asked about the map demoed by Louise at the meeting as part of her talk, here are a few additional details:
+
+> To implement the map I used `rgdal` and `broom` to read in and tidy a shapefile, and then the map is simply made using `ggplot2` (specifically `geom_polygon`).
 
 
 <blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/261272208/">Survival analysis & using Shiny to communicate research outputs</a></h4><p>Our next meeting is soon approaching! As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome! Our first speaker is **Greg Sutcliffe**. Greg is a Community Data Scientist at Red Hat, focusing mainly on supporting the Ansible and Foreman communities.</p></blockquote>
