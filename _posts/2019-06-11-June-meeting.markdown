@@ -23,7 +23,7 @@ Our first speaker is [Josh Bird](https://www.linkedin.com/in/jbirdpolicy/), poli
 
 ## Telling data stories with gganimate: the GIFt that keeps on giving
 
->Data is often only as useful as the insights it can reveal - and data visualisation plays a key role in this. This talk will focus on telling stories with data using `gganimate`, a package which extends the utility of `ggplot2`. I'll provide examples of the many ways in which `gganimate`'s new grammar classes customise plot objects, and how these dynamic charts and graphs can be used to communicate important data messages to your intended audiences.
+>Data is often only as useful as the insights it can reveal - and data visualisation plays a key role in identifying these. This talk will focus on telling stories with data using `gganimate`, a package which extends the utility of `ggplot2`. I'll provide examples of the many ways in which `gganimate`'s new grammar classes customise plot objects, and how these dynamic charts and graphs can be used to communicate important data messages to your intended audiences.
 
 
 
