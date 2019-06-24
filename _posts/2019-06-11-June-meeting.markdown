@@ -23,6 +23,8 @@ Our first speaker is [Josh Bird](https://www.linkedin.com/in/jbirdpolicy/), poli
 
 ## Telling data stories with gganimate: the GIFt that keeps on giving
 
+(slides [here](https://github.com/EdinbR/edinbr-talks/blob/master/2019-06-19/JoshBird_gganimate_EdinbR_ppt.pptx))
+
 >Data is often only as useful as the insights it can reveal - and data visualisation plays a key role in identifying these. This talk will focus on telling stories with data using `gganimate`, a package which extends the utility of `ggplot2`. I'll provide examples of the many ways in which `gganimate`'s new grammar classes customise plot objects, and how these dynamic charts and graphs can be used to communicate important data messages to your intended audiences.
 
 
@@ -31,6 +33,8 @@ Our first speaker is [Josh Bird](https://www.linkedin.com/in/jbirdpolicy/), poli
 Our second speaker will be [Ugur Ozdemir](http://www.pol.ed.ac.uk/people/academic_staff/ugur_ozdemir), Lecturer in Quantitative Political Science at The University of Edinburgh. Ugur will be sharing his experience on carrying out:
 
 ## Structural Equation Modelling (SEM) with lavaan
+
+(slides [here](https://github.com/EdinbR/edinbr-talks/blob/master/2019-06-19/UgurOzdemir_SEM.pdf))
 
 > SEM is commonly in the social sciences because of its ability to study complex causal dynamics between unobserved constructs (latent variables) and observed variables. In this talk, I will be talking about structural equation models and their estimation using the `lavaan` package. I will use real world examples from the political behaviour literature.
  
