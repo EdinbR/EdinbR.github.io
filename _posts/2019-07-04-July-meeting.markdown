@@ -22,6 +22,8 @@ Our first speaker is **Ian White**, from the Institute of Evolutionary Biology, 
 
 ## The stan MCMC package for R
 
+(slides [here](https://github.com/EdinbR/edinbr-talks/blob/master/2019-07-17/IanWhite_Rstantalk.pdf))
+
 > Stan is open-source software for statistical modelling and high-performance statistical computation. It provides, among other things, full Bayesian statistical inference with MCMC sampling, approximate Bayesian variational inference, and penalized maximum likelihood estimation with optimization. For an overview, see Carpenter et al's 2017 paper on [Stan: A probabilistic programming language](https://www.jstatsoft.org/article/view/v076i01). I will give some simple examples using the R interface to Stan (package `RStan`).
 
 
@@ -29,6 +31,8 @@ Our first speaker is **Ian White**, from the Institute of Evolutionary Biology, 
 Our second speaker will be [**Russell Hyde**](https://www.gla.ac.uk/researchinstitutes/cancersciences/staff/russellhyde/), Research Associate at the Institute of Cancer Sciences within Glasgow University. Russell will be sharing his work on a new R package:
 
 ## Fixing duplicated code with dupree
+
+(slides [here](http://rpubs.com/russH/dupree-intro) or [here](https://github.com/EdinbR/edinbr-talks/tree/master/2019-07-17))
 
 
 > When writing analysis scripts I frequently slip into two modes of working: the 'rush-rush-rush-isn't-everything-exciting' exploratory phase where I write code too fast, 
