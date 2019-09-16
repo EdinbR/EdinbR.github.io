@@ -14,7 +14,7 @@ comments: true
 Hi everyone,
 <br/>
 
-I hope you've all enjoyed the break and look forward to seeing you again at our next meeting! It will take place on the 25th of September, from 6.00pm, in the Usha Kasera Lecture Theatre (in Old College)[https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0001_01_1.264]. As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome!
+I hope you've all enjoyed the break and look forward to seeing you again at our next meeting! It will take place on the 25th of September, from 6.00pm, in the [Usha Kasera Lecture Theatre (in Old College)](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0001_01_1.264). As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome!
 
 Our two speakers this month have collaborated to interactively explore clusters within the Scottish economy. [Gordon Bryden](https://www.linkedin.com/in/gordon-bryden-72670952/) (Assistant Statistician at The Office of the Chief Economic Advisor) & [Benjamin Hansson](https://www.linkedin.com/in/gabriel-benjamin-hansson-910408/) (Assistant Statistician within the Scottish Government) will therefore be discussing:
 
