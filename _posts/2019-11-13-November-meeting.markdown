@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "November meeting: from RStudio to Word/PDF/website via R Markdown + fun R quiz!"
+title:  "November meeting: from RStudio to Word/PDF/website via R Markdown & R quiz!"
 date:   2019-11-13
 categories: edinbr
 tags:   announcement
@@ -15,7 +15,7 @@ Hi everyone,
 <br/>
 
 
-We are getting together for another evening of R on 20 November (last one this year!). So join us from 6.00pm in [Old College, Usha Kasera Lecture Theatre](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0001_01_1.264). As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome. After the talks we'll be heading off to a nearby, so do come along!
+We are getting together for another evening of R on 20 November (which is the last one this year!). So join us from 6.00pm in [Old College, Usha Kasera Lecture Theatre](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0001_01_1.264). As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome. After the talks we'll be heading off to a pub nearby, so do come along!
 
 
 Our speaker is [Riinu Ots](https://www.riinu.me), a data scientist with an interdisciplinary background, who 
@@ -26,11 +26,12 @@ works as [Senior Data Manager](https://www.ed.ac.uk/surgery/staff/profiles/riinu
 > I will demonstrate 2 things:
 > - What is Markdown and how to get directly from R into Word documents, PDF reports, websites, or presentations
 > - How to work with R Notebooks (twin sister of R Markdown) – an interactive alternative to R scripts
+
 > This talk is suitable for R newbies: working examples will be provided. Experienced users will also benefit as I'll point out the most up to date functionality within R Markdown and RStudio.
 
 ---
 
-In the second part of the meeting, we'll try something new. Since this is the final EdinbR meeting in 2019, we thought we'd close things off with a fun *R quiz*. There will be a prize for the winner at the end (the second edition of Hadley Wickham's _Advanced R_ book), so be sure to come along!
+In the second part of the meeting, we'll try something new. Since this is the final EdinbR meeting in 2019, we thought we'd close things off with a fun **R quiz**. There will be a prize for the winner at the end (the second edition of Hadley Wickham's **Advanced R** book), so be sure to come along!
 
 If you'd like to lend a hand with creating some interesting R quiz questions, you can share your details and ideas [here](https://forms.gle/NHJ3gv2LR4rnDW7g8), or let us know at info@edinbr.org.
 
