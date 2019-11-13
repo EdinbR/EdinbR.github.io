@@ -22,8 +22,9 @@ Our speaker is [Riinu Ots](https://www.riinu.me), a data scientist with an inter
 works as [Senior Data Manager](https://www.ed.ac.uk/surgery/staff/profiles/riinu-ots) at the Centre for Medical Informatics, within The University of Edinburgh. She will be discussing:
 
 ## R Markdown – from RStudio to Word/PDF/website with a single push of a button
+<br/>
 
-> I will demonstrate 2 things:
+> In this talk I will demonstrate 2 things:
 > - What is Markdown and how to get directly from R into Word documents, PDF reports, websites, or presentations
 > - How to work with R Notebooks (twin sister of R Markdown) – an interactive alternative to R scripts
 
@@ -33,12 +34,15 @@ works as [Senior Data Manager](https://www.ed.ac.uk/surgery/staff/profiles/riinu
 
 In the second part of the meeting, we'll try something new. Since this is the final EdinbR meeting in 2019, we thought we'd close things off with a fun **R quiz**. There will be a prize for the winner at the end (the second edition of Hadley Wickham's **Advanced R** book), so be sure to come along!
 
-If you'd like to lend a hand with creating some interesting R quiz questions, you can share your details and ideas [here](https://forms.gle/NHJ3gv2LR4rnDW7g8), or let us know at info@edinbr.org.
+If you'd like to lend a hand with creating some interesting R quiz questions, you can share your details and ideas [here](https://forms.gle/8W8CPybWoVaAmLmJ9), or let us know at info@edinbr.org.
 
 
 
 <br/>
+<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/266446127/">November meeting: from RStudio to Word/PDF/website via R Markdown & R quiz!</a></h4><p>Our speaker is Riinu Ots, a data scientist with an interdisciplinary background, who works as Senior Data Manager at the Centre for Medical Informatics</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
+<br/>
 
 This is where we'll be hosting the meeting:
 
