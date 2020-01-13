@@ -18,7 +18,7 @@ Hi everyone,
 To start the new year with EdinbR we're meeting on the 15th January. So join us from 6.00pm in [David Hume Tower, LG.09](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0228_-1_LG.09) ([map](https://www.openstreetmap.org/way/5325200)). As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome. After the talks we'll be heading off to a pub nearby, so do come along!
 
 
-Our speaker is [Mirjam Eiswirth](https://twitter.com/MirjamIce) with Andreas Steinhauer, a linguistics PhD student at The University of Edinburgh. She will be discussing:
+Our speaker is Mirjam Eiswirth, presenting work in collaboration with Dr Andreas Steinhauer. Mirjam has finished her PhD in Linguistics and English Language, and Andreas Steinhauer is a Lecturer in Economics at the University of Edinburgh:
 
 ## From scan to csv: digitising Austrian birth record data from the late 19th century
 <br/>
