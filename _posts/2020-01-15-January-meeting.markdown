@@ -23,7 +23,7 @@ Our speaker is Mirjam Eiswirth, presenting work in collaboration with Dr Andreas
 ## From scan to csv: digitising Austrian birth record data from the late 19th century
 <br/>
 
-**[Slides here](https://mirjameiswirth.wordpress.com/2020/01/16/from-scan-to-csv-a-digital-humanities-project/)
+[Slides here](https://mirjameiswirth.wordpress.com/2020/01/16/from-scan-to-csv-a-digital-humanities-project/)
 
 How have birth rates changed over time, stratified by geography and socio-demographic factors? We can answer these questions with large-scale data for the relatively recent past, but handwritten historical records are currently not easily accessible.
 
