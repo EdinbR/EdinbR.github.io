@@ -23,6 +23,8 @@ Our speaker is Mirjam Eiswirth, presenting work in collaboration with Dr Andreas
 ## From scan to csv: digitising Austrian birth record data from the late 19th century
 <br/>
 
+**[Slides here](https://mirjameiswirth.wordpress.com/2020/01/16/from-scan-to-csv-a-digital-humanities-project/)
+
 How have birth rates changed over time, stratified by geography and socio-demographic factors? We can answer these questions with large-scale data for the relatively recent past, but handwritten historical records are currently not easily accessible.
 
 This pilot study explores the potential of digitising historical birth records (parish books containing births and baptisms) for such statistical analyses, using a handwritten text recognition software, [Transkribus](https://transkribus.eu/Transkribus/).  This work-in-progress-talk focuses on the final step in the data extraction workflow, the processing of the exported text: How can we clean messy textual data in tables, which still contains spelling errors? Which keyword spotting and classification or clustering tools could be applied? How can we extrapolate social information like for example the sex of the baby or the parents’ social status?
