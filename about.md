@@ -14,7 +14,7 @@ All talks are archived collectively on our Github [here](https://github.com/Edin
 
 We are always looking for R enthusiasts, sponsors and partnerships, so please get in touch via [email](mailto:info@edinbr.org). We hope to hear from you and see you at our meetings!
 
-EdinbR is convened by Federico, Karim and Mike. Read more about them in these [slides](./assets/conveners_january_2020.pdf).
+EdinbR is convened by [Federico](http://twitter.com/Chicco_Stat), [Karim](http://twitter.com/karimsinha) and [Mike](http://twitter.com/mikerspencer). Read more about them in these [slides](./assets/conveners_january_2020.pdf).
 
 <br/>
 
