@@ -41,7 +41,7 @@ In the second part of the meeting, we will introduce the three new EdinbR conven
 
 
 <br/>
-<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/267805800/">January meeting: From scan to csv: digitising birth record data & introducing the new conveners!</a></h4><p>Our speaker is Our speaker is Mirjam Eiswirth with Andreas Steinhauer, a linguistics PhD student at The University of Edinburgh.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/267805800/">January meeting: From scan to csv: digitising birth record data & introducing the new conveners!</a></h4><p>Our speaker is Mirjam Eiswirth.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <br/>
