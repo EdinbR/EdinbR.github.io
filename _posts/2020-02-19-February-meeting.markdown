@@ -22,8 +22,9 @@ Our speakers are Greg Sutcliffe and Juliette Maire. Greg is a community data sci
 
 ---
 
-## Roots'n'All - Working with Tree Structures in R
 <br/>
+
+## Roots'n'All - Working with Tree Structures in R
 
 ### [Greg Sutcliffe](https://twitter.com/Gwmngilfen)
 
@@ -33,6 +34,8 @@ Working with the trees is made possible in R via the `data.tree` library, and vi
 
 ---
 
+<br/>
+
 ## Manipulating and visualizing weather data
 
 ### [Juliette Maire](https://www.sruc.ac.uk/jmaire)
@@ -41,7 +44,6 @@ Large-scale weather dataset (historical or predictions) is usually a "big" multi
 
 ---
 
-<br/>
 <blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/268479496/">February meeting: Working with Tree Structures and Manipulating and visualizing weather data</a></h4><p>Our speakers are Greg Sutcliffe and Juliette Maire.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
