@@ -27,4 +27,7 @@ Sponsors:
   <div class="column" style="flex: 50%; padding: 5px;">
     <a href="https://www.jumpingrivers.com/?utm_source=sponsor&utm_medium=image&utm_campaign=edinbR"><img src="../assets/images/JumpingRivers.png" alt="" style="width:200px;"></a>
   </div>
+  <div class="column" style="flex: 15%; padding: 10px;">
+     <a href="https://www.redhat.com/"><img src="../assets/images/red-hat-logo.png" alt="" style="width:200px;"></a>
+  </div>
 </div> 
