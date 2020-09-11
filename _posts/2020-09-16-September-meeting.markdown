@@ -58,7 +58,8 @@ A growing number of institutions teach their students how to use R. For instruct
 
 ---
 
-<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/268479496/">February meeting: Working with Tree Structures and Manipulating and visualizing weather data</a></h4><p>Our speakers are Greg Sutcliffe and Juliette Maire.</p></blockquote>
+
+<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/273188563">September 2020 meeting: improving diversity and teaching R</a></h4><p>Our speakers are Melanie Stefan and Greg Sutcliffe.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <br/>
