@@ -19,7 +19,7 @@ Hi everyone,
 
 Our September session will be on 16th, so join us from 5.30pm online. As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome.
 
-Our online meetings are kindly being enabled by [Redhat](https://www.redhat.com/). In order to join us you need to register with [MeetUp](https://www.meetup.com/EdinbR/).
+Our online meetings are kindly being enabled by [Red Hat](https://www.redhat.com/). In order to join us you need to register with [MeetUp](https://www.meetup.com/EdinbR/).
 
 
 Our speakers are Greg Sutcliffe and Melanie Stefan. Greg is the Community Data Scientist for Ansible, where he spends his time doing analysis and tool-building to improve how the upstream community operates. Melanie is a Senior Lecturer in Biomedical Sciences at the University of Edinburgh. [Her lab](http://stefanlab.net) uses computational modelling and simulations to understand learning and memory.
