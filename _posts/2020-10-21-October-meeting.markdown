@@ -53,7 +53,7 @@ The code you write this month won’t stay still. You’ll eventually want to ad
 ---
 
 
-<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/273977305">October 2020 meeting: analysing dynamic changes in data and in code</a></h4><p>Our speakers are Lydia Gabriela Speyer and Russ Hyde.</p></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/273977305">October 2020 meeting: longitudinal data and appraising your code</a></h4><p>Our speakers are Lydia Gabriela Speyer and Russ Hyde.</p></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <br/>
 
