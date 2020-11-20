@@ -24,7 +24,7 @@ Our online meetings are kindly being enabled by [Red Hat](https://www.redhat.com
 
 Our speakers are Riinu Pius and Mike Spencer.
 
-* **[Lydia Gabriela Speyer](https://www.riinu.me/)** is a data scientist at the Centre for Medical Informatics, The University of Edinburgh. She's the author of the brand new "R for Health Data Science" book written with Ewen Harrison.
+* **[Riinu Pius](https://www.riinu.me/)** is a data scientist at the Centre for Medical Informatics, The University of Edinburgh. She's the author of the brand new "R for Health Data Science" book written with Ewen Harrison.
 * **[Mike Spencer](https://mikerspencer.com)** is a data specialist at the Scottish Social Services Council and also provides independent data science consultancy.
 
 
@@ -53,7 +53,7 @@ Preparing your data is critical to make subsequent analysis and visualisation ea
 ---
 
 
-<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/273977305">November 2020 meeting: health data science and workflows/pipelines</a></h4><p>Our speakers are Riinu Pius and Mike Spencer.</p></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/274712651">November 2020 meeting: health data science and workflows/pipelines</a></h4><p>Our speakers are Riinu Pius and Mike Spencer.</p></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <br/>
 
