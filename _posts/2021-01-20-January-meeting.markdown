@@ -33,7 +33,7 @@ Our speakers are Alberto Arcagni and Jonathan Sidi.
 
 ## parsec: an R package for PARtially ordered sets in Socio-EConomics
 
-### [Alberto Arcagni](https://twitter.com/arcalb)
+### [Alberto Arcagni](https://web.uniroma1.it/memotef/users/arcagni-alberto)
 
 In his talk he will describe the main tools provided by the R package "parsec" to define partially ordered sets (posets) and their application on the evaluation of multidimensional systems of ordinal indicators with a particular focus on socio-economic analysis.
 
