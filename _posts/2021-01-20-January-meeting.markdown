@@ -48,7 +48,7 @@ In his talk he will describe the main tools provided by the R package "parsec" t
 
 When developing Shiny apps there is a lot of reactivity problems that can arise when one reactive or observe element triggers other elements. In some cases these can create cascading reactivity (the horror). The goal of `reactor` is to diagnose these reactivity problems and then plan unit tests to avert them during app development, making it a less painful and more robust experience.
 
-[Find Yoni's slides on Github.](https://github.com/yonicd/reactor/tree/slides)
+[View Yoni's slides on Github.](https://github.com/yonicd/reactor/tree/slides)
 
 
 ---
