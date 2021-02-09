@@ -44,7 +44,7 @@ In this talk I'll discuss how I created a transition matrix from character data 
 
 ## The New Roads Leading to Shiny Nirvana
 
-### [Eric Nantz](https://github.com/rpodcast/shiny_talk_edinbR/blob/main/README.md)
+### [Eric Nantz](https://twitter.com/theRcast)
 
 Since its first release over eight years ago, the R community has progressively created amazing web-based applications with the Shiny package. In practically every R conference or user meetup, we see amazing examples of how Shiny is changing the landscape of data exploration and sophisticated production pipelines. Have you ever wondered just how these amazing applications came to be, and what tools you can use to carve your own Shiny journey? In this talk I will shine a spotlight on the latest books addressing best practices in application development, and how they opened tremendous possibilities in both my professional and open-source Shiny projects.
 
