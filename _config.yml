@@ -29,6 +29,10 @@ social:
   - icon: group
     url:  https://groups.google.com/forum/#!forum/edinbr/join
     desc: Google groups
+    
+  - icon: comments
+    url:  https://app.element.io/#/room/edinbr:matrix.org
+    desc: "#edinbr on Matrix"
 
   - icon: twitter
     url: https://twitter.com/edinb_r
