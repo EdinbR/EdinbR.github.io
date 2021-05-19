@@ -31,7 +31,7 @@ social:
     desc: Google groups
     
   - icon: comments
-    url:  https://app.element.io/#/room/edinbr:matrix.org
+    url:  "https://app.element.io/#/room/#edinbr:matrix.org"
     desc: "#edinbr on Matrix"
 
   - icon: twitter
