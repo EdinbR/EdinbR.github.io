@@ -26,7 +26,7 @@ We will also be running a stream to YouTube, if you are unable to join us on Mat
 Our speakers are Andrew Collier and Joe Adams.
 
 
-* **Andrew Collier** is a former physicist who now runs a data science consultancy, Fathom Data. He spends an inordinate amount of time working in R and Python, but also likes to dabble in other technologies. Also likes to run. [Github](https://twitter.com/datawookie)
+* **Andrew Collier** is a former physicist who now runs a data science consultancy, Fathom Data. He spends an inordinate amount of time working in R and Python, but also likes to dabble in other technologies. Also likes to run. [Twitter](https://twitter.com/datawookie)
 
 * **Joe Adams** currently leads a team of 2 Statisticians (including himself) focussed on making official statistics at National Records of Scotland more impactful and accessible. He has worked in various analytical roles at Scottish Government, NHS Scotland, and PricewaterhouseCoopers.
 
