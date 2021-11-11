@@ -17,7 +17,7 @@ Hi everyone,
 
 Our third session of 2021/22 is our second focused on **climate** and will be on November 17th, join us from 5.30pm online! As usual, the meeting is open for all to attend, and newcomers / beginners are especially welcome.
 
-In order to join us, please register with [MeetUp](https://www.meetup.com/EdinbR/).
+In order to join us, please register with [MeetUp](https://www.meetup.com/EdinbR/events/282011160/).
 
 We're using a chat group for EdinbR, come and catch up with the community on [Matrix](https://matrix.to/#/#edinbr:matrix.org).
 Our talk this month will primarily be available on Matrix - along with session chat.
@@ -58,7 +58,7 @@ Robin will discuss his experience of researching and deploying transport models 
 ---
 
 
-<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/281564844">November 2021: DecaRbonisation and climate target modelling</a></h4><p>Our speakers are Iris Oren and Robin Lovelace</p></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/EdinbR/events/282011160/">November 2021: DecaRbonisation and climate target modelling</a></h4><p>Our speakers are Iris Oren and Robin Lovelace</p></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <br/>
 
