@@ -14,9 +14,9 @@ comments: true
 Hi everyone,
 <br/>
 
-A new year, a new you! Come along this Oct to develop your R skills at our session in the Appleton Tower AT_2.14 (https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0201_02_2.14) at 5pm on Friday 27th Oct.
+A new year, a new you! Come along this Oct to develop your R skills at our session in the [Appleton Tower AT_2.14](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0201_02_2.14) at 5pm on Friday 27th Oct.
 
-Register here: https://www.meetup.com/edinbr/events/296699530
+Register here: <https://www.meetup.com/edinbr/events/296699530>
 
 <br/>
 
@@ -38,8 +38,6 @@ In this talk, I will be introducing the R computational notebooks of a workshop 
 
 ---
 
-<br/>
-
 ## R shiny from prototype to production:
 
 ### [Harry Peaker](https://www.linkedin.com/in/harry-peaker-56442278/)
@@ -50,7 +48,7 @@ How do you take your prototype Shiny application, thrown together in an afternoo
 ---
 
 
-<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/edinbr/events/296699530">October 2023: network analysis and shiny in production</p></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/edinbr/events/296699530">October 2023: network analysis and shiny in production</h4></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <br/>
 
