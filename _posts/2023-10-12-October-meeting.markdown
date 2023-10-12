@@ -48,7 +48,7 @@ How do you take your prototype Shiny application, thrown together in an afternoo
 ---
 
 
-<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/edinbr/events/296699530">October 2023: network analysis and shiny in production</h4></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/edinbr/events/296699530">October 2023: network analysis and shiny in production</a></h4></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <br/>
 
