@@ -23,7 +23,7 @@ Register here: <https://www.meetup.com/edinbr/events/298492818>
 
 * **[Jan Gorecki](https://fosstodon.org/@jangorecki)** came to R around 2013 when databases happened to be not enough for data analytics. Once he discovered data.table he never went back to databases for data processing. Amazed by data.table's UX (simply a base R data.frame on steroids), he started contributing high level functions that he used in databases and data warehouses. Over years he jumped into C and from 2018 contributed first high performance routines. Used R in production in UK mortgages company and in H2O.ai as infrastructure orchestration. Developed many R packages over years. Taught by the time to be very conservative in (and if !) picking dependencies.
 
-* **[Nicolaos Christofides](https://cran.r-project.org/web//packages/timeplyr/index.html)** is a Healthcare Analyst at Public Health Scotland. With a background in statistics, epidemiology, and finance, he enjoys utilising his technical expertise to analyse healthcare data, building tools to help solve real-world problems. During the COVID-19 pandemic, he played a vital role in reporting key trends and insights to the Scottish government and NHS Boards. In this time he gained a particular interest in time series data, one of the inspirations for timeplyr. Also in his spare time he enjoys cooking, drumming, and writing R code.
+* **[Nick Christofides](https://cran.r-project.org/web//packages/timeplyr/index.html)** is a Healthcare Analyst at Public Health Scotland. With a background in statistics, epidemiology, and finance, he enjoys utilising his technical expertise to analyse healthcare data, building tools to help solve real-world problems. During the COVID-19 pandemic, he played a vital role in reporting key trends and insights to the Scottish government and NHS Boards. In this time he gained a particular interest in time series data, one of the inspirations for timeplyr. Also in his spare time he enjoys cooking, drumming, and writing R code.
 
 
 
@@ -43,7 +43,7 @@ Finally benchmarks will be presented comparing data.table implementations to bas
 
 ## timeplyr - Fast Tidy Functions for Date and Time Manipulation
 
-### [Nicolaos Christofides](https://cran.r-project.org/web//packages/timeplyr/index.html)
+### [Nick Christofides](https://cran.r-project.org/web//packages/timeplyr/index.html)
 
 We all know dates in R are difficult and frustrating at the best of times, so timeplyr seeks to make this much easier!
 
