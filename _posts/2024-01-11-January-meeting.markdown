@@ -35,6 +35,8 @@ Register here: <https://www.meetup.com/edinbr/events/298492818>
 
 ### [Jan Gorecki](https://fosstodon.org/@jangorecki)
 
+Slides (pdf): [click here](../assets/slides/2024-01-26_Rolling-statistics.pdf)
+
 Rolling statistics are an interesting topic for optimizations, therefore in my talk I will use R language to present naive implementation, and the optimized implementation, on a simple case of rolling mean.
 Then I will move to data.table implementations of rolling statistics explaining possible optimizations in other functions, which are not that straightforward anymore, like min/max and, actually very complex, median.
 Finally benchmarks will be presented comparing data.table implementations to base R, pandas, polars, slider/dplyr, duckdb and spark.
@@ -44,6 +46,8 @@ Finally benchmarks will be presented comparing data.table implementations to bas
 ## timeplyr - Fast Tidy Functions for Date and Time Manipulation
 
 ### [Nick Christofides](https://cran.r-project.org/web//packages/timeplyr/index.html)
+
+Slides (web page): [click here](https://nicchr.github.io/#/title-slide)
 
 We all know dates in R are difficult and frustrating at the best of times, so timeplyr seeks to make this much easier!
 
