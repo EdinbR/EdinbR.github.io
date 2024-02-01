@@ -35,7 +35,7 @@ Register here: <https://www.meetup.com/edinbr/events/298492818>
 
 ### [Jan Gorecki](https://fosstodon.org/@jangorecki)
 
-Slides (pdf): [click here](../assets/slides/2024-01-26_Rolling-statistics.pdf)
+Slides (pdf): [click here](https://github.com/EdinbR/edinbr-talks/blob/master/2024-01-26/2024-01-26_Rolling-statistics.pdf)
 
 Rolling statistics are an interesting topic for optimizations, therefore in my talk I will use R language to present naive implementation, and the optimized implementation, on a simple case of rolling mean.
 Then I will move to data.table implementations of rolling statistics explaining possible optimizations in other functions, which are not that straightforward anymore, like min/max and, actually very complex, median.
