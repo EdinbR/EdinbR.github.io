@@ -14,7 +14,7 @@ EdinbR meets monthly (on the third Wednesday of the month) and welcomes new atte
 
 All talks are archived collectively on our Github [here](https://github.com/EdinbR/edinbr-talks). You can also check out each of our posts for links to specific talks.
 
-EdinbR is convened by [Federico](http://twitter.com/Chicco_Stat), [Mike](http://twitter.com/mikerspencer) and [Greg](https://twitter.com/Gwmngilfen). Read more about them in these [slides](./assets/conveners_january_2020.pdf).
+EdinbR is convened by [Alessia](https://aelissa.github.io/), [Mike](https://mastodon.scot/@mikerspencer) and [Ozan](https://www.linkedin.com/in/ozanevkaya).
 
 Researchers at the [University of Edinburgh](http://www.ed.ac.uk) started EdinbR in [February 2015](http://edinbr.org/edinbr/2015/01/30/our-first-meeting.html) with the aim of bringing together scientists, statisticians and programmers from all over Edinburgh to discuss R-related matters. We encourage collaboration between local R users and organise training events for those interested in learning the language.
 
