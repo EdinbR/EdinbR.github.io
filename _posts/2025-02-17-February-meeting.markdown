@@ -11,10 +11,10 @@ comments: true
 
 
 
-No likelihood? No problem! — Bayesian Statistics in R
-Date: Thursday 27 February 2025, 6.00PM - 7.30PM
-Location: [LG.11 40 George Square](https://www.accessable.co.uk/the-university-of-edinburgh/central-area/access-guides/lg-11-teaching-room) The University of Edinburgh, [EH8 9LX](https://www.openstreetmap.org/way/5325200)
-Register: [https://www.meetup.com/edinbr/events/306226785/](https://www.meetup.com/edinbr/events/306226785/)
+* No likelihood? No problem! — Bayesian Statistics in R
+* Date: Thursday 27 February 2025, 6.00PM - 7.30PM
+* Location: [LG.11 40 George Square](https://www.accessable.co.uk/the-university-of-edinburgh/central-area/access-guides/lg-11-teaching-room) The University of Edinburgh, [EH8 9LX](https://www.openstreetmap.org/way/5325200)
+* Register: [https://www.meetup.com/edinbr/events/306226785/](https://www.meetup.com/edinbr/events/306226785/)
 
 ---
  
