@@ -35,13 +35,13 @@ Neil is a healthcare data analyst and trainer who lives in Edinburgh. He worked 
 
 Neil will tell the story of a graph from idea to execution. One of the key issues he will address is whether the graph can be generated even if you don’t have the data points. Is it possible to infer what all the individual A&E arrival times were when all you’ve got to work with are monthly summary counts from the Public Health Scotland website? And are there ethical issues to explore if we do that? But the graph’s story also involves long-distance collaborative working, some lobbying, an attempt at engagement via social media, and ideas for spin-off charts.
 
-![](assets/images/red_curtain.png)
+![Neil's graphic](/EdinbR.github.io/assets/images/red_curtain.png)
 
 ---
 
 
 
-<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/edinbr/events/306722765">March 2025: Oooh, R and response survey analysis</a></h4></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/edinbr/events/307162173">April 2025: Response survey analysis and red curtains</a></h4></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <br/>
 
