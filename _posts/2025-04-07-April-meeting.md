@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "May 2025: Response survey analysis and red curtains"
+title:  "April 2025: Response survey analysis and red curtains"
 date:   2025-04-07
 categories: edinbr
 tags:   announcement
@@ -11,7 +11,7 @@ comments: true
 
 
 
-* Title: May 2025: Response survey analysis and red curtains
+* Title: April 2025: Response survey analysis and red curtains
 * Date: Thursday 17 April 2025, 6.00PM - 7.00PM
 * Location: [G.158 Old College](https://www.bookablerooms.is.ed.ac.uk/room/0001_00_G.158) The University of Edinburgh, [EH8 9LX](https://www.openstreetmap.org/way/225612576)
 * Register: [https://www.meetup.com/edinbr/events/307162173](https://www.meetup.com/edinbr/events/307162173)
