@@ -34,9 +34,9 @@ social:
     url:  "https://app.element.io/#/room/#edinbr:matrix.org"
     desc: "#edinbr on Matrix"
 
-  - icon: twitter
+  - icon: fa-mastodon
     url: https://fosstodon.org/@EdinbR
-    desc: Follow EdinbR on Mastondon
+    desc: Follow EdinbR on Mastodon
 
   - icon: 'meetup fa-1x'
     url:  https://www.meetup.com/EdinbR/
