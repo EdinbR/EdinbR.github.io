@@ -6,7 +6,7 @@ title: "EdinbR: The Edinburgh R User Group"
 description: > # this means to ignore newlines until "email:"
    Local <a href='https://www.meetup.com/EdinbR/'>meetups</a> and training for the R programming language
 
-email: info@edinbr.org
+email: edinbr@proton.me
 #blog logo
 logo: "/assets/images/edinbr_300.png"
 # blog cover
@@ -34,38 +34,24 @@ social:
     url:  "https://app.element.io/#/room/#edinbr:matrix.org"
     desc: "#edinbr on Matrix"
 
-  - icon: twitter
-    url: https://twitter.com/edinb_r
-    desc: Follow EdinbR on Twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+  - icon: mastodon
+    url: https://fosstodon.org/@EdinbR
+    desc: Follow EdinbR on Mastondon
 
   - icon: 'meetup fa-1x'
     url:  https://www.meetup.com/EdinbR/
     desc: Meetup
 
-  - icon: facebook
-    url: https://www.facebook.com/EdinburghRusers
-    desc: Like EdinbR on Facebook
-    share_url: //www.facebook.com/sharer.php
-    share_title: ?t=
-    share_link: "&amp;u="
-
   - icon: github
     url: https://github.com/EdinbR
-    desc: Fork EdinbR on Github
+    desc: EdinbR on Github
     share_url:
     share_title:
     share_link:
 
-  - icon: linkedin
-    url:  https://www.linkedin.com/groups/Edinburgh-R-users-8204489
-    desc: Join the EdinbR LinkedIn group
-
   - icon: envelope
-    url:  mailto:info@edinbr.org
-    desc: Mailing list
+    url:  mailto:edinbr@proton.me
+    desc: email
 
 
 #  - icon:	google-plus
@@ -75,9 +61,6 @@ social:
 #    share_title:
 #    share_link:
 
-
-# Google services
-google_analytics: UA-87762630-1
 
 # Disqus
 comments:

@@ -8,11 +8,11 @@ EdinbR is the Edinburgh usergroup for the [R programming language](http://r-proj
 
 You can view our talks (from Sep 2020) on  [YouTube!](https://www.youtube.com/channel/UCfB2mPM4oU5pMgh9gbEqpWA). Please subscribe to the channel to recieve updates.
 
-We are always looking for R enthusiasts, sponsors and partnerships, so please get in touch - either in our [chat room on Matrix](https://app.element.io/#/room/edinbr:matrix.org), or via [email](mailto:info@edinbr.org). We hope to hear from you and see you at our meetings!
+We are always looking for R enthusiasts, sponsors and partnerships, so please get in touch - either in our [chat room on Matrix](https://app.element.io/#/room/edinbr:matrix.org), via [email](mailto:edinbr@proton.me), or speak to one of our conveners. We hope to hear from you and see you at our meetings!
 
-EdinbR meets monthly (on the third Wednesday of the month) and welcomes new attendees, regardless of R knowledge. You can stay up to date with our latest news via our [public mailing list / Google group](https://groups.google.com/forum/#!forum/edinbr/join), [Twitter](http://twitter.com/edinb_r), [Facebook page](https://www.facebook.com/EdinburghRusers) and [Facebook group](https://www.facebook.com/groups/EdinbR/).
+EdinbR meets monthly (on the third Wednesday of the month) and welcomes new attendees, regardless of R knowledge. You can stay up to date with our latest news via our [public mailing list / Google group](https://groups.google.com/forum/#!forum/edinbr/join), [Mastodon](https://fosstodon.org/@EdinbR) and [Meetup](https://www.meetup.com/edinbr).
 
-All talks are archived collectively on our Github [here](https://github.com/EdinbR/edinbr-talks). You can also check out each of our posts for links to specific talks.
+Many talks are archived collectively on [Github](https://github.com/EdinbR/edinbr-talks). You can also check out each of our posts for links to specific talks.
 
 EdinbR is convened by [Alessia](https://aelissa.github.io/), [Mike](https://mastodon.scot/@mikerspencer) and [Ozan](https://www.linkedin.com/in/ozanevkaya).
 
