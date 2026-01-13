@@ -11,7 +11,7 @@ comments: true
 
 
 
-* Title: Jan 2026: 
+* Title: Jan 2026: Shiny and copula modelling
 * Date: Thursday 22 January 2026, 5.00PM - 6.00PM
 * Location: [LG.08 40 George Square](https://www.accessable.co.uk/the-university-of-edinburgh/central-area/access-guides/lg-08-teaching-room) The University of Edinburgh, [EH8 9JX](https://www.openstreetmap.org/way/5325200)
 * Register: [meetup.com/edinbr/events/312865030](https://www.meetup.com/edinbr/events/312865030/)
