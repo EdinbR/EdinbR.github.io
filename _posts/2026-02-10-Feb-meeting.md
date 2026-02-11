@@ -11,7 +11,7 @@ comments: true
 
 
 
-* Title: Jan 2026: accessibility analysis and interpreting visualisations
+* Title: Feb 2026: accessibility analysis and interpreting visualisations
 * Speakers: Rafael Verduzco-Torres and Simon Taylor
 * Date: Thursday 19 February 2026, 6.00PM - 7.00PM
 * Location: [LG.08 40 George Square](https://www.accessable.co.uk/the-university-of-edinburgh/central-area/access-guides/lg-08-teaching-room) The University of Edinburgh, [EH8 9JX](https://www.openstreetmap.org/way/5325200)
