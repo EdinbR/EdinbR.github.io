@@ -17,6 +17,7 @@ author: 'EdinbR'
 author_image: "/assets/images/edinbr_300.png"
 
 gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
 
