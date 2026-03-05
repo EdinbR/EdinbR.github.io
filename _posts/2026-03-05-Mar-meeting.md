@@ -42,7 +42,7 @@ We will dig under the surface of SQA’s first publicly available Shiny app. In 
  
 [Nevil Hopley](https://www.linkedin.com/in/nevilhopley/), Senior Data Analyst at the Scottish Qualifications Authority
 
-![Choose your own adventure in Shiny development.](assets/images/2026-03_shiny_app_dev.png)
+![Choose your own adventure in Shiny development.](/assets/images/2026-03_shiny_app_dev.png)
 
 ---
 
