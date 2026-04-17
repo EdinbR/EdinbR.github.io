@@ -38,7 +38,7 @@ My research sits at the intersection of Urban Planning, Geography and Computer S
 
 In January we went through the first half of the SQA's shiny app build. Return tonight to hear the rest of the story!
 
-We will dig under the surface of SQA’s first publicly available Shiny app. In keeping with the app’s intended user experience, this talk will be in the format of a ‘choose your own adventure’. This means that the audience will decide which features of the app that they want to hear about, including the hurdles that were overcome during its development. Start exploring the app now at: [http://qualifications.shinyapps.io/nq_progression/](qualifications.shinyapps.io/nq_progression/)
+We will dig under the surface of SQA’s first publicly available Shiny app. In keeping with the app’s intended user experience, this talk will be in the format of a ‘choose your own adventure’. This means that the audience will decide which features of the app that they want to hear about, including the hurdles that were overcome during its development. Start exploring the app now at: [qualifications.shinyapps.io/nq_progression/](http://qualifications.shinyapps.io/nq_progression/)
  
 [Nevil Hopley](https://www.linkedin.com/in/nevilhopley/), Senior Data Analyst at the Scottish Qualifications Authority
 

@@ -23,7 +23,7 @@ comments: true
  
 [Nevil Hopley](https://www.linkedin.com/in/nevilhopley/), Senior Data Analyst at the Scottish Qualifications Authority
 
-We will dig under the surface of SQA’s first publicly available Shiny app. In keeping with the app’s intended user experience, this talk will be in the format of a ‘choose your own adventure’. This means that the audience will decide which features of the app that they want to hear about, including the hurdles that were overcome during its development. Start exploring the app now at: [http://qualifications.shinyapps.io/nq_progression/](qualifications.shinyapps.io/nq_progression/)
+We will dig under the surface of SQA’s first publicly available Shiny app. In keeping with the app’s intended user experience, this talk will be in the format of a ‘choose your own adventure’. This means that the audience will decide which features of the app that they want to hear about, including the hurdles that were overcome during its development. Start exploring the app now at: [qualifications.shinyapps.io/nq_progression/](http://qualifications.shinyapps.io/nq_progression/)
  
 ---
 
