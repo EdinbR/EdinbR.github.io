@@ -38,7 +38,25 @@ Be prepared to share your wisdom and have preconceptions challenged!
 
 [Claire Hayman](https://www.linkedin.com/in/claire-hayman/), Surveillance Information & Data Coordinator at the Animal and Plant Health Agency.
 
+### Outcome
 
+We had a really positive and engaging discussion with contribution from all.
+
+* Organise panes in RStudio (e.g. console on the right)
+* Enable the native pipe
+* Enable rainbow parentheses
+* Highlight function calls
+* Disable workspace and history retention
+* Set font to fierer, which makes pipe prettier
+* Git setup on the system, follow [happy git with R](https://happygitwithr.com/)
+* Setup a Git repository on the remote first, then clone (example remotes are Codeberg, Github, Bitbucket, Gitlab, Forgejo, etc.)
+* Start an RStudio project
+* Consider controlling the environment. However, renv only controls packages, but not wider software (R, system dependencies). Using containers is a more robust approach (advanced)
+* Use .gitignore to keep data out of version control
+* Fetch remote data with a script that checks if a file exists
+* Git [vaccinate](https://usethis.r-lib.org/reference/git_vaccinate.html) (from usethis) to help shield from accidental leaks.
+
+Slides from Claire and Mike: <https://github.com/EdinbR/edinbr-talks/blob/master/2026-04-30/2026-04_project-setup-slides.pdf>
 
 ---
 
