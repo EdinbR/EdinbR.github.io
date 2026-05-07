@@ -26,6 +26,8 @@ Ever needed to use real data where you shouldn't? Maybe you had external collabo
 Mike is an independent data consultant who supports organisations with research, engineering and hands-on data maturity projects. He's a Fellow of the Royal Statistical Society, Member of the Society of Research Software Engineers and also one of the EdinbR conveners.
 Contact Mike through [linkedin](https://www.linkedin.com/in/mikerspencer/) or [mastodon](https://mastodon.scot/@mikerspencer).
 
+Slides: <https://codeberg.org/mikerspencer/workshops/src/branch/main/fake_data/edinbr_slides.pdf>
+
 ---
 
 ## Claire Hayman & Mike Spencer: setting up R for your project
