@@ -32,6 +32,8 @@ I'll also show how a low-cost AI API can add a splash of extra flair!
 [Mayuko](https://www.linkedin.com/in/mayuko-morgan-756b5a4/) is currently immersed in her PhD research at Edinburgh Napier University, exploring the ares of personality-orientated dialogue systems for humanoid robots, following her completion of a Master's Degree in Data Engineering.
 Before starting her PhD, she embraced a squiggly, non-linear career trajectory that took her through diverse fields - from software development to environmental science and geographical information systems - though “data” has always been at the core of her passion!
 
+![Mayuko hanging out with her robots.](/assets/images/2026-05-31_Mayuko.jpeg)
+
 
 ---
 
@@ -52,7 +54,7 @@ He has been developing TDDA for about a decade, and [published a book with that 
 
 
 
-<blockquote class="embedly-card"><h4><a href="luma.com/vv57xyii">June 2026: </a></h4></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<blockquote class="embedly-card"><h4><a href="luma.com/vv57xyii">June 2026 </a></h4></blockquote><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <br/>
 
