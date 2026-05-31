@@ -49,6 +49,7 @@ He has worked in commercial data science, founding Quadstone (in 1995) and Stoch
 He is also a Visiting Professor in Maths and Edinburgh University.
 He has been developing TDDA for about a decade, and [published a book with that name in May 2026](https://book.tdda.info/).
 
+![Nick's book: Test-driven data analysis.](/assets/images/2026-05-31_Nick.jpeg)
 
 ---
 
