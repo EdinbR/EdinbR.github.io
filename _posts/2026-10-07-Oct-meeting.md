@@ -24,6 +24,8 @@ Welcome to our first session of the 2026/2027 season!
  
 ## Etienne Bacher: Jarl, a new R linter
 
+[View Etienne's slides](https://jarl-presentation-edinbr.etiennebacher.com)
+
 No matter their background, all programmers end up writing code that is sometimes incorrect, inefficient, or hard to read.
 Moreover, as AI models become more efficient, it becomes harder to manually review the massive amount of code being produced to ensure it meets certain standards.
 
